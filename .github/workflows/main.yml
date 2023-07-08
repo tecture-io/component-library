@@ -1,0 +1,16 @@
+name: Use Tecture Publisher
+
+on:
+  push:
+    branches: [ '*' ]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Tecture Component Library Publisher
+        uses: USERNAME/tecture-component-library-publisher@v1
+        with:
+          milliseconds: '1000'
