@@ -1,0 +1,4 @@
+{
+  "name": "Lambda Function",
+  "description": "A Lambda function that returns a static string."
+}
