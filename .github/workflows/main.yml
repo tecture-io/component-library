@@ -11,6 +11,6 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Tecture Component Library Publisher
-        uses: tecture-io/component-library-publisher-action@v1.2
+        uses: tecture-io/component-library-publisher-action@v1.5
         with:
           database_key: 'not a secret'
