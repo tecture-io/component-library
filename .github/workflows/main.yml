@@ -1,16 +1,18 @@
 name: Use Tecture Publisher
 
 on:
-  push:
-    branches: [ '*' ]
+  pull_request:
+    types: [closed]
 
 jobs:
   publish:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
       - name: Tecture Component Library Publisher
-        uses: tecture-io/component-library-publisher-action@v1.5
+        uses: tecture-io/component-library-publisher-action@v1.6
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           database_key: 'not a secret'
