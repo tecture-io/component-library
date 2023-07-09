@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Tecture Component Library Publisher
-        uses: tecture-io/component-library-publisher-action@v1.6
+        uses: tecture-io/component-library-publisher-action@v1.8
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           database_key: 'not a secret'
