@@ -15,4 +15,4 @@ jobs:
         uses: tecture-io/component-library-publisher-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          database_key: 'not a secret'
+          database_key: ${{ secrets.DATABASE_KEY }}
