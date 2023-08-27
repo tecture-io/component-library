@@ -1,4 +1,5 @@
 {
   "name": "Lambda Function",
+  "short":"A fully manage serverless function on AWS",
   "description": "A fully manage serverless function on AWS"
 }
