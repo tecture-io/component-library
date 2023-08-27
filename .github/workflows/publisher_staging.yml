@@ -1,8 +1,10 @@
-name: Use Tecture Publisher
+name: Publish to Tecture (Staging)
 
 on:
   pull_request:
     types: [closed]
+    branches:
+      - staging
 
 jobs:
   publish:
@@ -15,5 +17,5 @@ jobs:
         uses: tecture-io/component-library-publisher-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          server_url: ${{ secrets.SERVER_URL }}
-          api_key: ${{ secrets.API_KEY }}
+          server_url: ${{ secrets.SERVER_URL_STAGING }}
+          api_key: ${{ secrets.API_KEY_STAGING }}

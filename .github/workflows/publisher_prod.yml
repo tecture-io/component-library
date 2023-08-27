@@ -1,0 +1,21 @@
+name: Publish to Tecture (Production)
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+
+jobs:
+  publish:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Tecture Component Library Publisher
+        uses: tecture-io/component-library-publisher-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          server_url: ${{ secrets.SERVER_URL_PROD }}
+          api_key: ${{ secrets.API_KEY_PROD }}
