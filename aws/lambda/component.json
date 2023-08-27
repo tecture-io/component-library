@@ -1,4 +1,4 @@
 {
   "name": "Lambda Function",
-  "description": "A serverless compute service that lets you run code without provisioning or managing servers, creating workload-aware cluster scaling logic, maintaining event integrations, or managing runtimes."
+  "description": "A fully manage serverless function on AWS"
 }
