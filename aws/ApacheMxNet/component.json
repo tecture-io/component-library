@@ -1,0 +1,5 @@
+{
+  "name": "Apache MXNet",
+  "short":"An open-source deep learning framework that offers efficient model building, training, and deployment.",
+  "description": "Apache MXNet is an open-source deep learning framework designed to be efficient and flexible, allowing developers to efficiently build, train, and deploy deep learning models. With support for multiple languages such as Python, Scala, and Julia, MXNet provides a comprehensive and versatile ecosystem for various applications including computer vision, natural language processing, and recommendation systems. One of its distinguishing features is the ability to mix symbolic and imperative programming, which makes the framework both powerful and user-friendly. MXNet is optimized for both cloud and edge devices and is supported by major cloud providers, including its integration with AWS services."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Application Auto Scaling",
+  "short":"An AWS service that dynamically adjusts the capacity of supported resources to ensure consistent performance and optimize costs.",
+  "description": "AWS Application Auto Scaling is a service that automatically adjusts the capacity of your scalable AWS resources to maintain steady, predictable performance at the lowest possible cost. It can be applied to a range of AWS services including Amazon ECS tasks, Amazon DynamoDB tables, and Amazon Aurora replicas, among others. Application Auto Scaling lets you define dynamic scaling policies based on CloudWatch metrics, ensuring that your application maintains optimal performance and responsiveness, even during varying load conditions. By automating the scaling process, this service eliminates the need for manual interventions and optimizes resource utilization and costs."
+}
