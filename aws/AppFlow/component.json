@@ -1,0 +1,5 @@
+{
+  "name": "AppFlow",
+  "short":"A fully managed AWS service for secure, real-time data transfer between SaaS applications and AWS services without code.",
+  "description": "AWS AppFlow is a fully managed integration service that enables seamless data transfer between various SaaS applications and AWS services in real-time. With AppFlow, users can securely connect sources like Salesforce, Zendesk, Slack, and many more with destinations such as Amazon S3 or Amazon Redshift, without writing any code. It offers data transformation capabilities, error handling, and supports private connectivity. AppFlow also provides pre-built templates to accelerate setup and ensures data is encrypted in transit and at rest. For applications requiring frequent data flows, like BI, analytics, or machine learning tasks, AppFlow provides an efficient, scalable, and secure solution."
+}
