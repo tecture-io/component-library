@@ -1,0 +1,5 @@
+{
+  "name": "API Gateway Endpoint",
+  "short":"The URL through which AWS API Gateway exposes your deployed API to clients.",
+  "description": "An API Gateway Endpoint refers to the URL that AWS API Gateway generates when you deploy your API. Through this endpoint, client applications can access the defined back-end resources. Depending on the setup, API Gateway can offer various types of endpoints, including Edge-optimized (for global clients), Regional (for clients in the same AWS region), and Private (accessible only within your VPC). Each type is designed to meet specific user needs in terms of latency, cost, and access control. Utilizing the endpoint, developers can expose their services and data, integrate with other systems, or offer functionality to end-users, all while leveraging the scalability and security features provided by AWS."
+}

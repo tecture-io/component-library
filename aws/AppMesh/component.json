@@ -1,0 +1,5 @@
+{
+  "name": "AppMesh",
+  "short":"A service mesh on AWS that standardizes application communication, provides visibility, and ensures high availability across services.",
+  "description": "AWS App Mesh is a service mesh that provides application-level networking, enabling developers to standardize how their services communicate, gain end-to-end visibility, and ensure high availability for their applications. App Mesh makes it easy to run services by providing consistent visibility and network traffic controls for services built across multiple types of compute infrastructure. By integrating with AWS Cloud Map, App Mesh handles service discovery for your applications. It configures each service to export monitoring data to tools like AWS CloudWatch, ensuring developers have a clear understanding of their application's performance and can quickly troubleshoot any issues."
+}
