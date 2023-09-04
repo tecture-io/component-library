@@ -1,5 +1,5 @@
 {
-  "name": "Lambda Function",
-  "short":"A fully manage serverless function on AWS",
-  "description": "AWS Lambda is Amazon's serverless computing service, allowing users to execute code in response to events without managing servers. It's event-driven, scaling automatically to match event volume. Supported by various programming languages like Python and Node.js, Lambda integrates seamlessly with other AWS services. Designed for brief tasks, functions have a 15-minute max runtime. Billing is based on compute time and requests, making it cost-effective. With built-in monitoring and security features, Lambda provides a hassle-free, scalable, and secure computing environment."
+    "name": "AWS Lambda",
+    "short": "A serverless compute service that runs code in response to events and automatically manages the underlying compute resources.",
+    "description": "AWS Lambda is an event-driven, serverless computing platform that allows users to execute code in response to events without the need for server management. It supports languages like Python and Node.js, and integrates seamlessly with other AWS services. Lambda functions have a 15-minute runtime limit and users are billed based on compute time and request count, providing cost efficiency. With integrated monitoring and security, Lambda ensures a scalable and secure computing experience."
 }
