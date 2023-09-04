@@ -1,0 +1,5 @@
+{
+    "name": "Amazon AppStream",
+    "short": "A fully managed streaming service for providing access to applications and desktops hosted in the cloud.",
+    "description": "Amazon AppStream is a cloud-based service that allows users to stream interactive applications from the cloud to any device. It simplifies application deployment, allowing users to access applications from anywhere. AppStream can be used to stream full-featured desktop applications, games, and other streaming media. It also provides secure access, scalability, and cost savings, allowing organizations to focus on core business activities."
+}

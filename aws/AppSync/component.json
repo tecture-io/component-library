@@ -1,0 +1,5 @@
+{
+    "name": "AppSync",
+    "short": "A managed GraphQL service on AWS for application data queries, mutations, and subscriptions.",
+    "description": "Amazon AppSync is a managed serverless GraphQL service that simplifies data management and app development. It provides real-time data synchronization across multiple devices and platforms, allowing users to interact with data from any device. AppSync integrates with AWS services such as DynamoDB, Lambda, and Cognito, as well as external data sources, to enable offline and real-time data access. It also offers automatic conflict resolution, data validation, and authorization, providing a secure and efficient platform for app development."
+}

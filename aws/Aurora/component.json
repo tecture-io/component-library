@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Aurora",
+    "short": "A fully managed, MySQL and PostgreSQL-compatible, relational database service.",
+    "description": "Amazon Aurora is a MySQL and PostgreSQL-compatible relational database engine that is fully managed and highly available. It offers up to 15 times better performance than traditional databases with the same cost savings. Aurora is compatible with existing tools and applications, allowing users to quickly migrate from other databases. Security features include IAM authentication, encryption, and auditing. Its auto-scaling capabilities ensure high availability and cost optimization. With Aurora, users get a high-performance, reliable, and cost-effective database."
+}

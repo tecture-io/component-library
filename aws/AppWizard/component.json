@@ -1,0 +1,5 @@
+{
+    "name": "AWS AppConfig",
+    "short": "A service to configure, manage, and deploy applications with continuous feedback and validation.",
+    "description": "AWS AppConfig is a service that enables developers to quickly deploy application configurations and monitor their applications for both errors and performance. It helps to ensure that applications are properly configured and running smoothly, allowing developers to rapidly respond to changing requirements. AppConfig integrates with AWS services such as AWS Lambda, Amazon EC2, Amazon ECS, and AWS Fargate, and enables developers to use either an API or a console to deploy application configurations. AppConfig also provides metrics and insights into application performance, helping to ensure a smooth user experience."
+}
