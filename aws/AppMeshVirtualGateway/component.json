@@ -1,0 +1,5 @@
+{
+    "name": "AWS AppMesh Virtual Gateway",
+    "short": "A service mesh that provides application-level networking features to make it easier for microservices to communicate.",
+    "description": "AWS App Mesh is an service mesh that makes it easy to monitor and control communication between services. It helps manage traffic routing, secure communications, and service discovery, allowing applications to scale quickly and securely. App Mesh integrates with service discovery and identity management tools, giving users visibility into the performance of their applications. App Mesh also simplifies routing and load balancing decisions, letting users quickly respond to changes in application performance."
+}

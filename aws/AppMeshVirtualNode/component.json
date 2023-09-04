@@ -1,0 +1,5 @@
+{
+    "name": "AppMesh Virtual Node",
+    "short": "A managed service that makes it easy to monitor and control communications between microservices applications on AWS.",
+    "description": "Amazon App Mesh is a service for managing and monitoring microservices applications. It simplifies application networking by providing a uniform way to discover, connect, and monitor services. With App Mesh, users can easily monitor and control traffic across services, get detailed performance metrics, and ensure services are highly available. It also offers advanced features like traffic routing, service discovery, and automatic retry for improved reliability and scalability."
+}

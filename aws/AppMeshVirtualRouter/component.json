@@ -1,0 +1,5 @@
+{
+    "name": "AppMesh Virtual Router",
+    "short": "A service for microservices applications to monitor and control communication between services.",
+    "description": "AWS App Mesh is a service mesh that makes it easy to manage, monitor, and secure microservices applications. It provides features like service discovery, traffic routing, circuit breakers, and transparent encryption. It integrates with other AWS services like ECS, Kubernetes, and Lambda, providing end-to-end visibility and fault-tolerance. App Mesh offers a highly scalable and secure control plane to help developers build reliable and resilient applications."
+}
