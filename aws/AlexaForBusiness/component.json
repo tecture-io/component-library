@@ -1,5 +1,5 @@
 {
-  "name": "Alexa For Business",
-  "short":"Alexa-powered voice assistant tailored for business operations and efficiency on AWS.",
-  "description": "AWS Alexa for Business is a service designed to aid businesses in utilizing Alexa voice assistant capabilities across their organization. By integrating with existing business processes and tools, Alexa for Business helps enhance corporate efficiency. Use cases range from simplifying conference room bookings to hands-free IT helpdesk requests. Users can customize Alexa's responses for specific company-related queries or set up private skills relevant only to their organization. By introducing voice-enabled tasks and automations, Alexa for Business paves the way for a more intuitive and accessible workspace."
+    "name": "Amazon Alexa for Business",
+    "short": "A service on AWS that enables businesses to use Alexa to voice-enable their workspace, by providing tools to manage Alexa devices, enroll users, and assign skills at scale.",
+    "description": "Amazon Alexa for Business is a service that integrates Alexa\u2019s voice recognition technology into a corporate environment. It enhances organizational productivity by automating tasks like scheduling meetings, setting reminders, or providing information. It can also control office equipment and manage conference rooms. With private skills, businesses can build custom voice applications for their needs. As part of the AWS ecosystem, it leverages AWS's security and scalability, providing a modern, seamless, voice-interactive business experience."
 }

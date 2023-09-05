@@ -1,0 +1,5 @@
+{
+    "name": "AWS App Mesh Virtual Node",
+    "short": "A component of AWS App Mesh that represents a logical pointer to a particular task group, such as an Amazon ECS service or a Kubernetes deployment.",
+    "description": "An AWS App Mesh Virtual Node acts as a logical pointer to a particular task group, such as an ECS service or a Kubernetes deployment. It abstracts the complexities of service discovery and load balancing, enabling microservices to easily communicate. Services are defined by their virtual nodes, which then use service discovery to locate other services or resources. It provides granular control to configure traffic routing, retries, and timeouts, facilitating resilience and robustness in your applications."
+}

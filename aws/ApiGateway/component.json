@@ -1,5 +1,5 @@
 {
-  "name": "API Gateway",
-  "short":"A managed service on AWS for creating, publishing, and securing APIs at scale.",
-  "description": "AWS API Gateway is a managed service that allows developers to create, publish, monitor, and secure APIs at any scale. With API Gateway, developers can connect various back-end services such as Lambda functions, EC2 instances, or any web application to create a well-defined RESTful API or WebSocket API. It provides features like traffic management, throttling, caching, and CORS support. API Gateway also integrates with AWS security features, allowing for authentication and authorization via AWS Identity and Access Management (IAM), Cognito, and more. The service simplifies the process of creating robust, scalable, and secure APIs while allowing developers to focus on their core application logic."
+    "name": "Amazon API Gateway",
+    "short": "A service in AWS that allows developers to create, deploy, and manage scalable and secure APIs.",
+    "description": "Amazon API Gateway is a fully managed service that helps developers create, publish, maintain, monitor, and secure APIs at any scale. It supports RESTful and WebSocket APIs and connects them to services such as AWS Lambda or any web application. With features like traffic management, API version control, and access control, it simplifies the process of developing connected applications. Its integration with AWS Identity and Access Management ensures secure access control. It also offers built-in DDoS protection."
 }

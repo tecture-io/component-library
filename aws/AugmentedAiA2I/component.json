@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Augmented AI (Amazon A2I)",
+    "short": "An AWS service that makes it easy to build workflows for human review of machine learning predictions.",
+    "description": "Amazon Augmented AI (A2I) is a service that makes it easy to build the workflows required for human review of machine learning predictions. It allows developers to add a human review to any machine learning model to improve the model's accuracy. A2I can be integrated with AWS machine learning services like Rekognition and Textract, or any custom machine learning model. It provides built-in workflows for common machine learning use cases and supports custom workflows for virtually any machine learning application."
+}

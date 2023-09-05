@@ -1,5 +1,5 @@
 {
-  "name": "Apache MXNet",
-  "short":"An open-source deep learning framework that offers efficient model building, training, and deployment.",
-  "description": "Apache MXNet is an open-source deep learning framework designed to be efficient and flexible, allowing developers to efficiently build, train, and deploy deep learning models. With support for multiple languages such as Python, Scala, and Julia, MXNet provides a comprehensive and versatile ecosystem for various applications including computer vision, natural language processing, and recommendation systems. One of its distinguishing features is the ability to mix symbolic and imperative programming, which makes the framework both powerful and user-friendly. MXNet is optimized for both cloud and edge devices and is supported by major cloud providers, including its integration with AWS services."
+    "name": "Amazon SageMaker",
+    "short": "A machine learning service on AWS that enables developers to build, train, and deploy machine learning models quickly.",
+    "description": "Amazon SageMaker is a fully-managed service that empowers developers and data scientists to build, train, and deploy machine learning (ML) models quickly. It provides an integrated Jupyter authoring notebook for easy access to data sources for exploration and analysis. It supports various ML algorithms, or bring your own. With SageMaker, users can scale and tune models automatically, reducing time and resources. Its secure, high-performance runtime makes it easier to deploy production-ready, real-time ML applications."
 }
