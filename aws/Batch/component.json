@@ -1,0 +1,5 @@
+{
+    "name": "AWS Batch",
+    "short": "A service on AWS that enables developers to easily and efficiently run hundreds of thousands of batch computing jobs.",
+    "description": "AWS Batch is a service that enables developers to easily and efficiently run batch computing workloads on the AWS platform. It dynamically provisions the optimal quantity and type of compute resources based on the volume and specific requirements of batch jobs. With AWS Batch, you don't need to install or manage batch computing software, allowing you to focus on analyzing results and solving problems. It seamlessly integrates with AWS services like EC2, ECS, and CloudWatch for an end-to-end batch processing workflow."
+}

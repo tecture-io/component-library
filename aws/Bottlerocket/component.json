@@ -1,0 +1,5 @@
+{
+    "name": "Bottlerocket",
+    "short": "An open-source, Linux-based operating system designed by AWS for running containers on virtual machines or bare metal hosts.",
+    "description": "Bottlerocket is an open-source Linux-based operating system developed by AWS specifically for running containers. It offers minimal, consistent updates and configurations to reduce the maintenance and operational overheads. It comes with built-in support for AWS services such as ECR, ECS, and EKS, and supports security standards out of the box. It's optimized for high performance, high uptime, and less resource usage, which makes it highly suitable for running containerized workloads in the cloud."
+}

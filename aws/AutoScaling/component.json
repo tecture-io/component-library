@@ -1,0 +1,5 @@
+{
+    "name": "AWS Auto Scaling",
+    "short": "A service that automatically adjusts resource capacity in AWS to maintain steady, predictable performance at the lowest possible cost.",
+    "description": "AWS Auto Scaling is a service that automatically adjusts resources to maintain optimal performance and manage costs. It works across services like EC2, DynamoDB, and Aurora, adjusting capacity in response to traffic patterns, ensuring optimal resource utilization. Users can define scaling policies based on CPU usage, network traffic, or custom metrics. Auto Scaling offers a balance between cost-effectiveness and performance by automatically scaling resources up or down as demand fluctuates, making it ideal for applications with variable workloads."
+}
