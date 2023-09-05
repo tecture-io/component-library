@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Aurora Provisioned IOPS",
+    "short": "A feature of Amazon Aurora that allows for the provisioning of input/output operations per second for faster and more predictable performance.",
+    "description": "Amazon Aurora Provisioned IOPS is a feature offering high performance for database workloads that require consistent and fast response times. It's designed for IO-intensive, transaction-heavy database operations, providing a specified level of IO capacity that remains constant, regardless of the database's load or activity. It's an ideal solution for large-scale, enterprise-grade applications needing to process large amounts of data quickly and reliably. Provisioned IOPS can be adjusted to meet changing demands, ensuring optimal performance."
+}
