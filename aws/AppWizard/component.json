@@ -1,5 +1,5 @@
 {
-    "name": "AWS AppConfig",
-    "short": "A service to configure, manage, and deploy applications with continuous feedback and validation.",
-    "description": "AWS AppConfig is a service that enables developers to quickly deploy application configurations and monitor their applications for both errors and performance. It helps to ensure that applications are properly configured and running smoothly, allowing developers to rapidly respond to changing requirements. AppConfig integrates with AWS services such as AWS Lambda, Amazon EC2, Amazon ECS, and AWS Fargate, and enables developers to use either an API or a console to deploy application configurations. AppConfig also provides metrics and insights into application performance, helping to ensure a smooth user experience."
+    "name": "AWS App Runner",
+    "short": "A fully managed service on AWS that makes it easy for developers to quickly build, deploy, and scale containerized applications.",
+    "description": "AWS App Runner is a service that simplifies the process of building, deploying, and scaling containerized applications. Users can provide source code or containers, and App Runner automatically builds and deploys the application, taking care of infrastructure management. It supports continuous deployment through integration with repositories like GitHub. Ideal for rapid application development and iterative updates, App Runner offers an efficient, scalable solution for application deployment and operation in the AWS cloud."
 }

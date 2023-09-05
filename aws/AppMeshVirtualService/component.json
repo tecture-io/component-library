@@ -1,5 +1,5 @@
 {
-    "name": "AppMesh Virtual Service",
-    "short": "A managed service that makes it easy to monitor and control microservices applications on AWS.",
-    "description": "AWS App Mesh is an AWS service that simplifies the management of microservices. It provides an application-level networking layer, allowing developers to easily connect and monitor microservices. It works with popular container services such as ECS and EKS, and integrates with existing AWS services such as IAM, CloudWatch, and X-Ray. App Mesh provides features such as traffic control, service discovery, and end-to-end visibility, making it a powerful tool for building distributed applications."
+    "name": "AWS App Mesh Virtual Service",
+    "short": "A service mesh on AWS that provides application-level networking to standardize how your services communicate, providing end-to-end visibility and ensuring high-availability for your applications.",
+    "description": "AWS App Mesh Virtual Service is a named locator to which all traffic is directed within the App Mesh service mesh architecture. It abstracts the actual services or tasks running in the background. Virtual services can be associated with multiple virtual nodes (actual services) and are useful in scenarios like A/B testing or canary deployments. It allows fine-grained control and observability for modern service-to-service communication, enhancing the reliability and agility of your applications."
 }

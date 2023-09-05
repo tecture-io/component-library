@@ -1,5 +1,5 @@
 {
-    "name": "AWS Config",
-    "short": "A service to monitor, audit, and evaluate your AWS resource configurations.",
-    "description": "AWS Config is a service that tracks and records AWS resource configurations, providing insight into changes, compliance, or security issues. It records configuration changes to resources like EC2 instances, IAM users, and S3 buckets. It provides detailed reports and can trigger alarms when critical changes occur. It integrates with other AWS services like CloudTrail, SNS, and CloudWatch Events, to ensure a comprehensive and secure monitoring system. AWS Config is a powerful tool for auditing, governance, and security."
+    "name": "AWS AppConfig",
+    "short": "A service that enables AWS users to create, manage, and quickly deploy application configurations.",
+    "description": "AWS AppConfig is a service that enables application owners to manage, deploy, and monitor application configurations without downtime. This service facilitates the implementation of configuration changes in a controlled manner, with the ability to validate changes before deployment. It also supports rollback if issues arise. Integrated with AWS Systems Manager, it allows developers to create a configuration data central repository. AWS AppConfig is instrumental in promoting operational stability while enhancing the speed and agility of application updates."
 }

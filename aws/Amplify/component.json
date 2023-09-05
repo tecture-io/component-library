@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Amplify",
-    "short": "A set of tools and services for developing and deploying cloud-powered mobile and web applications.",
-    "description": "Amazon Amplify is an AWS service that simplifies the development of cloud-based applications. It provides a set of tools and services that allow developers to quickly create, configure, and deploy cloud-based applications. It offers features such as authentication, authorization, hosting, API gateway, analytics, and more. Amplify provides an intuitive UI for configuring services, and allows developers to focus on creating the logic for their app, rather than managing infrastructure."
+    "name": "AWS Amplify",
+    "short": "A development platform on AWS for building secure, scalable mobile and web applications.",
+    "description": "AWS Amplify is a development platform that helps build secure, scalable mobile and web applications. It provides tools to configure back-end services like authentication, storage, and APIs, and connects seamlessly with popular front-end frameworks like React and Angular. Amplify also supports continuous deployment and hosting for web apps, with simple command line interface for deployment. It integrates with AWS services like Cognito, AppSync, and S3, making it easier for developers to add complex features to their apps."
 }

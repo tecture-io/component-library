@@ -1,5 +1,5 @@
 {
     "name": "Amazon Athena",
-    "short": "A serverless query service on AWS that allows users to analyze data stored in Amazon S3 using SQL.",
-    "description": "Amazon Athena is an interactive query service that makes it easy to analyze data stored in Amazon S3 using standard SQL. With a few clicks in the console, users can create a query statement and receive immediate results. Athena supports data formats like CSV, JSON, Parquet, and ORC and can be used for data lake exploration, cost optimization, and business intelligence. It is serverless, so users pay only for the queries they run, offering cost efficiency. It integrates with other AWS services, making it secure and reliable."
+    "short": "A serverless, interactive query service that allows you to analyze data stored in Amazon S3 using standard SQL.",
+    "description": "Amazon Athena is an interactive query service that makes it easy to analyze data directly in Amazon S3 using standard SQL. It requires no infrastructure to manage and scales automatically, executing queries in parallel. Athena handles complex analysis, including large joins, window functions, and arrays. It integrates with AWS Glue for easy data cataloging and ETL jobs. Users pay only for the queries they run, making Athena a cost-effective choice for data analysis. Athena supports CSV, JSON, ORC, Avro, and Parquet formats."
 }

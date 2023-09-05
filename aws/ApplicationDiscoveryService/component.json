@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Application Discovery Service",
-    "short": "A service for discovering and assessing the applications running in your data centers or on cloud infrastructure.",
-    "description": "Amazon Application Discovery Service (ADS) is an AWS service that discovers an organization's on-premises applications and their associated infrastructure. By scanning networks, ADS discovers the relationships between servers and applications, providing an inventory of on-premises systems and their dependencies. This offers organizations insight into their environments and the ability to plan cloud migration, as well as analyze their current IT assets. ADS works with the latest versions of AWS servers, as well as older operating systems like Windows Server 2008 and Linux."
+    "name": "AWS Application Discovery Service",
+    "short": "A tool provided by AWS that helps enterprise customers plan migration projects by gathering information about their on-premises data centers.",
+    "description": "AWS Application Discovery Service aids in planning migration projects by collecting and presenting configuration, usage, and behavior data from on-premises servers. It identifies applications, their interactions, and dependencies, helping to determine migration strategies. It supports both agentless and agent-based discovery. Collected data is retained in encrypted format for security. The service integrates with AWS Migration Hub, providing a comprehensive view to accelerate migration to AWS, reducing risk and complexity."
 }

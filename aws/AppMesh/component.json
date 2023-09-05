@@ -1,5 +1,5 @@
 {
-    "name": "Amazon App Mesh",
-    "short": "A service mesh that provides application-level networking for microservices running on AWS.",
-    "description": "Amazon App Mesh is a service that makes it easy to manage and monitor microservices applications. It provides an intelligent network that routes requests and traffic to the correct services, allowing developers to control and manage how traffic is routed. It also provides consistent observability, enabling developers to monitor service health and performance, and quickly identify and fix issues. App Mesh also provides service discovery features, allowing developers to quickly and easily connect services together for a seamless experience."
+    "name": "AWS App Mesh",
+    "short": "A service mesh on AWS that provides application-level networking to make it easy for your services to communicate with each other across multiple types of compute infrastructure.",
+    "description": "AWS App Mesh is a service mesh that provides application-level networking to make it easy for your services to communicate with each other across multiple types of compute infrastructure. It standardizes how services communicate, giving end-to-end visibility and helping to ensure high-availability for your applications. With App Mesh, you can use consistent communication control logic across your services, and adjust your network setup easily, all without changing your application code."
 }

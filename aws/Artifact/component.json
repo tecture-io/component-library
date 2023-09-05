@@ -1,5 +1,5 @@
 {
-    "name": "AWS Artifact.",
-    "short": "A secure website for customers to access, manage, and download AWS compliance reports.",
-    "description": "AWS Artifact is a cloud-based platform for managing and auditing compliance with AWS's security and governance standards. It provides access to AWS's security and compliance documents, including AWS's Service Organization Control (SOC) reports, PCI DSS reports, and ISO certification documents. It also allows users to upload their own documents and keep them in one secure location. AWS Artifact is an invaluable tool for keeping track of compliance and ensuring the security of data on AWS."
+    "name": "AWS Artifact",
+    "short": "A service that provides on-demand access to AWS' security and compliance reports and select online agreements.",
+    "description": "AWS Artifact is a portal that provides access to AWS compliance reports and select online agreements. Users can download audit reports to meet compliance requirements for their cloud-based workloads. The reports cover multiple standards like GDPR, ISO, PCI DSS, and more. Additionally, it provides on-demand access to AWS Cloud agreements for easier review and acceptance. With AWS Artifact, users can manage compliance documentation efficiently, promoting transparency and trust in AWS services."
 }
