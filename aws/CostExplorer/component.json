@@ -1,0 +1,5 @@
+{
+    "name": "AWS Cost Explorer",
+    "short": "A tool on AWS that enables users to visualize, understand, and manage their AWS costs and usage over time.",
+    "description": "AWS Cost Explorer is a tool that visualizes, understands, and manages AWS costs and usage over time. It provides detailed insights into where costs are coming from and how they are trending. Users can filter and aggregate data, create custom reports, and forecast future costs. It helps identify patterns, uncover cost drivers, and detect anomalies, enabling effective cost management. With its easy-to-use interface and powerful analysis capabilities, Cost Explorer aids in optimizing AWS resource utilization and reducing overall expenditure."
+}

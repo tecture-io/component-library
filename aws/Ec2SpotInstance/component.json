@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 Spot Instances",
+    "short": "A bidding-based compute pricing model in AWS where you can purchase spare Amazon EC2 computing capacity at a significant discount.",
+    "description": "Amazon EC2 Spot Instances are a cost-effective choice for running applications and have flexible start and end times. Spot Instances are available at up to a 90% discount compared to On-Demand prices. They are best suited for data analysis, batch jobs, background processing, and optional tasks. However, they can be interrupted by Amazon EC2 with two minutes of notification when Amazon EC2 needs the capacity back. This makes them well-suited for fault-tolerant and flexible applications."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 R5 Instances",
+    "short": "High performance memory optimized instances on AWS EC2 that are ideal for memory intensive applications.",
+    "description": "Amazon EC2 R5 instances are a part of Amazon's Elastic Compute Cloud (EC2) service, designed for memory-intensive applications. They offer a balance of compute, memory, and network resources. Ideal for high-performance databases, distributed web scale in-memory caches, mid-size in-memory databases and real-time big data analytics, R5 instances feature the AWS Nitro System, a combination of dedicated hardware and lightweight hypervisor, which delivers practically all of the compute and memory resources of the host hardware to your database workloads."
+}

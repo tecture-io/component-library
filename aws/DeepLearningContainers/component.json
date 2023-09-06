@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Deep Learning Containers",
+    "short": "A ready-to-use container service from AWS that's pre-installed with deep learning frameworks for machine learning workflows.",
+    "description": "Amazon Deep Learning Containers are Docker images pre-installed with deep learning frameworks to facilitate machine learning workflows. Supported frameworks include TensorFlow, PyTorch, and Apache MXNet, among others. These containers can be easily deployed on AWS services like EC2, ECS, and EKS, or on-premises infrastructures. They are optimized for performance and compatibility, ensuring consistent environments across teams. With Deep Learning Containers, developers can focus on model development and training, accelerating AI innovation."
+}

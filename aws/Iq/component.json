@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Quicksight",
+    "short": "A business intelligence service on AWS that allows you to create and publish interactive dashboards and reports.",
+    "description": "Amazon Quicksight is an AWS cloud-powered business analytics service designed to visualize data and share insights. It can connect to various data sources within AWS or on-premise databases, and generate dashboards or reports for business intelligence. With its ML-powered anomaly detection and forecasting, Quicksight can provide advanced insights. It offers pay-per-session pricing, making it cost-effective for many users. Quicksight is scalable, secure, and accessible from any device, enhancing business decision-making."
+}

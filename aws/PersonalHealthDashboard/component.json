@@ -1,0 +1,5 @@
+{
+    "name": "AWS Personal Health Dashboard",
+    "short": "A service that provides alerts and remediation guidance when AWS is experiencing events that may impact your account.",
+    "description": "The AWS Personal Health Dashboard is a tool that provides real-time visibility into the performance and availability of AWS services used by an account. It delivers alerts and remediation guidance when AWS experiences events that may impact your resources. This dashboard helps in managing and optimizing AWS services by giving a personalized view of the status of AWS services, and automated alerts when those services experience issues, ensuring high operational performance and service availability."
+}

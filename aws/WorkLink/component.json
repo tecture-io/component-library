@@ -1,0 +1,5 @@
+{
+    "name": "Amazon WorkLink",
+    "short": "A fully managed service on AWS that allows secure, one-click access to internal websites and web apps from mobile devices.",
+    "description": "Amazon WorkLink is an AWS service designed to provide secure, one-click access to internal websites and web apps from mobile devices. Without moving data or content to the device, it renders a view of the webpage in a browser running in a secure container in AWS. This ensures data remains within your network, reducing the risk of information loss. It supports both iOS and Android devices and integrates with existing enterprise management systems, making it a secure, simple solution for mobile access."
+}

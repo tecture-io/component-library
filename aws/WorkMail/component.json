@@ -1,0 +1,5 @@
+{
+    "name": "Amazon WorkMail",
+    "short": "A secure, managed business email and calendar service with support for existing desktop and mobile email clients.",
+    "description": "Amazon WorkMail is a managed, secure business email and calendar service by AWS. It supports existing desktop and mobile email clients, offering seamless access to email, contacts, and calendars. With robust security measures including encryption of data at rest and in transit, AWS managed keys via Key Management Service, and virus protection, WorkMail ensures data safety. It integrates with existing corporate directories and allows for custom email domain setup. Allowing 50GB mailbox and easy migration, it facilitates organized, secure communication."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon VPC Internet Gateway",
+    "short": "A gateway that allows communication between instances in your Virtual Private Cloud (VPC) and the internet.",
+    "description": "An Amazon VPC Internet Gateway is a horizontally scalable, redundant, and highly available AWS service that enables instances in a virtual private cloud (VPC) to access the internet. It serves as a connection point between your VPC and the internet, allowing bi-directional communication. It's essential for instances that require direct public internet access, such as web servers and application servers. Its integration with AWS services and features like route tables, network access control lists, and security groups ensures secure and controlled traffic flow."
+}

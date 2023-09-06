@@ -1,0 +1,5 @@
+{
+    "name": "AWS Service Catalog",
+    "short": "A service on AWS that allows organizations to create and manage catalogs of IT services that are approved for use on AWS.",
+    "description": "AWS Service Catalog is a management service that enables organizations to create, manage, and distribute catalogs of approved IT services on AWS. It helps to achieve consistent governance and compliance requirements, while enabling users to quickly deploy only the approved IT services they need. The service catalog provides a single location where organizations can centrally manage catalogs of IT services, minimizing risks and streamlining the process of managing multiple AWS resources."
+}

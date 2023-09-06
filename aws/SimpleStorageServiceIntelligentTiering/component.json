@@ -1,0 +1,5 @@
+{
+    "name": "Amazon S3 Intelligent-Tiering",
+    "short": "An AWS service that optimizes costs by automatically moving data to the most cost-effective access tier, based on how frequently you access each object.",
+    "description": "Amazon S3 Intelligent-Tiering is a cost-optimization feature in Amazon S3 that automatically moves data to the most cost-effective storage tier. It's designed for data with unknown or changing access patterns. It has four access tiers: frequent, infrequent, archive, and deep archive. The service monitors access patterns and transitions objects between tiers without performance impact or operational overhead. Users pay a small monthly monitoring and auto-tiering fee, but they can save significant storage costs in the long run."
+}

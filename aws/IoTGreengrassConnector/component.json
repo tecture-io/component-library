@@ -1,0 +1,5 @@
+{
+    "name": "AWS IoT Greengrass",
+    "short": "A software extension for AWS IoT that provides local compute, messaging, data caching, and sync capabilities for connected devices.",
+    "description": "AWS IoT Greengrass seamlessly extends AWS to edge devices, enabling them to act locally on the data they generate while still using the cloud for management, analytics, and storage. It lets connected devices operate with latency and bandwidth constraints. Features include local compute, messaging, data caching, and sync capabilities. IoT Greengrass integrates with AWS services for machine learning, analytics, etc. It enhances IoT solutions by offering real-time response, data privacy, and reduced costs."
+}

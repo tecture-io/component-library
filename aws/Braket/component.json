@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Braket",
+    "short": "A service on AWS that provides a development environment to explore and design quantum algorithms.",
+    "description": "Amazon Braket is a fully managed quantum computing service that helps researchers and developers begin experimenting with quantum computing. It offers a development environment to explore and build quantum algorithms, test them on simulated quantum computers, and run them on different quantum hardware types. Its integration with other AWS services enhances its computational capabilities. Braket is designed to advance the field of quantum computing and pave the way for new discoveries and applications."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS IoT Analytics Data Store",
+    "short": "A service in AWS that allows you to store, view, and analyze IoT data.",
+    "description": "AWS IoT Analytics Data Store is a managed service that enables advanced analysis of data from IoT devices. It collects, processes, enriches, and stores large amounts of IoT data. It can automatically identify useful data and discard irrelevant data, reducing storage costs. It supports time-series data and integrates with machine learning tools for predictive analytics. With its robust data management and analytics features, it simplifies deriving insights from complex IoT data, aiding smarter decision-making."
+}

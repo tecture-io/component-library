@@ -1,0 +1,5 @@
+{
+    "name": "AWS Outposts",
+    "short": "A fully managed service that extends AWS infrastructure, services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience.",
+    "description": "AWS Outposts is a fully managed service that extends AWS infrastructure, services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility. It's an ideal solution for workloads that need low latency access to on-premises systems, local data processing, or local data storage. It seamlessly integrates with other AWS services for a consistent hybrid experience. Users gain the flexibility of cloud computing while retaining the control and security of on-premises infrastructure."
+}

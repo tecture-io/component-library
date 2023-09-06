@@ -1,0 +1,5 @@
+{
+    "name": "AWS Systems Manager Patch Manager",
+    "short": "A service within AWS Systems Manager that helps you automate the process of patching managed instances.",
+    "description": "AWS Systems Manager Patch Manager is a service that assists in managing patches for your EC2 instances and on-premises servers. It allows automated scheduling of patching operations, defining patch baselines, compliance reporting, and more. This facilitates consistency and compliance in your infrastructure. It supports both Windows and Linux operating systems, and integrates with IAM for secure access management. Patch Manager simplifies the patch management process, ensuring your systems are up-to-date and secure, saving time and reducing operational risks."
+}

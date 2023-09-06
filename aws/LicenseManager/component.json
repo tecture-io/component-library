@@ -1,0 +1,5 @@
+{
+    "name": "AWS License Manager",
+    "short": "A service on AWS that simplifies the management of software licenses across different software vendors and AWS services.",
+    "description": "AWS License Manager is a service that aids in the management of software licenses from various vendors across AWS and on-premises. This service simplifies the compliance of licenses needed when operating in a multi-account, multi-region and hybrid environments. It streamlines the process of moving enterprise software licenses to the cloud, reduces the risk of non-compliance, overbuying or underusing licenses. It provides centralized visibility into license usage making audits less disruptive."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS Shield",
+    "short": "A managed service on AWS providing protection against DDoS attacks to your applications.",
+    "description": "AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. It provides automatic DDoS detection and mitigation, keeping applications available during attacks. There are two tiers: Shield Standard, which is free and defends against most common DDoS attacks, and Shield Advanced, a subscription service providing cost protection, 24/7 DDoS response team access, and protection for non-AWS resources. It's integrated with AWS services for seamless security management."
+}

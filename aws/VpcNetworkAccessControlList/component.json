@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Virtual Private Cloud (VPC) Network Access Control List (ACL)",
+    "short": "A security feature within Amazon VPC that provides a virtual firewall for controlling inbound and outbound traffic at the subnet level.",
+    "description": "Amazon VPC Network Access Control List (ACL) is a security layer for your VPC that acts as a firewall controlling inbound and outbound traffic at the subnet level. It has numbered rules affecting traffic based on IP protocol, service port, and source/destination IP. With stateless rules, each packet passing through the ACL is evaluated individually. It provides an additional security layer, complementing Security Groups, which operate at the instance level. It helps maintain a secure and controlled networking environment."
+}

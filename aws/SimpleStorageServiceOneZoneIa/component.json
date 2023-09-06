@@ -1,0 +1,5 @@
+{
+    "name": "Amazon S3 One Zone-Infrequent Access",
+    "short": "A cost-effective Amazon S3 storage class for infrequently accessed data stored in a single availability zone.",
+    "description": "Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA) is a cost-effective AWS storage class for infrequently accessed data. It stores data in a single AWS Availability Zone, making it cheaper than other S3 storage classes, but with less redundancy. It's ideal for secondary backup copies, or data easily re-created. It offers the same high durability, throughput, and low latency as other S3 classes. S3 One Zone-IA ensures that businesses can manage and scale their storage needs economically without sacrificing performance."
+}

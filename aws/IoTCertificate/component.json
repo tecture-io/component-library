@@ -1,0 +1,5 @@
+{
+    "name": "AWS IoT Core",
+    "short": "A managed cloud platform on AWS that lets connected devices easily and securely interact with cloud applications and other devices.",
+    "description": "AWS IoT Core is a managed cloud service allowing connected devices to interact easily and securely with cloud applications and other devices. It can process and route messages to AWS endpoints and other devices reliably and securely. With IoT Core, applications can keep track of and communicate with all devices, all the time, even when they are not connected. It supports HTTP, WebSockets, and MQTT, a protocol designed specifically for device communication. AWS IoT Core makes it easy to use AWS and Amazon services for building IoT applications."
+}

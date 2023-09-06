@@ -1,0 +1,5 @@
+{
+    "name": "AWS Cost and Usage Report",
+    "short": "A service that provides comprehensive AWS usage data, including detailed cost information, for analysis and budgeting purposes.",
+    "description": "The AWS Cost and Usage Report is a detailed breakdown of your AWS usage and costs. It provides comprehensive data about your consumption of AWS services, pricing, and overall expense. You can customize and schedule these reports for daily or monthly intervals, helping you track and manage expenses effectively. The data can be downloaded in CSV format or sent to Amazon S3 for storage and further analysis. It's an essential tool for budgeting, cost optimization, and gaining insights into your AWS environment."
+}

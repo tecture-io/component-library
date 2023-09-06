@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Macie",
+    "short": "An AWS service that uses machine learning to automatically discover, classify, and protect sensitive data like Personally Identifiable Information (PII).",
+    "description": "Amazon Macie is a security service that uses machine learning to automatically discover, classify, and protect sensitive data like Personally Identifiable Information (PII). It provides an inventory of Amazon S3 data and alerts when it detects risk of unauthorized access or inadvertent data leaks. Regularly scanning your S3 resources, Macie identifies and categorizes data types, further enabling governance and compliance. Its dashboard visualizes data storage, usage, and security trends, promoting secure, organized, and efficient data management."
+}

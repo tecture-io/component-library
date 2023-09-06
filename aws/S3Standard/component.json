@@ -1,0 +1,5 @@
+{
+    "name": "Amazon S3 Standard Storage",
+    "short": "A durable and scalable object storage service on AWS for data archiving, backup and recovery, and more.",
+    "description": "Amazon S3 Standard Storage is a highly scalable, reliable, and low-latency data storage service from AWS. It offers 99.999999999% durability and 99.99% availability, ensuring data integrity and accessibility. It provides comprehensive security and compliance capabilities, and supports three different forms of encryption. Ideal for various use cases like backup, restore, archive, and big data analytics, it charges users based on the storage used. Its versatile management features help users organize data and configure finely-tuned access controls."
+}

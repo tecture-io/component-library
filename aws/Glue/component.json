@@ -1,0 +1,5 @@
+{
+    "name": "AWS Glue",
+    "short": "A fully managed extract, transform, and load (ETL) service that makes it easy to prepare and load your data for analytics.",
+    "description": "AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy to prepare and load data for analytics. It discovers and catalogs metadata from various data sources in a centralized data catalog, and generates ETL code in Python or Scala. Glue can handle both batch and real-time ETL jobs, and is integrated with AWS services like S3, RDS, and Redshift. It simplifies data preparation, transformation, and loading, enabling robust data analysis solutions."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS Storage Gateway",
+    "short": "A hybrid storage service that enables your on-premises applications to seamlessly use AWS cloud storage.",
+    "description": "AWS Storage Gateway is a hybrid cloud storage service, enabling on-premises applications to use AWS cloud storage. It provides seamless integration with S3, Glacier, and EBS, offering file, volume, and tape gateways. File gateways allow for file interface into S3, volume gateways provide block storage via iSCSI, and tape gateways offer cost-effective archival. With features like data transfer optimization and automated backup, it ensures secure, efficient, and durable storage, bridging the gap between on-premises and cloud environments."
+}

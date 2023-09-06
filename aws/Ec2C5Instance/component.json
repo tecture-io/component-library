@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 C5 Instance",
+    "short": "A high compute optimized virtual server provided by AWS with Intel's Scalable Processors.",
+    "description": "Amazon EC2 C5 Instances are a part of the Amazon EC2 service, providing high compute power for workloads that require high processing speed. It is based on the 3rd generation Intel Xeon Scalable processors, offering up to 100 Gbps of network bandwidth and 12 Gbps of dedicated storage bandwidth. Ideal for high-performance computing, data analytics, and machine learning inference workloads. Pricing is flexible with options for on-demand, reserved, and spot instances, helping to optimize cost."
+}

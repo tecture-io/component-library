@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Textract",
+    "short": "A service that automatically extracts text and data from scanned documents on AWS.",
+    "description": "Amazon Textract is an AWS service that extracts text and data from scanned documents. It goes beyond simple OCR (Optical Character Recognition) to identify the contents of fields in forms and information stored in tables. It can process millions of document pages in a few hours. With Textract, users can automate document workflows, enhance customer service, and efficiently manage data extraction. It integrates with other AWS services like AWS Lambda, Amazon S3, and more, creating a comprehensive data management system."
+}

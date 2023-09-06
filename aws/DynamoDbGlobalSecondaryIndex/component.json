@@ -1,0 +1,5 @@
+{
+    "name": "Amazon DynamoDB Global Secondary Index",
+    "short": "A feature of Amazon DynamoDB that allows efficient access to data with different key attribute values, spanning across multiple regions.",
+    "description": "Amazon DynamoDB Global Secondary Index (GSI) is a feature that enables the efficient querying of data using alternative partition and sort keys. This allows for flexible access patterns, beyond the default table's primary key. GSIs can be created at any time - during table creation or after. It's ideal for high-volume applications needing quick data access. DynamoDB manages the infrastructure, so developers can focus on creating robust, scalable applications with optimized data accessibility."
+}

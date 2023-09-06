@@ -1,0 +1,5 @@
+{
+    "name": "Amazon S3 Standard-Infrequent Access",
+    "short": "A storage class in Amazon S3 designed for long-lived and infrequently accessed data.",
+    "description": "Amazon S3 Standard-Infrequent Access (S3 Standard-IA) is a storage class for data that is accessed less frequently but requires fast access when needed. This service offers a cost-effective solution for data storage with the same durability and security as S3 Standard. Data retrieval is quick, but there are charges for data retrieval, making it ideal for backup, disaster recovery, and long-term storage. It comes with features like lifecycle management, versioning, encryption, and cross-region replication."
+}

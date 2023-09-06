@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EBS Snapshot",
+    "short": "A backup of your Amazon EBS volume that is stored in Amazon S3 for disaster recovery, migration or compliance.",
+    "description": "Amazon EBS Snapshots are point-in-time backups of Amazon EBS volumes, ensuring data durability and ease of recovery. These snapshots can be used to enable disaster recovery, migrate data across regions or accounts, and improve backup compliance. They are incremental, meaning only changed blocks of data are stored after the first full backup, optimizing storage usage. EBS Snapshots provide a cost-effective, reliable, and secure solution for data backup and are integrated with AWS Backup for seamless usage."
+}

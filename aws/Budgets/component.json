@@ -1,0 +1,5 @@
+{
+    "name": "AWS Budgets",
+    "short": "A service that provides cost and usage budgeting for AWS services to manage spending.",
+    "description": "AWS Budgets is a cost management tool that allows users to plan service usage, cost efficiency, and budget consistency. It offers customizable cost and usage budgets that alert when thresholds are exceeded. It integrates with AWS Cost Explorer for detailed analyses and forecasts. You can create daily, monthly, quarterly, or annual budgets for your AWS usage, and get alerts through email or via the AWS Management Console. It's a powerful tool for controlling costs and optimizing resources in AWS."
+}

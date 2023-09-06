@@ -1,0 +1,5 @@
+{
+    "name": "AWS RoboMaker Development Environment",
+    "short": "A cloud-based, integrated development environment for developing, testing, and deploying robotics applications using AWS RoboMaker.",
+    "description": "AWS RoboMaker Development Environment is a service that provides an integrated development environment (IDE) for robot programming. It simplifies the process of building, testing, and deploying robotics applications. The environment supports Robot Operating System (ROS) and extensions for machine learning, monitoring, and analytics tools. It also offers simulation capabilities to test robotic applications in real-world scenarios. This service accelerates the speed of robotics development and deployment while ensuring the applications are robust and reliable."
+}

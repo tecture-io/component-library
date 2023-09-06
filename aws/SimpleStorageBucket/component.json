@@ -1,0 +1,5 @@
+{
+    "name": "Amazon S3",
+    "short": "A scalable storage service in AWS that allows users to store and retrieve any amount of data from anywhere on the web.",
+    "description": "Amazon S3 (Simple Storage Service) is AWS's scalable object storage platform for data backup, archiving, and analytics. It allows users to store and retrieve vast amounts of data from anywhere on the web. S3 ensures high durability, availability, and scalability, accommodating small to petabyte-scale workloads. Its features include data lifecycle management, security, access management, and event notifications. It also supports static website hosting. With pay-as-you-go pricing, S3 is a cost-effective solution for businesses of all sizes."
+}
