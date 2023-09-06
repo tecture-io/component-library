@@ -1,0 +1,5 @@
+{
+    "name": "AWS Elastic Beanstalk",
+    "short": "A platform as a service (PaaS) on AWS that allows developers to deploy and manage applications without worrying about the underlying infrastructure.",
+    "description": "AWS Elastic Beanstalk is a fully managed service that simplifies the deployment and scaling of applications and services developed in Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker. Users simply upload their code and Beanstalk automatically handles the deployment - from capacity provisioning, load balancing, auto-scaling to application health monitoring. It provides a consistent environment across multiple development, testing, and production stages, helping businesses to focus on their application and not infrastructure management."
+}

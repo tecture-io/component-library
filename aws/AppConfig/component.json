@@ -1,5 +1,5 @@
 {
-  "name": "AppConfig",
-  "short":"A service on AWS for managing and deploying application configurations safely and dynamically without impacting runtime.",
-  "description": "AWS AppConfig is a service that enables application owners to safely manage and deploy application configurations without affecting the application's runtime. With AppConfig, changes can be made more frequently and reliably, allowing features to be rolled out, adjusted, or rolled back in real-time. AppConfig uses AWS Lambda, Amazon CloudWatch, and Amazon SNS to validate and monitor application configurations, ensuring that any changes made are consistent and safe. It's particularly useful for applications that need rapid feature toggles, A/B testing, or gradual rollouts, without requiring a code deployment. By integrating AppConfig, organizations can reduce errors during application configuration updates and enhance their overall agility."
+    "name": "AWS AppConfig",
+    "short": "A service that enables AWS users to create, manage, and quickly deploy application configurations.",
+    "description": "AWS AppConfig is a service that enables application owners to manage, deploy, and monitor application configurations without downtime. This service facilitates the implementation of configuration changes in a controlled manner, with the ability to validate changes before deployment. It also supports rollback if issues arise. Integrated with AWS Systems Manager, it allows developers to create a configuration data central repository. AWS AppConfig is instrumental in promoting operational stability while enhancing the speed and agility of application updates."
 }

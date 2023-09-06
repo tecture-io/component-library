@@ -1,0 +1,5 @@
+{
+    "name": "AWS OpsWorks Stacks",
+    "short": "A service that helps you manage applications and servers on AWS and on-premises environments in a fully customizable way.",
+    "description": "AWS OpsWorks Stacks is a configuration management service that uses Chef or Puppet to automate server configuration, deployment, and management. It provides a flexible way to create, manage, and maintain applications of varying complexity levels. It supports multiple layers of an application, including load balancing, database, and application server layers. OpsWorks Stacks also integrates with AWS resources and manages the full lifecycle of Amazon EC2 instances and on-premises compute environments. This service simplifies operational tasks and promotes consistency across environments."
+}

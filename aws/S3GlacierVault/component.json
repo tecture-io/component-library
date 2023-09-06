@@ -1,0 +1,5 @@
+{
+    "name": "Amazon S3 Glacier Vault",
+    "short": "A durable storage service on AWS for archiving data with long-term backup and compliance requirements.",
+    "description": "Amazon S3 Glacier Vault is a component of Amazon S3 Glacier, a low-cost cloud storage service for data archiving and long-term backup. Vaults are containers for storing archives, which can be any data such as photos, videos, or documents. They provide strong security features including access policies and audit trails. Also, Glacier offers Vault Lock to enforce compliance controls. With lifecycle management, data retrieval options, and integration with other AWS services, Vaults enable efficient and secure long-term data storage."
+}

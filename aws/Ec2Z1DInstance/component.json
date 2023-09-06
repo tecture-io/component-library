@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 Z1D Instance",
+    "short": "A high-frequency optimized instance type on AWS EC2 providing high compute performance and memory capacity, ideal for high-performance databases and workload requiring high clock speed.",
+    "description": "Amazon EC2 Z1D instance is a high-performance computing service by AWS, offering both high compute power and memory. It provides a sustained all-core frequency of up to 4.0 GHz, the fastest of any cloud instance. Ideal for workloads requiring high single-threaded performance like electronic design automation (EDA) or relational databases. It offers up to 1.8 TB of local NVMe SSD storage, allowing fast data processing. Its scalability and flexibility make it a go-to instance for compute-intensive applications."
+}

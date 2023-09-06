@@ -1,0 +1,5 @@
+{
+    "name": "Amazon DynamoDB",
+    "short": "A NoSQL database service on AWS that provides fast and predictable performance with seamless scalability.",
+    "description": "Amazon DynamoDB is a NoSQL database service provided by AWS, offering fast and predictable performance with seamless scalability. It's designed to handle large scale, low latency, read and write workloads. It supports both key-value and document data models. DynamoDB is fully managed, eliminating administrative burdens like hardware provisioning, setup, configuration, and backups. Data is stored on SSDs and replicated across 3 different zones, ensuring high availability and durability. It also integrates with AWS Lambda for triggers."
+}

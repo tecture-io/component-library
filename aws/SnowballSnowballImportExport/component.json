@@ -1,0 +1,5 @@
+{
+    "name": "AWS Snowball",
+    "short": "A data transport solution in AWS that uses secure devices to transfer large amounts of data into and out of the AWS cloud.",
+    "description": "AWS Snowball is a physical data transport solution that streamlines the migration of large amounts of data into and out of AWS. This petabyte-scale data transfer service helps to eliminate challenges usually associated with large-scale data transfers such as high network costs and long transfer times. Snowball uses secure, rugged devices so you can transfer hundreds of terabytes or petabytes of data. With end-to-end tracking and chain-of-custody, Snowball ensures a secure and cost-effective data transfer process."
+}

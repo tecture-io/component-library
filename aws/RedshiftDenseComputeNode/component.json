@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Redshift Dense Compute Node",
+    "short": "A specialized type of node in Amazon Redshift that offers high performance computing capabilities for processing large volumes of data.",
+    "description": "Amazon Redshift Dense Compute Node is a type of node used in Redshift clusters for fast, large-scale data warehousing. It delivers high performance for compute-intensive workloads using SSD storage. There are two types: dc1.large and dc2.8xlarge. The former is cost-effective for small datasets, while the latter supports large-scale workloads with more memory and CPU. These nodes provide efficient query execution, data compression, and encryption, ideal for businesses with substantial data processing needs."
+}

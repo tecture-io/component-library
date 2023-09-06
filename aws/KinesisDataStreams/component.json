@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Kinesis Data Streams",
+    "short": "A scalable, managed service on AWS that enables real-time data streaming and processing.",
+    "description": "Amazon Kinesis Data Streams (KDS) is a real-time data streaming service from AWS that can continuously capture gigabytes of data per second from hundreds of sources. KDS enables data processing, analytics, and real-time insights, serving as the data backbone for modern applications. KDS supports both on-demand and provisioned capacity modes. It integrates with other AWS services like Lambda and Redshift, and offers at-least-once delivery and replay capabilities, fostering reliable, scalable, and efficient data stream management."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS Storage Gateway",
+    "short": "A hybrid cloud storage service that gives you on-premises access to virtually unlimited cloud storage.",
+    "description": "AWS Storage Gateway is a hybrid cloud storage service that connects on-premises environments with AWS's storage infrastructure. It provides seamless and secure integration between an organization's on-premises data and Amazon's storage services (S3, Glacier, EBS). It supports file, volume, and tape gateway types, catering to various use cases like backup, archiving, disaster recovery, data migration, and more. It offers low-latency access to data, optimizing performance while leveraging AWS's scalability, durability, and security features."
+}

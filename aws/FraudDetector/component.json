@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Fraud Detector",
+    "short": "A service on AWS that uses machine learning to identify potentially fraudulent activities.",
+    "description": "Amazon Fraud Detector is a fully managed service that uses machine learning (ML) and over 20 years of fraud detection expertise from AWS to identify potentially fraudulent activities. Users can create a detector model using historical fraud patterns, specify fraudulent behaviors, and receive outcomes with assigned fraud risk scores. It can detect fraud in real-time, offers customized rules, and integrates with other AWS services. It's useful in areas like online retail or financial transactions, enhancing security and trust."
+}

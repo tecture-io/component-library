@@ -1,0 +1,5 @@
+{
+    "name": "AWS Savings Plans",
+    "short": "A flexible pricing model on AWS that offers significant savings on AWS compute usage.",
+    "description": "AWS Savings Plans is a flexible pricing model that offers significant savings on AWS computing services. By committing to a consistent amount of usage, measured in $/hour, for 1 or 3 years, users can lower costs by up to 72% compared to on-demand pricing. Two types of plans are available: Compute Savings Plans (for broad usage across any region) and EC2 Instance Savings Plans (for specific instance families in a region). These plans simplify cost optimization while maintaining the flexibility to change workloads."
+}

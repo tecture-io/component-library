@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Aurora",
+    "short": "A relational database service by AWS that combines the speed and reliability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.",
+    "description": "Amazon Aurora is a relational database service provided by AWS, designed for speed, reliability, and scalability. Compatible with MySQL and PostgreSQL, it delivers up to five times their performance. It has a distributed, fault-tolerant, self-healing storage system, ensuring high availability and durability. Aurora features automatic scaling, replication across multiple regions, and security with VPC, IAM, and KMS. It supports large databases with millions of transactions, making it ideal for enterprise-level, high-traffic applications."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS Serverless Application Repository",
+    "short": "A managed service on AWS that allows developers to share and deploy serverless applications.",
+    "description": "The AWS Serverless Application Repository is a managed repository for serverless applications, simplifying their deployment and management. It hosts applications and components built using AWS Lambda and other serverless services, enabling users to search, deploy, and publish applications. The repository supports resource policies for sharing and private use. It integrates with AWS SAM for application templates, offering seamless deployment. By leveraging this service, developers can expediently discover, configure, and deploy serverless applications and components."
+}

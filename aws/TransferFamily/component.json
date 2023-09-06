@@ -1,0 +1,5 @@
+{
+    "name": "AWS Transfer Family",
+    "short": "A suite of services on AWS for transferring files into and out of AWS storage services securely.",
+    "description": "The AWS Transfer Family is a secure and scalable service that enables the transfer of files into and out of AWS using SFTP, FTPS, and FTP protocols. It is fully managed, eliminating the need for in-house server setup and maintenance. Offering seamless integration with Amazon S3 and EFS, it supports user authentication via IAM, directory services like Microsoft AD, or custom identity sources. Ideal for migrating file transfer workflows to AWS, maintaining data protection, and providing secure data sharing across organizations."
+}

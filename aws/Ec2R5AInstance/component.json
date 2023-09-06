@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 R5a Instances",
+    "short": "A type of EC2 instance on AWS that offers balanced memory and performance for a variety of workloads.",
+    "description": "Amazon EC2 R5a instances are a type of virtual server designed for memory-intensive applications. Powered by AMD EPYC processors, they provide a cost-effective choice for large databases, in-memory caches, and other high-performance workloads. They come in a variety of sizes to fit different needs, with the ability to scale up or down as demand changes. R5a instances also support EBS-optimized storage and enhanced networking, ensuring maximum throughput and lower latency. These instances offer a balance of compute, memory, and networking resources."
+}

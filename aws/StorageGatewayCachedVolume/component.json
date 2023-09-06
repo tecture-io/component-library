@@ -1,0 +1,5 @@
+{
+    "name": "AWS Storage Gateway Cached Volume",
+    "short": "A hybrid storage service that provides on-premises applications with low-latency access to virtually unlimited cloud storage through caching data locally.",
+    "description": "AWS Storage Gateway Cached Volume is a hybrid storage service that provides on-premises applications with low-latency access to data. It stores frequently accessed data locally in a cache for quick access while storing the complete data set in Amazon S3. This service is ideal for read-intensive workloads and scenarios where latency is crucial. It integrates well with AWS Backup for data protection and AWS CloudWatch for monitoring, offering a seamless and efficient storage solution."
+}

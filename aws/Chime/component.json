@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Chime",
+    "short": "A communication service on AWS that allows you to conduct online meetings, video conferencing and business calling.",
+    "description": "Amazon Chime is a communication service by AWS that provides voice, video, and chat capabilities for online meetings, video conferencing, and business calling. It seamlessly integrates with existing applications and is designed for both desktop and mobile devices. With features like screen sharing, remote desktop control, and recording, it enhances team collaboration. Users can join meetings from anywhere without needing to download software or create accounts, ensuring a simple and secure communication experience."
+}

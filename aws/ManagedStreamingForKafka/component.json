@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Managed Streaming for Apache Kafka",
+    "short": "A fully managed service on AWS that makes it easy to build and run applications that use Apache Kafka to process streaming data.",
+    "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) is a fully managed service for building and running applications that use Apache Kafka to process streaming data. It takes care of the underlying Kafka infrastructure, allowing you to focus on application development. It's highly compatible with existing Kafka applications and tools, provides secure, durable, and highly available streams, and integrates with AWS services for stream processing, analytics, and machine learning. It simplifies the setup, scaling, and management of Kafka clusters in the cloud."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 Auto Scaling",
+    "short": "An AWS service that automatically adjusts compute capacity to maintain application performance at the lowest possible cost.",
+    "description": "Amazon EC2 Auto Scaling is a service that ensures you have the right number of Amazon EC2 instances available to handle your application load. It automatically scales the compute capacity up or down according to the defined conditions, providing better fault tolerance, availability, and cost management. This service includes automatic scaling, scheduled scaling, and predictive scaling features. EC2 Auto Scaling is ideal for applications that have variable demand or are subject to regular traffic patterns."
+}

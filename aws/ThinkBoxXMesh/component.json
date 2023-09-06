@@ -1,0 +1,5 @@
+{
+    "name": "AWS Thinkbox XMesh",
+    "short": "A service for saving, loading, and rendering 3D mesh data on AWS.",
+    "description": "AWS Thinkbox XMesh is a geometry caching system that enables high-speed reading and writing of 3D datasets, often used in CGI rendering. It's designed for performance, versatility, and efficient memory usage, making it ideal for handling complex, high-resolution assets. XMesh supports multiple 3D platforms and provides a range of compression and saving options. It helps artists and studios streamline workflows, reduce disk space usage, and manage render time, ensuring efficient and high-quality results."
+}

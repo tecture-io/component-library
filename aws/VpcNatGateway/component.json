@@ -1,0 +1,5 @@
+{
+    "name": "Amazon VPC NAT Gateway",
+    "short": "A service in Amazon VPC that allows instances in a private subnet to connect to the internet or other AWS services, but prevents the internet from initiating a connection with those instances.",
+    "description": "Amazon VPC NAT Gateway is a service that enables instances in a private subnet to connect to the internet or other AWS services, but prevents the internet from initiating a connection with those instances. It's highly available, resilient, and automatically scales to accommodate bandwidth demands. It also supports burstable performance up to 10 Gbps. NAT Gateway is a solution for those needing internet access for data downloading, software updates, or AWS connections without exposing their internal systems."
+}

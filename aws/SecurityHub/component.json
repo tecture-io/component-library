@@ -1,0 +1,5 @@
+{
+    "name": "AWS Security Hub",
+    "short": "A centralized management tool on AWS that provides comprehensive view of your high-priority security alerts and compliance status.",
+    "description": "AWS Security Hub is a centralized service that simplifies security management across AWS accounts. It aggregates, organizes, and prioritizes security alerts, or findings, from AWS services and integrated third-party solutions. It continuously monitors your environment using automated compliance checks and threat detection methods. You can visualize and analyze security trends and potential threats in its integrated dashboard. By consolidating security findings, it helps maintain a strong security posture across your AWS environment."
+}

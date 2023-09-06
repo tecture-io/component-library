@@ -1,0 +1,5 @@
+{
+    "name": "Amazon S3 Glacier",
+    "short": "A secure, durable, and low-cost storage service on AWS for data archiving and long-term backup.",
+    "description": "Amazon S3 Glacier is a secure, durable, and low-cost storage service for data archiving and long-term backup. It's designed for data that is infrequently accessed, providing scalable storage for small to large businesses. It supports three retrieval modes - Expedited, Standard, and Bulk, varying in cost and retrieval speed. With strong security features and compliance capabilities, S3 Glacier ensures data is protected and preserved for as long as needed, making it a cost-effective solution for long-term data storage."
+}

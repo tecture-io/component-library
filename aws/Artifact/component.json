@@ -1,0 +1,5 @@
+{
+    "name": "AWS Artifact",
+    "short": "A service that provides on-demand access to AWS' security and compliance reports and select online agreements.",
+    "description": "AWS Artifact is a portal that provides access to AWS compliance reports and select online agreements. Users can download audit reports to meet compliance requirements for their cloud-based workloads. The reports cover multiple standards like GDPR, ISO, PCI DSS, and more. Additionally, it provides on-demand access to AWS Cloud agreements for easier review and acceptance. With AWS Artifact, users can manage compliance documentation efficiently, promoting transparency and trust in AWS services."
+}

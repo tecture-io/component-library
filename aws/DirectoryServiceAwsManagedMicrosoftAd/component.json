@@ -1,0 +1,5 @@
+{
+    "name": "AWS Managed Microsoft AD",
+    "short": "A fully managed active directory service by AWS that assists with directory tasks such as user and group management, domain join, and security settings.",
+    "description": "AWS Managed Microsoft AD is a directory service that provides Windows Server Active Directory features in the AWS cloud. It enables you to manage database access and security with familiar AD administrative tools and Group Policy. It supports use-cases like SharePoint, SQL Server Always On, and Remote Desktop Services. With its automatic multi-AZ replication and daily snapshots, it ensures high availability and durability of your directory data. It integrates with AWS services, simplifying identity and access management."
+}

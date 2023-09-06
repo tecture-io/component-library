@@ -1,5 +1,5 @@
 {
-  "name": "AppMesh Mesh",
-  "short":"The foundational infrastructure in AWS App Mesh governing communication and behavior across microservices.",
-  "description": "In AWS App Mesh, a \"mesh\" serves as the foundational infrastructure layer for your microservices, defining how service-to-service communication is governed. It is essentially a logical boundary that contains all the service mesh resources related to a specific microservice application. Within a mesh, you can define routing for how services will communicate with each other, configure which backends those services can or cannot reach, and use other settings to control the behavior of the mesh. The mesh ensures consistent application policies, traffic controls, and offers observability across microservices. This structure promotes resilient and highly available applications by providing standardized rules and behaviors."
+    "name": "AWS App Mesh",
+    "short": "A service mesh that provides application-level networking to make it easy for your services to communicate with each other across multiple types of compute infrastructure.",
+    "description": "AWS App Mesh is a service mesh that provides application-level networking to standardize how your services communicate, offering end-to-end visibility and ensuring high-availability for your applications. It configures each service to export monitoring data, implement consistent communications control logic, and handle errors, making your network architecture more robust. App Mesh can be used with Amazon ECS, Amazon EKS, and Kubernetes on EC2. It helps in optimizing communication between services, reducing the time spent on complex network tasks."
 }

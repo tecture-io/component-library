@@ -1,0 +1,5 @@
+{
+    "name": "AWS Site-to-Site VPN",
+    "short": "A service that enables secure, private connections from a remote network to your VPCs on AWS.",
+    "description": "AWS Site-to-Site VPN is a service that enables secure, private connectivity between an on-premises network or a remote office location and AWS's global network. It uses industry-standard encryption protocols to maintain privacy and security. The service provides redundancy and failover through VPN connections across multiple AWS regions. With AWS Site-to-Site VPN, businesses can extend their existing network to AWS, making it an ideal solution for hybrid cloud scenarios."
+}

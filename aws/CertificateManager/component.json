@@ -1,0 +1,5 @@
+{
+    "name": "AWS Certificate Manager",
+    "short": "A service that lets you easily provision, manage, and deploy public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates for use with AWS services and your internal connected resources.",
+    "description": "AWS Certificate Manager is a service aimed at simplifying the provisioning, management, and deployment of SSL/TLS certificates for web applications. It eliminates the complex, manual process of purchasing, uploading, and renewing SSL/TLS certificates. ACM integrates with AWS services like Elastic Load Balancer, CloudFront, and API Gateway to enable secure connections. It also offers automatic certificate renewals, reducing the risk of service interruptions due to expired certificates, ensuring a secure and seamless user experience."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 C5n Instances",
+    "short": "High compute capacity instances on AWS EC2 that offer high network bandwidth for network-intensive workloads.",
+    "description": "Amazon EC2 C5n Instances are part of the Amazon Elastic Compute Cloud (EC2) service, providing high-performance computing that can handle network intensive workloads. They offer up to 100 Gbps of network bandwidth, providing increased throughput for network-bound applications. Ideal for applications like high-performance web servers, microservices, batch processing, and ad serving. They are powered by custom second-generation Intel Xeon Scalable processors, offering both scalability and cost-effectiveness."
+}

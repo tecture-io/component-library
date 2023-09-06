@@ -1,0 +1,5 @@
+{
+    "name": "AWS Secrets Manager",
+    "short": "A service that helps protect access to your applications, services, and IT resources without the upfront investment and on-going maintenance costs of operating your own infrastructure.",
+    "description": "AWS Secrets Manager is a service designed to protect access to applications, services, and IT resources. This service enables the secure management, retrieval, and storage of secrets like API keys, passwords, or database credentials. It helps rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle. Using Secrets Manager, you can secure and manage secrets used to access resources in the AWS Cloud, on third-party services, and on-premises."
+}

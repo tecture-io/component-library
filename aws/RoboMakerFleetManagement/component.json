@@ -1,0 +1,5 @@
+{
+    "name": "AWS RoboMaker Fleet Management",
+    "short": "A service on AWS that assists in managing and deploying robotic applications to a fleet of robots.",
+    "description": "AWS RoboMaker Fleet Management is a service that aids in managing and coordinating robotic fleets across various applications. It helps users deploy updates, optimize resource allocation, and maintain the health of fleets. The service supports over-the-air (OTA) updates, providing seamless software deployment to robots. With its built-in metrics and logs, users can track fleet performance and troubleshoot issues. RoboMaker Fleet Management offers an efficient, scalable solution for managing large-scale robotic operations."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Timestream",
+    "short": "A fully managed, serverless time-series database service on AWS for storing and analyzing data that changes over time.",
+    "description": "Amazon Timestream is a fully managed, serverless time-series database service by AWS for IoT and operational applications. It's designed to store and analyze trillions of events per day at 1/10th the cost of relational databases. Timestream's time-series optimization enables fast analysis of time-stamped data, like system metrics, logs, and IoT device data. It integrates with other AWS services and visualization tools, providing a scalable, durable, and efficient solution for time-series data management."
+}

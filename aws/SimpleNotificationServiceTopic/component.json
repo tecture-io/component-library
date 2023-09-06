@@ -1,0 +1,5 @@
+{
+    "name": "Amazon SNS Topic",
+    "short": "A messaging service in AWS for sending notifications and messages to subscribed endpoints and clients.",
+    "description": "Amazon SNS (Simple Notification Service) Topic is a communication channel for publishing and subscribing to messages in a publish/subscribe system. It empowers microservices, serverless applications, and distributed systems to decouple and scale. Messages are pushed to multiple subscribers like Lambda functions, SQS queues, or HTTP endpoints. Supports protocols like HTTP, Email, SQS, and Lambda. SNS Topics are reliable, durable, and can handle high-throughput, many-to-many messaging scenarios."
+}

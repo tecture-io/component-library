@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Elasticsearch Service",
+    "short": "A fully managed service on AWS that makes it easy to deploy, secure, operate, and scale Elasticsearch clusters in the cloud.",
+    "description": "Amazon Elasticsearch Service is a fully managed service that makes it easy to deploy, secure, and operate Elasticsearch at scale. It provides real-time, distributed search and analytics, and can be used for log and event data analysis, full-text search, application monitoring, and more. It supports open-source Elasticsearch APIs, tools, and clients. It offers seamless scaling, automated backups, and integrated security, thus simplifying the management of Elasticsearch clusters, allowing developers to focus on innovation."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS Thinkbox Stoke",
+    "short": "A scalable high-volume particle simulator plugin for 3D artists on AWS.",
+    "description": "AWS Thinkbox Stoke is a high-volume particle simulator and volumetric toolkit for 3D artists. It's designed to simplify the creation of complex simulations, atmospheric effects, and pyroclastic clouds, improving the visual quality of 3D scenes. Thinkbox Stoke provides a fast, flexible, and cost-effective solution for particle simulation, leveraging AWS's robust computing capabilities. It integrates seamlessly with AWS Thinkbox Deadline for efficient render management, enabling artists to focus on creativity rather than technical challenges."
+}

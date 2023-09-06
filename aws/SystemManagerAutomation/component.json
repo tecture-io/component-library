@@ -1,0 +1,5 @@
+{
+    "name": "AWS Systems Manager Automation",
+    "short": "A service in AWS that helps to automate operational tasks across AWS resources.",
+    "description": "AWS Systems Manager Automation is a service that simplifies common maintenance and deployment tasks of Amazon EC2 instances and other AWS resources. It allows you to automate operational tasks to make them consistent, repeatable, and secure across your resources. It provides a suite of predefined runbooks or lets you create custom workflows. It can also group actions into a single workflow, reducing the complexity and time of routine management tasks, thus improving compliance and efficiency."
+}

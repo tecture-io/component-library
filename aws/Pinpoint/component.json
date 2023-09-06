@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Pinpoint",
+    "short": "A service on AWS that enables targeted and effective user engagement with push notifications.",
+    "description": "Amazon Pinpoint is a flexible, AWS-managed service aimed at driving user engagement via analytics and communication tools. It supports targeted messaging campaigns via multiple channels including email, SMS, push notifications, and Voice. Users can track customer behaviors, define segments, and run personalized campaigns to improve engagement metrics. Pinpoint also provides analytics to measure the impact of the campaigns. With its user-friendly interface, it's designed for marketers to seamlessly manage communication efforts."
+}

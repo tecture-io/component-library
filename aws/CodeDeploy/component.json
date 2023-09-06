@@ -1,0 +1,5 @@
+{
+    "name": "AWS CodeDeploy",
+    "short": "A service on AWS that automates software deployments to a variety of compute services including Amazon EC2, AWS Fargate, and AWS Lambda.",
+    "description": "AWS CodeDeploy is a deployment service that automates application deployments to various compute environments like EC2, Lambda, and even on-premises servers. It simplifies release processes by handling complex update patterns and deployment behaviors like rolling updates, blue-green deployments, and canary releases. CodeDeploy increases deployment speed while reducing downtime and error rates. It integrates with CI/CD tools like AWS CodePipeline and supports a variety of application content like code, serverless functions, web and configuration files, etc."
+}

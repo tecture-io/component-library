@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Elastic Compute Cloud (EC2)",
+    "short": "A web service on AWS that provides secure, resizable compute capacity in the cloud.",
+    "description": "Amazon Elastic Compute Cloud (EC2) is a service that provides scalable compute capacity in the AWS cloud. It enables users to rent virtual computers to run applications. EC2 offers a wide range of instance types optimized to fit different use cases, providing flexibility to choose the appropriate mix of resources. It integrates with AWS services like Amazon S3, Lambda, and RDS. EC2 provides security through AWS IAM and VPC, allowing users to launch instances in multiple AZs to ensure high availability and fault tolerance."
+}
