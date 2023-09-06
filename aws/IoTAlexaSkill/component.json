@@ -1,0 +1,5 @@
+{
+    "name": "AWS IoT Alexa Skill",
+    "short": "An AWS service that enables interaction between Amazon Alexa and your cloud-based IoT devices.",
+    "description": "AWS IoT Alexa Skill is a service that allows developers to build voice experiences for services and devices powered by Amazon Alexa. This service integrates AWS IoT with Alexa to control IoT devices using voice commands. With the Alexa Skills Kit (ASK), developers can create custom skills for Alexa, enabling devices to understand and execute voice commands. This service simplifies the process of creating voice-controlled smart home products, offering a seamless user experience."
+}

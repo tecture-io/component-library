@@ -1,0 +1,5 @@
+{
+    "name": "AWS Shield Advanced",
+    "short": "A subscription service that provides additional DDoS mitigation capabilities to protect your applications hosted on AWS.",
+    "description": "AWS Shield Advanced is a premium managed security service offering extensive protection against larger and more sophisticated DDoS attacks. It safeguards AWS applications like EC2, RDS, ELB and CloudFront, plus non-AWS resources. The service includes cost protection, 24/7 DDoS response team access, and advanced threat intelligence. With Shield Advanced, AWS users can ensure business continuity, minimize downtime and mitigate potential DDoS-related costs, while benefiting from AWS's robust security infrastructure."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Elastic Transcoder",
+    "short": "A media convert service on AWS for converting media files from their original source format into versions that will playback on devices like smartphones, tablets, and PCs.",
+    "description": "Amazon Elastic Transcoder is a media transcoding service in the cloud. It lets you convert media files stored in Amazon S3 into formats that playback on multiple devices such as smartphones, tablets, and PCs. With a pay-as-you-go model, it supports popular output formats and handles scaling, performance, and reliability. It also offers presets for popular output formats, making it easier to manage the transcoding process. The service provides a cost-efficient way to convert media files without upfront investments."
+}

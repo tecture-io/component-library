@@ -1,0 +1,5 @@
+{
+    "name": "AWS CodeBuild",
+    "short": "A fully managed build service in AWS that compiles source code, runs tests, and produces software packages.",
+    "description": "AWS CodeBuild is a fully managed build service by Amazon. It compiles your source code, runs tests, and produces software packages ready for deployment. You don't need to provision, manage, and scale your own build servers. It integrates with other AWS services like CodeCommit, S3, and CodePipeline. It supports several build environments like Java, .NET, Node.js, Python, etc. Its usage is based on the compute resources consumed during the build, making it cost-effective. CodeBuild ensures a fast and consistent build process."
+}

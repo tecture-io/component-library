@@ -1,0 +1,5 @@
+{
+    "name": "AWS IoT Policy",
+    "short": "A tool in AWS that allows you to manage permissions and control access for IoT devices.",
+    "description": "AWS IoT Policy is a security feature of the AWS IoT platform, allowing granular access control to IoT devices. It's a JSON document defining permissions for IoT actions (like connect or publish) on specific resources. The policy is attached to an IoT certificate or an Amazon Cognito Identity. Users can create, attach, or modify policies, enabling secure and flexible device management. AWS IoT Policy ensures that IoT devices can securely interact with AWS services, following the principle of least privilege."
+}

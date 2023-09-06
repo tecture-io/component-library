@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EventBridge",
+    "short": "A serverless event bus service that connects application components within AWS services and SaaS applications.",
+    "description": "Amazon EventBridge is a serverless event bus service that enables connection of application data from your own apps, SaaS, and AWS services. It facilitates creation, management, and routing of events across various sources and targets. EventBridge simplifies the process of building event-driven architectures and can filter and transform event data for specific targets. It delivers a consistent, unified event ingestion and delivery system, reducing the effort to set up and manage event-driven applications."
+}

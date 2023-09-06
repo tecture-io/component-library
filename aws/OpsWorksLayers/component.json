@@ -1,0 +1,5 @@
+{
+    "name": "AWS OpsWorks Stacks Layers",
+    "short": "A customizable stack layer in AWS OpsWorks that represents a software component, like a web server or a database server, on an instance.",
+    "description": "AWS OpsWorks Stacks Layers is a model representing a distribution of an application's separate responsibilities, like load balancing or database setup. Each layer has an associated set of AWS resources and can define scripts for setup, configuration, deployment, etc. OpsWorks provides built-in layers for common technologies like Ruby, PHP, and Node.js, or users can create custom ones. Layers help manage complex applications, providing automation, flexibility, and reducing the need for manual configuration."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS Data Pipeline",
+    "short": "A web service for orchestrating and automating the movement and transformation of data between different AWS services and on-premises data sources.",
+    "description": "AWS Data Pipeline is a web service for orchestrating and automating the movement and transformation of data between different AWS services and on-premise data sources. It's designed to reliably process and move data between different compute and storage services, as well as on-premises data sources, at specified intervals. Users can create complex data processing workloads that are fault tolerant, repeatable, and highly available. They don't have to worry about ensuring resource availability, managing inter-task dependencies, or restarting failed tasks."
+}

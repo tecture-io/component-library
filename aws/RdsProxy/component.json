@@ -1,0 +1,5 @@
+{
+    "name": "Amazon RDS Proxy",
+    "short": "A fully managed, highly available database proxy for Amazon Relational Database Service (RDS) that makes applications more scalable, secure and resilient to database failures.",
+    "description": "Amazon RDS Proxy is a managed, highly available database proxy for Amazon RDS, providing applications with increased scalability, resilience, and security. It enables connection pooling and sharing, reducing the burden on databases and improving application scalability. It also provides automatic failover, ensuring seamless transitions during database outages. With built-in security features, it secures data in transit and at rest. RDS Proxy is ideal for applications requiring high throughput and database-intensive workloads."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon S3 Access Points",
+    "short": "A feature of Amazon S3 that simplifies managing data access at scale for shared datasets in S3.",
+    "description": "Amazon S3 Access Points is a feature that simplifies managing data access at scale for shared datasets in S3. Access points are unique hostnames with dedicated access policies that describe who can access the data and what actions they can take. They decouple the access rules from the bucket, allowing different access points for different applications or user groups. They enhance data security, organization, and scalability, making data management in large, complex environments easier and more flexible."
+}

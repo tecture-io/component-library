@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 C4 Instance",
+    "short": "A type of virtual server available in Amazon's Elastic Compute Cloud (EC2) for running applications with high-performance computing requirements.",
+    "description": "Amazon EC2 C4 instances are compute-optimized virtual servers designed for high-performance computing workloads. They leverage the power of Intel Xeon E5-2666 v3 processors and offer a balance of compute, memory, and network resources. Ideal for CPU-bound scale-out workloads, they provide high networking throughput and performance. C4 instances support EBS-optimized instances and can be purchased as On-Demand, Reserved, or Spot Instances. With EC2 C4, users can achieve cost-effective, scalable, and efficient computing."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon DynamoDB Accelerator (DAX)",
+    "short": "A caching service that provides in-memory caching for Amazon DynamoDB to improve read performance.",
+    "description": "Amazon DynamoDB Accelerator (DAX) is a fully managed, in-memory cache for DynamoDB, enabling fast performance for read-heavy applications. It delivers up to a 10x speed increase by reducing database read latency to microseconds. This makes it ideal for applications requiring real-time responses, like gaming, financial trading, etc. DAX is easy to use, no code changes are required to your existing applications. It provides high availability and fault tolerance, while maintaining the security and scalability of DynamoDB."
+}

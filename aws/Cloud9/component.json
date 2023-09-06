@@ -1,0 +1,5 @@
+{
+    "name": "AWS Cloud9",
+    "short": "A cloud-based integrated development environment (IDE) service on AWS that lets you write, run, and debug your code with just a browser.",
+    "description": "AWS Cloud9 is a fully integrated development environment (IDE) in the cloud. It supports several programming languages like Python, JavaScript, and PHP, allowing developers to write, run, and debug code with just a browser. It offers a shared environment for pair programming and real-time collaboration between developers. Integrated with AWS services like Lambda, it eases serverless development. Cloud9 auto-saves work to the cloud, ensuring data safety. It's a flexible, accessible tool for coding, testing, and deploying applications."
+}

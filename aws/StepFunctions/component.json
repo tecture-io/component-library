@@ -1,0 +1,5 @@
+{
+    "name": "AWS Step Functions",
+    "short": "A service on AWS that coordinates multiple AWS services into serverless workflows.",
+    "description": "AWS Step Functions is a workflow service allowing developers to coordinate multi-step applications within microservices architecture. It enables the visualization and testing of workflows, making it easier to build, run, and debug distributed applications. Step Functions automatically triggers and tracks each step, retrying when there are errors, so your application executes in the correct order and as expected. Additionally, it integrates with AWS Lambda and other AWS services, providing a robust solution for complex business processes."
+}

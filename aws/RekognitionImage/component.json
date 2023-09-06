@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Rekognition Image",
+    "short": "A service provided by AWS that allows you to add image analysis to your applications.",
+    "description": "Amazon Rekognition Image is an AI-based service that analyzes images, identifying objects, people, text, scenes, and activities. It can detect inappropriate content, recognize celebrities, and even identify unique faces. This service uses deep learning technology to provide accurate analysis and metadata extraction, without requiring machine learning expertise from the user. It's often used in social media, advertising, surveillance, and other applications where image analysis is needed, providing a scalable, cost-efficient solution."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS WAF Filtering Rule",
+    "short": "A rule in AWS WAF used to identify and block specific types of malicious web traffic.",
+    "description": "AWS WAF Filtering Rule is a component of AWS WAF (Web Application Firewall) used to inspect web requests and block potentially harmful traffic. Filtering rules can be based on IP addresses, HTTP headers, body size, geo-locations, or SQL code in requests. These rules are customizable and can be grouped into a WebACL for more efficient management. They help protect your applications from common web exploits like SQL injection or cross-site scripting, ensuring security and maintaining application performance."
+}

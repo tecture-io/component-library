@@ -1,0 +1,5 @@
+{
+    "name": "AWS CodeStar",
+    "short": "A cloud-based service for developing, building, and deploying applications on AWS.",
+    "description": "AWS CodeStar is a development service enabling easy building, developing, and deploying applications on AWS. It provides unified user interface, allowing you to manage software development activities in one place. CodeStar supports various programming languages, including Java, Python, Ruby, etc., and comes with pre-configured project templates to kickstart projects. It integrates with AWS CodeCommit, CodeBuild, CodeDeploy, and CodePipeline for a comprehensive DevOps toolchain. With AWS CodeStar, teams can swiftly deliver reliable software."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 R4 Instance",
+    "short": "A scalable, memory-optimized instance type on AWS EC2 service designed to support memory-intensive applications.",
+    "description": "Amazon EC2 R4 Instances are part of Amazon's Elastic Compute Cloud (EC2) service, specifically designed for memory-intensive applications. They come with DDR4 memory, EBS-optimized by default, and support for enhanced networking. This makes them an excellent choice for databases, data mining, and applications requiring large caches and memory tables. R4 instances provide a balance of compute, memory, and network resources, making them an ideal choice for various workloads. Users can scale resources as per the application requirements."
+}

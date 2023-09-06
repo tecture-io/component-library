@@ -1,0 +1,5 @@
+{
+    "name": "Amazon S3 Standard",
+    "short": "A storage service in AWS designed to store and retrieve any amount of data from anywhere on the web.",
+    "description": "Amazon S3 Standard is a storage service by AWS designed for general-purpose storage of frequently accessed data. It offers high durability, availability, and performance object storage for applications, websites, backup and restore, archive, enterprise applications, IoT devices, and big data analytics. With automatic scalability, it can handle large volumes of data at any time, providing cost-effective storage and retrieval. Amazon S3 Standard offers robust security and compliance capabilities, meeting stringent regulatory requirements."
+}

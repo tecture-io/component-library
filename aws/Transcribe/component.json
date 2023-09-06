@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Transcribe",
+    "short": "An automatic speech recognition (ASR) service on AWS that converts speech into text.",
+    "description": "Amazon Transcribe is an automatic speech recognition (ASR) service from AWS that makes it easy to convert speech into text. It\u2019s used in applications such as transcription services, subtitling, and voice assistants. It supports various audio formats and languages, providing accurate transcriptions with timestamps and punctuation. The service also identifies different speakers in the audio. With custom vocabularies and metadata, it can be tailored to specific use-cases. Amazon Transcribe is a scalable, cost-effective solution for extracting text from audio."
+}

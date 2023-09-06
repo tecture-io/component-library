@@ -1,0 +1,5 @@
+{
+    "name": "AWS Elemental MediaStore",
+    "short": "A storage service optimized for media, providing the performance, consistency, and low latency required to deliver live and on-demand video content.",
+    "description": "AWS Elemental MediaStore is a video origination and storage service designed for media delivery. It offers the performance, consistency, and low latency required to deliver live streaming video content. MediaStore's architecture can scale to meet sudden demand spikes without buffering or interruption. It complies with industry standards and supports containerized applications. It integrates with AWS Elemental Media Services, CloudFront, and other AWS services, providing an end-to-end solution for video processing, storage, and delivery."
+}

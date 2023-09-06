@@ -1,0 +1,5 @@
+{
+    "name": "AWS Storage Gateway Non-Cached Volume",
+    "short": "A service that provides cloud-based storage volumes that can be attached to an on-premises virtual machine and store data directly on AWS.",
+    "description": "AWS Storage Gateway Non-Cached Volume is a type of storage volume that offers low-latency access to data on-premises while storing the data in Amazon S3. It's great for workflows that require immediate access to data. Data written to these volumes is stored on S3 and can be backed up as point-in-time snapshots. This type of volume is ideal for applications with large datasets, databases, or local storage needs, providing a blend of local and cloud storage that scales and ensures data security."
+}

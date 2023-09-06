@@ -1,0 +1,5 @@
+{
+    "name": "DeepLens",
+    "short": "A deep learning enabled video camera for developers provided by AWS.",
+    "description": "AWS DeepLens is a deep learning-enabled video camera for developers. It facilitates the development and deployment of machine learning models to create applications involving computer vision. Integrated with AWS services like SageMaker and Lambda, it enables real-time analysis and inference from video feeds. Used for tasks like object detection, activity recognition, or facial analysis, DeepLens helps developers learn and experiment with machine learning through hands-on practice, enhancing their ML skills."
+}

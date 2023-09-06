@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 M6g instances",
+    "short": "A type of Amazon EC2 instance that leverages Arm-based Graviton2 processors to deliver significant cost efficiency for workloads.",
+    "description": "Amazon EC2 M6g instances are part of the AWS EC2 service, designed to deliver cost-effective and high-performance processing capabilities. They are powered by AWS Graviton2 Processors that leverage 64-bit Arm Neoverse cores, offering up to 40% better price-performance over comparable current generation x86-based instances. Ideal for workloads like application servers, micro-services, high-performance computing, CPU-based machine learning inference, electronic design automation, and gaming. M6g instances provide a balance of compute, memory, and networking resources."
+}

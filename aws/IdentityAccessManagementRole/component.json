@@ -1,0 +1,5 @@
+{
+    "name": "AWS Identity and Access Management (IAM) Role",
+    "short": "A service in AWS that helps in managing permissions to control access to AWS services and resources.",
+    "description": "AWS Identity and Access Management (IAM) Role is a security feature allowing entities (users, applications, or services) to assume permissions to perform actions on AWS resources. Unlike users, roles don't have permanent credentials but generate temporary ones upon assuming the role. They decouple from individual users, enabling secure access management. IAM Roles can be assumed by anyone with permission and provide a secure way to delegate access to resources, making them an essential part of AWS security."
+}

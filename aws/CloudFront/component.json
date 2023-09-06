@@ -1,0 +1,5 @@
+{
+    "name": "Amazon CloudFront",
+    "short": "A fast content delivery network service on AWS that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds.",
+    "description": "Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds. It integrates with other AWS services like S3, EC2, and Lambda@Edge, providing an easy way to distribute content to end users. It also offers advanced security features, including AWS Shield for DDoS mitigation. CloudFront is cost-effective, with a pay-as-you-go model, and is optimized for developers and businesses of all sizes."
+}

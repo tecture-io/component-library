@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Elastic Container Service (ECS)",
+    "short": "A scalable, high-performance container orchestration service on AWS that supports Docker containers.",
+    "description": "Amazon Elastic Container Service (ECS) is a scalable, high-performance container management service. It lets you run applications on a managed cluster of Amazon EC2 instances, abstracting the underlying infrastructure. It supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances. It integrates with AWS services like IAM for security, CloudWatch for metrics, and ELB for load balancing. ECS simplifies tasks such as batch processing, micro-services architecture, and machine learning applications."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EMR",
+    "short": "A cloud-based big data platform on AWS that processes large amounts of data quickly and cost-effectively.",
+    "description": "Amazon EMR is a web service that enables businesses, researchers, data analysts, and developers to process vast amounts of data effectively. It utilizes a hosted Hadoop framework running on Amazon EC2 and Amazon S3. EMR provides the tools for easy scalability, and it can process vast quantities of data quickly. It supports popular frameworks like Apache Spark and HBase, ensuring flexibility for diverse data processing tasks. It offers cost-effectiveness by allowing users to pay for only the capacity they use."
+}

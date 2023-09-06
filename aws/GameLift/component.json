@@ -1,0 +1,5 @@
+{
+    "name": "Amazon GameLift",
+    "short": "A managed service on AWS designed specifically for deploying, operating, and scaling multiplayer game servers.",
+    "description": "Amazon GameLift is a dedicated game server hosting solution that deploys, operates, and scales cloud servers for multiplayer games. It's designed to reduce the time, cost, and complexities of game hosting, allowing developers to focus on creating engaging gaming experiences. With features like automatic scaling, match-making, and real-time analytics, GameLift ensures reliable, low-latency performance across the globe. GameLift supports both session-based and persistent games, making it a versatile solution for various gaming needs."
+}

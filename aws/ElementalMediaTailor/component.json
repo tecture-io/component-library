@@ -1,0 +1,5 @@
+{
+    "name": "AWS Elemental MediaTailor",
+    "short": "A content personalization and monetization service on AWS that allows video providers to create unique viewing experiences.",
+    "description": "AWS Elemental MediaTailor is a content personalization and monetization service. It enables video providers to insert targeted ads into their content without sacrificing quality. With server-side ad insertion, ads look like part of the video stream, improving viewer experience. MediaTailor supports both live and on-demand video, and can scale to accommodate large audiences. It also provides detailed reporting, enabling operators to optimize ad performance and maximize revenue. It seamlessly integrates with a variety of content delivery networks and ad decision servers."
+}

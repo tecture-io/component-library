@@ -1,0 +1,5 @@
+{
+    "name": "AWS IoT MQTT Protocol",
+    "short": "A communication protocol for AWS IoT services that allows devices to interact with AWS IoT over a publish-subscribe model.",
+    "description": "AWS IoT MQTT Protocol is a lightweight messaging protocol designed for IoT devices to connect to AWS IoT Core. It is low-latify, power-efficient, and ideal for remote devices with limited processing power or network bandwidth. Its publish/subscribe architecture ensures reliable message delivery, even on unreliable networks. MQTT messages can trigger AWS Lambda functions or be stored and analyzed. This protocol allows seamless device-to-cloud and device-to-device communication, enabling real-time, efficient IoT functionality."
+}

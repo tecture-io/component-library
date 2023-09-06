@@ -1,0 +1,5 @@
+{
+    "name": "AWS Elemental MediaConvert",
+    "short": "A service on AWS that provides powerful video transcoding capabilities for media content.",
+    "description": "AWS Elemental MediaConvert is a file-based video processing service that enables video providers to transcode media content for broadcast and multi-screen delivery. It supports a vast array of codecs, containers, and professional broadcast formats. Features include advanced video processing, closed captioning, ad marker insertion, and Digital Rights Management. It also offers detailed job control and automated decision-making for cost and performance optimization. With MediaConvert, users can create high-quality video experiences on a multitude of devices."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Route 53",
+    "short": "A scalable and highly available Domain Name System (DNS) web service on AWS.",
+    "description": "Amazon Route 53 is a scalable and highly available Domain Name System (DNS) web service designed for developers and businesses. It provides reliable routing to infrastructure running inside AWS and elsewhere, allowing domain registration, DNS routing, and health checking of resources within your environment. With Route 53, developers can map domain names to their AWS resources, S3 buckets, or EC2 instances. It's designed to provide cost-effective domain registration and routing, while meeting the demands of enterprises."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon DocumentDB",
+    "short": "A fully managed, MongoDB-compatible database service offered by AWS for storing, querying, and indexing JSON data.",
+    "description": "Amazon DocumentDB is a fully managed, scalable NoSQL database service by AWS that's designed for high-performance, document-oriented applications. It's MongoDB compatible, allowing developers to use MongoDB APIs and drivers for database activities. It supports ACID transactions, complex joins, and secondary indexes, making data management efficient. It also provides built-in security, backup and restore features, and automated scaling. DocumentDB's design enables millisecond latency, making it ideal for applications needing quick, flexible data access."
+}
