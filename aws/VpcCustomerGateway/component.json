@@ -1,0 +1,5 @@
+{
+    "name": "Amazon VPC Customer Gateway",
+    "short": "A component in AWS that allows your network to connect to the Amazon VPC via VPN.",
+    "description": "The Amazon VPC Customer Gateway is a component of AWS that aids in the establishment of a VPN connection between AWS and your on-premises network. It represents the physical device or software application on your side of the VPN connection. The customer gateway provides the information needed to create the VPN connection, such as public-facing IPv4 address and device type. This service allows for secure data transfers and streamlined network expansion, providing a bridge between the cloud and your infrastructure."
+}

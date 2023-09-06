@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 P3 Instance",
+    "short": "A high-performance computing service on AWS that provides powerful graphics processing units (GPUs) for machine learning and graphics-intensive applications.",
+    "description": "Amazon EC2 P3 Instances are powerful, scalable virtual servers for machine learning, high performance computing, data analytics, and other GPU-intensive applications. They leverage NVIDIA Tesla V100 GPUs, offering up to 1 petaflop of mixed-precision performance. They support AWS services like Elastic Block Store (EBS), Elastic Load Balancing (ELB), and Amazon Machine Images (AMIs). With on-demand or reserved pricing options, users can optimize costs while achieving superior computational performance."
+}

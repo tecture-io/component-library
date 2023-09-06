@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 I3 Instance",
+    "short": "A high I/O instance type on AWS EC2 that is ideal for data-intensive workloads like databases and analytics.",
+    "description": "Amazon EC2 I3 instances are designed for I/O intensive workloads and offer the fastest SSD storage on EC2. They are suitable for high transaction, low latency workloads, like NoSQL databases, data warehousing, Elasticsearch, etc. These instances provide high random I/O rates and high sequential read throughput. Available in different sizes, they offer flexibility in resource allocation and cost management. They support EBS and NVMe SSD instance storage, ensuring high performance and durability."
+}

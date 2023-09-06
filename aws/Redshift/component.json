@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Redshift",
+    "short": "A fully managed, petabyte-scale data warehouse service in the cloud on AWS.",
+    "description": "Amazon Redshift is a fully-managed, petabyte-scale data warehousing service in the cloud. It's designed for high-performance analysis of structured and semi-structured data using familiar SQL-based tools and business intelligence software. Redshift offers automated backup to Amazon S3, data compression, and encryption in transit and at rest. It leverages columnar storage and parallel query execution to deliver quick results for complex analytical queries. Redshift Spectrum enables querying on exabytes of unstructured data in S3 without loading or ETL."
+}

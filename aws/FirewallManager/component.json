@@ -1,0 +1,5 @@
+{
+    "name": "AWS Firewall Manager",
+    "short": "A security management service on AWS that allows you to centrally configure and manage firewall rules across your accounts and applications.",
+    "description": "AWS Firewall Manager is a security management service that allows users to centrally configure and manage firewall rules across accounts and applications in AWS. It simplifies your AWS WAF implementation by enabling you to manage security rules and policies consistently across your AWS resources. You can also use AWS Firewall Manager to roll out AWS WAF rules to new applications automatically, ensuring that each application is protected from the moment it launches."
+}

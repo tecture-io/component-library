@@ -1,0 +1,5 @@
+{
+    "name": "AWS Elemental MediaPackage",
+    "short": "A just-in-time video packaging and origination service on AWS that prepares and protects your video for delivery over the Internet.",
+    "description": "AWS Elemental MediaPackage is a service that enables video distribution at scale, by securely preparing and protecting live and on-demand content for delivery to various devices. It simplifies the process of video packaging and origination by handling the complexity of video processing and packaging. MediaPackage supports just-in-time packaging, digital rights management, and dynamic ad insertion, providing a reliable, secure, and scalable way to deliver high-quality video streaming to viewers."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS IoT 1-Click",
+    "short": "A service by AWS that enables simple devices to trigger AWS Lambda functions that can execute an action.",
+    "description": "AWS IoT 1-Click is a service that makes it easy to trigger AWS Lambda functions from simple devices. This service provides a one-click method to connect devices like buttons, sensors, and other IoT devices to the AWS Cloud. It simplifies the process of connecting and managing IoT devices, allowing developers to quickly create IoT applications without extensive programming. As a result, devices can perform actions like sending emails, texts, or even ordering goods and services with a single click."
+}

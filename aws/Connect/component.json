@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Connect",
+    "short": "A cloud-based contact center service on AWS that helps businesses deliver superior customer service at a lower cost.",
+    "description": "Amazon Connect is a cloud-based contact center service providing scalable and reliable customer service solutions. It supports voice and chat communications, intelligent routing, and powerful analytics for data-driven decision making. With features like Interactive Voice Response (IVR) and automatic call distribution, it handles customer interactions effectively. Integration with CRM systems, workforce management, and analytics tools is possible. Amazon Connect offers pay-as-you-go pricing, eliminating upfront costs, making it a cost-efficient solution for businesses."
+}

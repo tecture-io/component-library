@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Redshift Dense Storage Node",
+    "short": "A high-capacity data storage node within the Amazon Redshift data warehousing service.",
+    "description": "Amazon Redshift Dense Storage Node is a type of node within Amazon Redshift, specifically designed for heavy data workloads. It offers high-capacity storage and cost-effectiveness for large scale data warehousing needs. It uses HDD (hard disk drive) storage and is optimized for analyzing large data sets. These nodes can be combined into clusters, allowing for parallel query execution and high-performance computations. With Redshift's built-in security and monitoring features, users can manage and analyze their data efficiently and securely."
+}

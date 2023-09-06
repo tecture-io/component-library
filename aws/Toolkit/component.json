@@ -1,0 +1,5 @@
+{
+    "name": "AWS Toolkit",
+    "short": "A collection of tools for developers to create, test, and debug applications using Amazon Web Services.",
+    "description": "The AWS Toolkit is an open-source plugin that makes it easier for developers to develop, debug, and deploy applications using Amazon Web Services. It integrates with popular IDEs like Visual Studio, PyCharm, and IntelliJ IDEA, enabling developers to leverage AWS directly from these environments. It simplifies serverless application development with features like local debugging, AWS resource management, and deployment of AWS Lambda functions. The toolkit's goal is to boost productivity by providing a seamless, efficient, and integrated development experience."
+}

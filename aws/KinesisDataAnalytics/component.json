@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Kinesis Data Analytics",
+    "short": "A service on AWS that allows you to process and analyze real-time, streaming data with standard SQL queries.",
+    "description": "Amazon Kinesis Data Analytics is an AWS service that processes and analyzes streaming data in real-time. It allows developers to write SQL queries on data streams or build entire streaming applications using Java. The service supports multiple sources like Kinesis Data Streams and Kinesis Data Firehose. It auto-scales to match volume and throughput rate of incoming data. With real-time insights, Kinesis Data Analytics is ideal for timely decision-making, metrics generation, machine learning, and other analytics use-cases."
+}

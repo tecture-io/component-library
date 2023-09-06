@@ -1,0 +1,5 @@
+{
+    "name": "Amazon VPC Elastic Network Interface",
+    "short": "An attachable virtual networking component on AWS that enables communications for Amazon VPC instances.",
+    "description": "An Amazon VPC Elastic Network Interface (ENI) is a virtual network interface that can be attached to an instance in a Virtual Private Cloud (VPC). It represents a virtual network card and holds the network attributes for an instance, including IP addresses, security groups, and MAC address. ENIs can be created, configured, and attached or detached on the fly, allowing for network traffic management. ENIs are a key component for network security, making it easier to manage network configurations."
+}

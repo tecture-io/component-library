@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 R5 Instance",
+    "short": "A type of Amazon EC2 instance optimized for memory-intensive applications, offering up to 768 GB of RAM.",
+    "description": "Amazon EC2 R5 instances are a part of the Amazon EC2 family, designed to offer memory-optimized instances. They provide a balance of compute, memory, and network resources, making them ideal for high-performance databases, distributed web scale in-memory caches, mid-size in-memory databases, real-time big data analytics, and other enterprise applications. R5 instances use the AWS Nitro System, a combination of dedicated hardware and lightweight hypervisor, which provides practically all of the compute and memory resources to your database workloads."
+}

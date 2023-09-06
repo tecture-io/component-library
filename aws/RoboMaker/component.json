@@ -1,0 +1,5 @@
+{
+    "name": "AWS RoboMaker",
+    "short": "A service on AWS that helps developers to develop, test, and deploy intelligent robotics applications at scale.",
+    "description": "AWS RoboMaker is a service that aids in developing, testing, and deploying intelligent robotics applications at scale. It extends the open-source robotics software framework, ROS, with connectivity to AWS services including machine learning, monitoring, and analytics. With cloud-based simulation, developers can test their robots in near real-world conditions. RoboMaker also simplifies fleet management by allowing over-the-air deployment of updates. It is a comprehensive solution for robotics developers looking to expedite their robotics development lifecycle."
+}

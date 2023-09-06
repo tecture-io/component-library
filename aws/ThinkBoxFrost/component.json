@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Thinkbox Frost",
+    "short": "A plugin for Autodesk 3ds Max that generates realistic fluid simulations on AWS.",
+    "description": "Amazon Thinkbox Frost is a powerful meshing plugin used for generating smooth, clear meshes from particle cloud data, point clouds, or volumetrics. It's designed for use in visual effects and motion graphics. It can handle billions of particles, making it ideal for large-scale simulations. Frost is compatible with Autodesk 3ds Max and Maya, allowing seamless integration into existing workflows. It offers robust scripting APIs for customization and automation, providing flexibility for creative projects."
+}
