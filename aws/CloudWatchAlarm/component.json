@@ -1,0 +1,5 @@
+{
+    "name": "Amazon CloudWatch Alarm",
+    "short": "A monitoring tool on AWS that allows you to set alarms and send notifications based on specific metrics or anomalies in your application's behavior.",
+    "description": "Amazon CloudWatch Alarm is a feature of AWS CloudWatch that allows users to monitor AWS resources and applications in real-time. It triggers actions based on predefined thresholds and sends notifications when changes occur. Users can set alarms for any metric such as CPU usage, latency, or error rates. It provides insights into system or application health, ensuring prompt identification and resolution of issues. Integrated with SNS, it can send alerts through email, SMS, or even trigger Lambda functions."
+}

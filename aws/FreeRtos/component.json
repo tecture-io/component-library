@@ -1,0 +1,5 @@
+{
+    "name": "Amazon FreeRTOS",
+    "short": "An IoT operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage.",
+    "description": "Amazon FreeRTOS is an operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, and maintain. Based on the FreeRTOS kernel, it adds software libraries that make it easy to securely connect to cloud services like AWS IoT Core or to more powerful edge devices running AWS IoT Greengrass. Developers can leverage this to build IoT devices and applications with efficient resource usage and reliable connectivity."
+}

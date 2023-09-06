@@ -1,0 +1,5 @@
+{
+    "name": "Amazon CloudWatch Logs",
+    "short": "A monitoring service on AWS that collects, stores, and allows you to analyze your system, application, and custom log files.",
+    "description": "Amazon CloudWatch Logs is an AWS service that monitors, stores, and provides access to log files from Amazon EC2 instances, AWS CloudTrail, Route 53, and other sources. It allows users to centralize the logs from all systems, applications, and AWS services that they use, in a single, highly scalable service. With CloudWatch Logs, users can track patterns, troubleshoot issues, and set alarms for specific phrases, values or patterns. It is an essential tool for log analysis and operational troubleshooting."
+}

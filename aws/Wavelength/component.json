@@ -1,0 +1,5 @@
+{
+    "name": "AWS Wavelength",
+    "short": "A service that brings AWS services to the edge of the 5G network, minimizing latency to connect to an application from a mobile device.",
+    "description": "AWS Wavelength is a service designed to bring AWS services to the edge of the 5G network, minimizing latency when connecting to an application from a mobile device. Wavelength embeds AWS compute and storage services within the telecommunications providers\u2019 datacenters at the edge of the 5G network, so applications can serve end-users with single-digit millisecond latencies. This is particularly useful for latency-sensitive use cases like machine learning inference at the edge, IoT, and video and game streaming."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Elastic Block Store (EBS)",
+    "short": "A high-performance block-level storage service designed for use with Amazon Elastic Compute Cloud (EC2) for both throughput and transaction intensive workloads at any scale.",
+    "description": "Amazon Elastic Block Store (EBS) is a high-performance block storage service designed for use with Amazon EC2. It provides persistent, durable storage for data-intensive applications, databases, and workload needs. EBS offers several volume types tailored for different use cases, including General Purpose, Provisioned IOPS, and Throughput Optimized. Its snapshot feature facilitates point-in-time copies of volumes, aiding backups and disaster recovery. EBS volumes are automatically replicated within their Availability Zone, ensuring high availability and durability."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS Direct Connect Gateway",
+    "short": "A dedicated network connection from your premises to AWS, which allows you to access your AWS resources in a secure and reliable way.",
+    "description": "AWS Direct Connect Gateway is a networking service enabling AWS customers to connect their on-premise networks to multiple AWS regions using a single Direct Connect connection. It works with Virtual Private Gateways and Transit Gateways, facilitating secure, private connections between AWS VPCs and data centers. This simplifies network architecture, enhances bandwidth efficiency, and reduces costs. With Direct Connect Gateway, users can manage cross-region and on-premises to cloud connectivity, ensuring a reliable and consistent networking experience."
+}

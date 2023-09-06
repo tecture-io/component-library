@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 X1 Instance",
+    "short": "A type of Amazon EC2 instance optimized for memory-intensive applications.",
+    "description": "Amazon EC2 X1 Instances are part of Amazon's Elastic Compute Cloud service, offering the highest memory capacity among EC2 instance types. They're designed for high-performing, memory-intensive workloads such as in-memory databases, big data processing, and HPC. X1 instances feature up to 2TB of memory and use Intel Xeon E7 processors. They're ideal for applications requiring high memory and compute power, providing a scalable and reliable platform for resource-intensive operations at competitive pricing."
+}

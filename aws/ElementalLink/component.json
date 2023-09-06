@@ -1,0 +1,5 @@
+{
+    "name": "AWS Elemental Link",
+    "short": "A device that connects a live video source, like a camera or other video production equipment, to AWS Elemental MediaLive.",
+    "description": "AWS Elemental Link is a device that makes it easy to connect a live video source, like a camera or other video production equipment, to AWS Elemental MediaLive. It simplifies the process of transferring video to the AWS cloud for processing and delivery to viewers on various devices. It's small, cost-effective, and easy to deploy and manage. It's ideal for companies needing to stream live events, corporate meetings, or television broadcasts. AWS Elemental Link ensures high-quality, real-time video streaming."
+}

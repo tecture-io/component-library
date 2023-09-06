@@ -1,0 +1,5 @@
+{
+    "name": "AWS RoboMaker Simulation",
+    "short": "A service that allows developers to simulate, test, and validate their robot applications in a virtual environment.",
+    "description": "AWS RoboMaker Simulation is a service that provides a simulated environment for testing robotics applications. It allows developers to speed up the testing process, simulate real-world conditions, and reduce costs by eliminating the need for physical hardware during development. It supports both batch and interactive simulations, and integrates with other AWS services for enhanced analytics and machine learning capabilities. This service aids in building, testing, and deploying intelligent robotics applications at scale."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon SageMaker Ground Truth",
+    "short": "A service by AWS that assists in the creation and validation of training data sets for machine learning.",
+    "description": "Amazon SageMaker Ground Truth is a fully managed data labeling service that makes it easy to build highly accurate training datasets for machine learning. It offers built-in workflows and interfaces for common labeling tasks, such as text classification and object detection. It also provides options for worker types: public or private workforce, or third-party vendors through AWS Marketplace. Ground Truth uses machine learning to reduce the time and effort required for data labeling, helping to accelerate the development of ML models."
+}

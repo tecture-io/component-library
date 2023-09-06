@@ -1,0 +1,5 @@
+{
+    "name": "Amazon EC2 M5 Instances",
+    "short": "High-performance general-purpose compute instances on AWS EC2 service.",
+    "description": "Amazon EC2 M5 Instances are the latest generation of Amazon's general-purpose instances. They provide a balance of compute, memory, and network resources, making them ideal for various workloads, including web and application servers, backend servers for enterprise applications, gaming servers, and caching fleets. They are powered by Intel Xeon Scalable processors and offer up to 96 vCPUs and 384 GiB of memory. M5 instances offer increased efficiency and reduced costs compared to previous generation M4 instances."
+}

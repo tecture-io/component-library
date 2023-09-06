@@ -1,0 +1,5 @@
+{
+    "name": "AWS IoT Alexa Voice Service",
+    "short": "A service on AWS that allows developers to integrate Alexa's voice recognition and natural language understanding into their own applications or devices.",
+    "description": "AWS IoT Alexa Voice Service (AVS) is a suite enabling developers to incorporate Alexa's functionalities into their IoT devices. It provides voice recognition, natural language understanding, and other features that make devices Alexa-enabled. With AVS, users can make voice requests to play music, answer questions, set alarms, and control smart home devices. It can be used in various devices like speakers, cars, or wearables. It provides developers with a way to create richer, voice-enabled user experiences."
+}

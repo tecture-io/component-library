@@ -1,0 +1,5 @@
+{
+    "name": "AWS Well-Architected Tool",
+    "short": "A service in AWS that helps you review and improve your workloads against best-practice guidelines.",
+    "description": "The AWS Well-Architected Tool is a service which aids in reviewing the state of workloads and comparing them to the latest AWS architectural best practices. It offers guidance to build and deploy faster, lower risks, increase workload performance, and make informed decisions. The tool provides a set of questions across five pillars: Operational Excellence, Security, Reliability, Performance Efficiency, and Cost Optimization. It then generates a report suggesting improvements for better alignment with AWS best practices."
+}

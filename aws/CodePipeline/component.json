@@ -1,0 +1,5 @@
+{
+    "name": "AWS CodePipeline",
+    "short": "A continuous integration and continuous delivery service to automate your release pipelines on AWS.",
+    "description": "AWS CodePipeline is a fully managed continuous integration and continuous delivery (CI/CD) service that automates the build, test, and deployment processes of applications. It integrates with pre-existing tools and supports popular programming languages. Users can design their own deployment model, enabling rapid, reliable updates. With robust automation and orchestration, CodePipeline accelerates release process, improves code quality, and reduces the risk of manual errors, making it a powerful tool for DevOps teams."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Elastic Inference",
+    "short": "A feature of AWS that allows you to attach low-cost GPU-powered inference acceleration to Amazon EC2 and Amazon SageMaker instances.",
+    "description": "Amazon Elastic Inference is a service that allows you to attach low-cost GPU-powered inference acceleration to Amazon EC2 and SageMaker instances. It helps you reduce the cost of running deep learning inference by up to 75%. You can choose the amount of inference acceleration that best fits your needs, avoiding the expense of up-front hardware investments. It supports popular frameworks like TensorFlow, Apache MXNet, and ONNX. Elastic Inference is ideal for applications that need occasional access to GPU."
+}

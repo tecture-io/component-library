@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Glacier",
+    "short": "A secure, durable, and extremely low-cost storage service on AWS for data archiving and long-term backup.",
+    "description": "Amazon Glacier is a secure, durable, and cost-effective storage service for long-term backup and archival of data. It is designed to retain any volume of data for months, years, or decades at a minimal cost. Glacier offers three retrieval options - Expedited, Standard, and Bulk, allowing users to access data in minutes or hours depending on urgency. It provides robust security with encryption features, ensuring data remains secure and compliant with regulatory standards."
+}

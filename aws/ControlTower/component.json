@@ -1,0 +1,5 @@
+{
+    "name": "AWS Control Tower",
+    "short": "A service on AWS that automates the setup of a new, secure, multi-account AWS environment based on best practices.",
+    "description": "AWS Control Tower is a service for setting up and managing multi-account AWS environments. It automates the setup of a well-architected multi-account environment or landing zone, implementing best-practice blueprints for security and compliance. Control Tower also provides a dashboard for visibility into your accounts and workloads. With automated guardrails, it helps ensure adherence to policies while enabling governance at scale. It's ideal for organizations seeking to simplify AWS environment setup, especially those with complex compliance requirements."
+}

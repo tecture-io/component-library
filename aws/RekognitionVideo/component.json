@@ -1,0 +1,5 @@
+{
+    "name": "Amazon Rekognition Video",
+    "short": "A deep learning powered video analysis service on AWS that makes it easy to extract meaningful metadata from large volumes of video content.",
+    "description": "Amazon Rekognition Video is a deep learning powered video analysis service by AWS. It can identify objects, people, text, scenes, and activities, as well as detect any inappropriate content. It can track people through shots and scenes, and even detect faces in videos. It can help automate tasks, enhance content discovery, or maintain safety and compliance measures. With AWS Rekognition Video, developers can build intelligent video applications without machine learning expertise."
+}

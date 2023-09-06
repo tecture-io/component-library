@@ -1,0 +1,5 @@
+{
+    "name": "Amazon WorkDocs",
+    "short": "A fully managed, secure document storage and sharing service on AWS with strong administrative controls and feedback capabilities.",
+    "description": "Amazon WorkDocs is a secure, fully managed, file collaboration and management service. It allows users to easily create, edit, and share content, and collaborate with others from any device. WorkDocs also provides robust administrative controls, user management, feedback capability, versioning, and sync functionalities. It integrates seamlessly with AWS security, ensuring data privacy. This service is cost-effective as you only pay for active user accounts. Ideal for enterprises, WorkDocs simplifies document collaboration and improves productivity."
+}

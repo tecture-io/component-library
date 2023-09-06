@@ -1,0 +1,5 @@
+{
+    "name": "AWS IoT Device Simulator",
+    "short": "A virtual device testing service on AWS that allows you to simulate real-world IoT devices for testing applications.",
+    "description": "The AWS IoT Device Simulator is a tool that allows you to create and simulate hundreds of virtual connected devices without the need for physical devices. It helps to accelerate IoT application development by testing how applications handle diverse device conditions, such as connection interruptions or data format inconsistencies. It also integrates with AWS IoT services, promoting efficient device-to-cloud interaction testing. It's a cost-effective way to create robust, scalable, and interoperable IoT solutions."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "AWS Migration Hub",
+    "short": "A centralized service on AWS that helps users plan, track, and coordinate the migration of applications to the AWS cloud.",
+    "description": "AWS Migration Hub is a centralized service that simplifies and accelerates cloud migration. It provides a single location to track the progress of application migrations across multiple AWS services and partner solutions. With Migration Hub, you can choose the AWS and partner migration tools that best fit your needs, while giving visibility into the status of migrations across your portfolio of applications. This service eases the migration process, ensuring a smoother transition to the AWS cloud."
+}
