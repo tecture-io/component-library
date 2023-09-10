@@ -1,5 +1,5 @@
 {
-    "name": "AWS App Mesh Virtual Router",
+    "name": "Amazon AppMesh Virtual Router",
     "short": "A service within AWS App Mesh that acts as a traffic director, routing incoming requests to different virtual services based on pre-set rules.",
     "description": "AWS App Mesh Virtual Router is a component of App Mesh, Amazon's service mesh. It routes network traffic between services in your application. Each virtual router handles the traffic for a specified service, and you can create multiple routes within it to distribute the traffic to different virtual nodes based on specified rules. The virtual router ensures efficient, reliable, and secure communication among the services in your application, leveraging the benefits of App Mesh's observability, traffic control, and security features."
 }

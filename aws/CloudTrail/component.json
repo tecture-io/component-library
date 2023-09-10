@@ -1,5 +1,5 @@
 {
-    "name": "AWS CloudTrail",
+    "name": "Amazon CloudTrail",
     "short": "A service that enables governance, compliance, operational auditing, and risk auditing of your AWS account.",
     "description": "AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. It automatically records activity made on your account including actions taken through the AWS Management Console, AWS SDKs, command line tools, and other AWS services. This service provides event history of your AWS account activity, including actions taken through IAM roles, streamlining security analysis, resource change tracking, and troubleshooting."
 }

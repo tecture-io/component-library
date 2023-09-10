@@ -1,5 +1,5 @@
 {
-    "name": "AWS Key Management Service",
+    "name": "AWS KMS (Key Management Service)",
     "short": "A secure and managed service that lets you create and control the encryption keys used to encrypt your data on AWS.",
     "description": "AWS Key Management Service (KMS) is a security service that facilitates the management of cryptographic keys for other Amazon services and applications. It helps to create and control the keys used to encrypt and decrypt data, ensuring secure access. KMS supports various key types like symmetric, asymmetric, and multi-region keys. It integrates with AWS CloudTrail, providing key usage logs for audit purposes. With KMS, developers can ensure data security and compliance across their AWS environment."
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Amazon VPC",
+    "name": "Amazon VPC (Virtual Private Cloud)",
     "short": "A service by AWS that allows users to provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.",
     "description": "Amazon VPC (Virtual Private Cloud) is a service that allows users to create a logically isolated section within the AWS Cloud. Users can launch AWS resources, like EC2 instances, into a virtual network that they define. They have complete control over the virtual networking environment, including selection of IP address range, creation of subnets, and configuration of route tables and network gateways. VPCs provide a secure, customizable, and scalable infrastructure for hosting applications on AWS."
 }

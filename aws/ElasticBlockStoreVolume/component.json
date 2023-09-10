@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Elastic Block Store (EBS)",
+    "name": "Amazon EBS (Elastic Block Store) Volume",
     "short": "A highly available block storage service on AWS designed for use with Amazon EC2 instances.",
     "description": "Amazon Elastic Block Store (EBS) is a scalable block storage service designed for use with Amazon EC2. It provides persistent, high-performance storage for data-intensive applications, and supports a variety of workloads like relational and non-relational databases, enterprise applications, containerized applications, big data analytics engines, file systems, and media workflows. EBS volumes are automatically replicated within its Availability Zone to prevent data loss due to failure, offering high availability and durability."
 }

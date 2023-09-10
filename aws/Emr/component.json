@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Elastic MapReduce",
+    "name": "Amazon EMR (Elastic MapReduce)",
     "short": "A web service on AWS that enables businesses, researchers, data analysts, and developers to easily and cost-effectively process vast amounts of data.",
     "description": "Amazon Elastic MapReduce (EMR) is a cloud-based big data platform that processes large data sets using popular frameworks like Apache Spark and Hadoop. It provides a managed service, simplifying the setup, operation, and scaling of data pipelines. EMR can handle structured, unstructured, log, web, and social media data, and can be used for data processing, machine learning, and data analysis. It supports multiple AWS data sources, including S3, DynamoDB, and RDS, offering flexibility and scalability."
 }

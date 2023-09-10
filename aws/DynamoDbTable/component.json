@@ -1,5 +1,5 @@
 {
-    "name": "Amazon DynamoDB",
+    "name": "Amazon DynamoDB Table",
     "short": "A fully managed NoSQL database service on AWS that provides fast and predictable performance with seamless scalability.",
     "description": "Amazon DynamoDB is a fully managed NoSQL database service from AWS with built-in security, backup and restore, and in-memory caching. It offers single-digit millisecond performance at any scale, and supports both key-value and document data models. DynamoDB is serverless with no servers to manage or provision. It automatically scales tables up and down to adjust for capacity and maintain performance. It's ideal for mobile, web, gaming, ad tech, and IoT applications."
 }

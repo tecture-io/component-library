@@ -1,5 +1,5 @@
 {
-    "name": "AWS Directory Service for Microsoft Active Directory (Enterprise Edition)",
+    "name": "AWS Directory Service Simple Ad",
     "short": "A managed service on AWS that makes it easy to setup and run Microsoft Active Directory in the AWS Cloud for highly demanding enterprise workloads.",
     "description": "AWS Directory Service for Microsoft Active Directory (Enterprise Edition) is a managed service that makes it easy to set up and run Active Directory in AWS. It provides the functionality of a Microsoft Active Directory domain, including domain join, group policy, LDAP, and Kerberos/NTLM authentication. It also extends on-premises Active Directory to AWS, enabling single sign-on to AWS services and RDS SQL Server instances. This service is highly scalable and secure, ensuring reliable directory operations."
 }

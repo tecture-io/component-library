@@ -1,5 +1,5 @@
 {
-    "name": "Elastic Load Balancing Classic Load Balancer",
+    "name": "AWS ELB (Elastic Load Balancing) Classic Load Balancer",
     "short": "A service in AWS that automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances.",
     "description": "The Elastic Load Balancing Classic Load Balancer is an AWS service that automatically distributes incoming application traffic across multiple targets like EC2 instances. It operates at both the request level and connection level, providing high availability and fault tolerance for applications. The Classic Load Balancer supports health checks, session stickiness, and robust monitoring. It can handle varying workloads in single or multiple availability zones, thus ensuring smooth application performance."
 }

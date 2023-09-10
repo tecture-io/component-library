@@ -1,5 +1,5 @@
 {
-    "name": "AWS Security Hub",
+    "name": "AWS Security Hub Finding",
     "short": "A centralized service on AWS that helps you manage security alerts and automate compliance checks.",
     "description": "AWS Security Hub is a comprehensive security and compliance service that aggregates and prioritizes security findings from across AWS services and partner tools. It provides a unified view of your security posture, highlighting potential issues and actions to mitigate risks. It comes with built-in automated security checks and integrates with AWS Organizations for multi-account management. By consolidating security data in one place, Security Hub simplifies security management and enhances your ability to meet compliance requirements."
 }

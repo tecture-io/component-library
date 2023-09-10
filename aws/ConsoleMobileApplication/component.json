@@ -1,5 +1,5 @@
 {
-    "name": "AWS Management Console Mobile Application",
+    "name": "AWS Console Mobile Application",
     "short": "A mobile application that allows users to securely manage their AWS services from their mobile devices.",
     "description": "The AWS Management Console Mobile Application is a mobile app that allows users to access and manage AWS resources anytime, anywhere. It offers a secure, simplified platform to monitor the health and performance of AWS resources, like EC2 instances, RDS databases, and Lambda functions. Users can view resource details, check alarms, and perform operational tasks. It\u2019s not an extensive replacement for the desktop console, but a convenient tool for quick, on-the-go AWS management and troubleshooting."
 }

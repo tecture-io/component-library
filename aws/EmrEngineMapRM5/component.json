@@ -1,5 +1,5 @@
 {
-    "name": "Amazon EMR",
+    "name": "Amazon EMR (Elastic MapReduce) Engine Map RM5",
     "short": "A cloud-based big data platform on AWS for processing large data sets using popular frameworks such as Spark and Hadoop.",
     "description": "Amazon EMR (Elastic MapReduce) is a cloud-based big data platform for processing large data sets. It utilizes popular frameworks like Apache Spark and Hadoop, allowing businesses to analyze and process vast amounts of data quickly and cost-effectively. EMR supports a variety of use cases, including data transformation, machine learning, and real-time analytics. It integrates with AWS data stores and analytics services, providing a comprehensive solution for data analysis. It's scalable, secure, and easy to manage."
 }

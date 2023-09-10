@@ -1,5 +1,5 @@
 {
-    "name": "Amazon S3",
+    "name": "Amazon S3 (Simple Storage Service) Object",
     "short": "A scalable object storage service on AWS for data backup, archiving and analytics.",
     "description": "Amazon S3 (Simple Storage Service) is a scalable object storage service by AWS for data backup, archival, and analytics. It's designed for 99.999999999% (11 9's) of durability and stores data for millions of applications worldwide. It offers a wide range of management features, including data lifecycle management, security, and compliance capabilities. S3 integrates with AWS Lambda, allowing businesses to analyze and process data in real-time. It also supports static website hosting, enabling cost-effective and scalable websites."
 }

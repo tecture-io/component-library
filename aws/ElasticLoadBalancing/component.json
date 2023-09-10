@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Elastic Load Balancing",
+    "name": "AWS ELB (Elastic Load Balancing)",
     "short": "A service on AWS that automatically distributes incoming application traffic across multiple targets, such as EC2 instances.",
     "description": "Amazon Elastic Load Balancing (ELB) is a highly available, scalable, and secure load balancer service from AWS. It automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, and IP addresses, in multiple Availability Zones. It supports routing and load balancing for HTTP, HTTPS, and TCP traffic. ELB offers three types of load balancers - Application Load Balancer, Network Load Balancer, and Classic Load Balancer, each suited for different scenarios."
 }

@@ -1,5 +1,5 @@
 {
-    "name": "AWS CloudEndure Migration",
+    "name": "Amazon CloudEndure Migration",
     "short": "A service on AWS that simplifies, expedites, and reduces the cost of cloud migration by offering highly automated disaster recovery.",
     "description": "AWS CloudEndure Migration is a service that simplifies, expedites, and reduces the cost of cloud migration by offering automated migration capabilities. It continuously replicates source machines into a staging area in your AWS account without causing downtime or impacting performance. Once you\u2019re ready to launch the production environment, CloudEndure Migration automatically converts your machines from their source infrastructure into the AWS infrastructure so you can quickly benefit from AWS's scalability, cost-effectiveness, and security."
 }

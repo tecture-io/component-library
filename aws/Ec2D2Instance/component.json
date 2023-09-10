@@ -1,5 +1,5 @@
 {
-    "name": "Amazon EC2",
+    "name": "Amazon EC2 D2 Instance",
     "short": "A web service on AWS that provides resizable compute capacity in the cloud.",
     "description": "Amazon EC2 (Elastic Compute Cloud) is a web-based service that provides resizable computing capacity in the AWS cloud. It's designed to facilitate web-scale computing for developers. EC2's simple interface allows you to obtain and configure capacity with minimal friction. It provides complete control of your computing resources and lets you run on Amazon\u2019s proven computing environment. With EC2, you can scale up or down to handle changes in requirements or spikes in popularity, reducing your need to forecast traffic."
 }

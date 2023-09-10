@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Aurora PostgreSQL",
+    "name": "Amazon Aurora PostgreSQL Instance",
     "short": "A relational database service on AWS that combines the speed and reliability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.",
     "description": "Amazon Aurora PostgreSQL is a relational database service (RDS) that combines the speed and reliability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. It offers up to five times the performance of the standard PostgreSQL database, along with increased scalability, durability, and security. It's fully managed by AWS, enabling automatic software patching, backups, and failure detection and recovery. Ideal for a wide range of applications, from small projects to large enterprise solutions."
 }
