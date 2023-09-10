@@ -1,0 +1,5 @@
+{
+  "name": "AWS Region",
+  "short": "An AWS Region is a geographical area with multiple data centers, designed for fault tolerance and efficient resource deployment close to a target audience.",
+  "description": "An AWS Region is a specific geographical area where Amazon Web Services (AWS) has data centers. Each Region consists of multiple, isolated, and physically separate Availability Zones, ensuring redundancy, fault tolerance, and low-latency data access. Selecting a Region for deploying resources is crucial for compliance, data residency requirements, and optimizing latency for end-users. AWS offers multiple Regions across the globe, enabling users to launch applications and services close to their target audience, ensuring efficient and resilient cloud operations."
+}
