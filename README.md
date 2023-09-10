@@ -4,7 +4,7 @@
 
 Tecture Component Library is a community managed collections of commonly used software architectural components. 
 
-You can use [tecture.io](tecture.https://tecture.io) to quickly create software architecture diagrams using pre-configured components from this library.
+You can use [tecture.io](https://tecture.io) to quickly create software architecture diagrams using pre-configured components from this library.
 
 ## Library Structure
 
@@ -40,4 +40,6 @@ If you need any new components added to the library, you can reach out to Tectur
 
 Or you could create a pull request with the new component definition to this repository and we will review and merge it.
 
-Also, if you find any of the component definitions are incorrect or outdated, please report it through discord channel or create a pull request with the updated definition.
+Also, if you find any of the component definitions are incorrect or outdated, please report it through [discord channel](https://discord.gg/3CuH5jKU) or create a pull request with the updated definition.
+
+~ Thank you
