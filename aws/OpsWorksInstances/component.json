@@ -1,5 +1,5 @@
 {
-    "name": "AWS OpsWorks Stacks Instances",
+    "name": "AWS OpsWorks Instances",
     "short": "A feature of AWS OpsWorks that allows you to manage servers on AWS and on-premises environments.",
     "description": "AWS OpsWorks Stacks Instances are virtual servers that you can start and stop on demand within your stacks. They can run applications, databases, or background jobs, and can be configured with layers defining their software setup. You can scale them horizontally and vertically, based on demand, schedule, or load. They come with automatic system maintenance, and integrate with AWS services for monitoring, logging, and security. This makes OpsWorks Stacks Instances a flexible and manageable choice for application hosting in the AWS environment."
 }

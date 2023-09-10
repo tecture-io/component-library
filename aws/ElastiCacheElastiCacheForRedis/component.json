@@ -1,5 +1,5 @@
 {
-    "name": "Amazon ElastiCache for Redis",
+    "name": "Amazon ElasticCache for Redis",
     "short": "A fully managed in-memory data store service on AWS, compatible with Redis, for real-time applications.",
     "description": "Amazon ElastiCache for Redis is a web service that makes it easy to deploy, operate, and scale an in-memory data store or cache in the cloud. It offers a high-performance, fully managed Redis service for use cases such as web, mobile apps, gaming, ad-tech, and IoT. ElastiCache for Redis supports data structures like strings, hashes, lists, and sets. Its automatic failover capability ensures high availability, while it also offers robust security features, including data encryption and access control."
 }

@@ -1,5 +1,5 @@
 {
-    "name": "AWS App Runner",
+    "name": "Amazon Launch Wizard",
     "short": "A fully managed service on AWS that makes it easy for developers to quickly build, deploy, and scale containerized applications.",
     "description": "AWS App Runner is a service that simplifies the process of building, deploying, and scaling containerized applications. Users can provide source code or containers, and App Runner automatically builds and deploys the application, taking care of infrastructure management. It supports continuous deployment through integration with repositories like GitHub. Ideal for rapid application development and iterative updates, App Runner offers an efficient, scalable solution for application deployment and operation in the AWS cloud."
 }

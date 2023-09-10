@@ -1,5 +1,5 @@
 {
-    "name": "AWS Cloud Map",
+    "name": "AWS CloudMap Service",
     "short": "A managed cloud resource discovery service on AWS for locating running services and maintaining their state.",
     "description": "AWS Cloud Map is a cloud resource discovery service. It helps you define custom names for your application resources, and it keeps track of these dynamically changing resources. With Cloud Map, you can manage the health of microservices and improve system resilience. It automatically registers and deregisters instances and containers, effectively managing the environment. It integrates with other AWS services like ECS, EKS, and Lambda. Cloud Map optimizes application performance, simplifies operations, and enhances service discovery."
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Simple Notification Service (SNS)",
+    "name": "Amazon Forums",
     "short": "A web service on AWS that enables applications, end-users, and devices to instantly send and receive notifications from the cloud.",
     "description": "Amazon Simple Notification Service (SNS) is a fully managed messaging service from AWS. It enables microservices, distributed systems, and serverless applications to send messages to multiple subscribers. SNS supports a variety of subscription types, including Amazon SQS, AWS Lambda, and HTTP/S webhooks. It's a robust system designed to deliver high-throughput, push-based, many-to-many messaging. Features include message filtering, deduplication, and retry policies. Its scalability and flexibility make it an essential tool for cloud-based asynchronous communication."
 }

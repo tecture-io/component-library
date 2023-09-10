@@ -1,0 +1,5 @@
+{
+    "name": "AWS VPC Subnet",
+    "short": "An AWS VPC Subnet is a segmented section of a Virtual Private Cloud, representing an IP address range within an Availability Zone, used to deploy and organize AWS resources.",
+    "description": "An AWS VPC (Virtual Private Cloud) Subnet is a segmented section of an AWS VPC where resources, like EC2 instances, are deployed. Each subnet resides within one Availability Zone and represents a range of IP addresses in your VPC. Subnets can be either public, with routes to the Internet via an Internet Gateway, or private, without direct internet access. By strategically placing resources in different subnets, users can structure their network for enhanced security, traffic flow, and resource isolation, ensuring scalable and efficient cloud architecture."
+}

@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Elastic Inference",
+    "name": "Amazon TorchServe",
     "short": "A feature of AWS that allows you to attach low-cost GPU-powered inference acceleration to Amazon EC2 and Amazon SageMaker instances.",
     "description": "Amazon Elastic Inference is a service that allows you to attach low-cost GPU-powered inference acceleration to Amazon EC2 and SageMaker instances. It helps reduce the cost of running deep learning inference by up to 75%. Elastic Inference supports TensorFlow, Apache MXNet, and ONNX models, among others. It's perfect for applications that require intensive compute capabilities for tasks like image processing, text analysis, or any other machine learning workload, while maintaining cost efficiency."
 }

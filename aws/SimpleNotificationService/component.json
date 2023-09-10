@@ -1,5 +1,5 @@
 {
-    "name": "Amazon SNS",
+    "name": "Amazon SNS (Simple Notification Service)",
     "short": "A highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications.",
     "description": "Amazon Simple Notification Service (SNS) is a fully managed pub/sub messaging service. It enables the decoupling of microservices, distributed systems, and serverless applications. SNS provides topics for high-throughput, push-based, many-to-many messaging. It leverages the power of the cloud to dynamically scale based on demand. It supports various subscription types, including HTTP/S, email, SMS, and SQS, and can fan out messages to large numbers of recipients. SNS ensures durable, secure, and highly available communication between different application components."
 }

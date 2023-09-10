@@ -1,5 +1,5 @@
 {
-    "name": "AWS Cloud Map",
+    "name": "AWS CloudMap Resource",
     "short": "A service discovery tool on AWS that helps your applications to locate services dynamically.",
     "description": "AWS Cloud Map is a cloud resource discovery service that enables the automatic registration of your application components and allows for their easy discovery. It provides a unified service registry for your cloud-based applications, making it easy to manage their names, locations, metadata, and health status. AWS Cloud Map helps maintain high availability and reduce system failures by automatically updating service statuses in the registry. It integrates with other AWS services to aid in efficient and seamless application scaling."
 }

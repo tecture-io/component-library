@@ -1,5 +1,5 @@
 {
-    "name": "AWS Lambda",
+    "name": "AWS Lambda Function",
     "short": "A compute service on AWS that lets you run code without provisioning or managing servers.",
     "description": "AWS Lambda is a serverless compute service allowing you to run your code without provisioning or managing servers. It executes code only when needed and scales automatically, from a few requests per day to thousands per second. It supports multiple programming languages and integrates with other AWS services. Billing is based on the compute time you consume, making it cost-effective. Its built-in security and monitoring features ensure a secure and efficient execution environment."
 }

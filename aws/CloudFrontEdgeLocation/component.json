@@ -1,5 +1,5 @@
 {
-    "name": "Amazon CloudFront",
+    "name": "Amazon CloudFront Edge Location",
     "short": "A content delivery network service on AWS that delivers data, videos, applications, and APIs to users globally with low latency and high transfer speeds.",
     "description": "Amazon CloudFront is a fast content delivery network (CDN) offered by AWS. It securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds. CloudFront is integrated with AWS Shield, Route 53, S3, and Lambda@Edge, providing a simple, scalable, and secure solution for content delivery. It also supports SSL/TLS encryptions and allows for custom domain names, ensuring a secure and personalized user experience."
 }

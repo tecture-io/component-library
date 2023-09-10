@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Elastic Container Registry",
+    "name": "Amazon ECR (Elastic Container Registry) Image",
     "short": "A fully managed Docker container registry on AWS, allowing developers to store, manage, and deploy Docker container images.",
     "description": "Amazon Elastic Container Registry (ECR) is a fully-managed container registry provided by AWS, allowing developers to store, manage, and deploy Docker container images. It's secure, scalable, and reliable, offering high performance regardless of workloads. It integrates with other AWS services such as ECS, EKS, and Lambda for seamless deployment of container-based applications. ECR supports private repositories and implements AWS authentication mechanisms to ensure secure image storage. It's also compliant with Docker CLI, simplifying image push, pull, and management."
 }

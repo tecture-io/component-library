@@ -1,5 +1,5 @@
 {
-    "name": "Amazon S3 Replication",
+    "name": "Amazon S3 (Simple Storage Service) Replication",
     "short": "A feature in AWS that automatically replicates S3 objects to a destination bucket located in a different AWS region.",
     "description": "Amazon S3 Replication is a feature in Amazon S3 providing automatic, asynchronous copying of objects across buckets in different AWS Regions. It supports replicating data within the same region (SRR) or between different regions (CRR), offering flexibility for backup, disaster recovery, and compliance needs. Replication is based on bucket-level configurations and can include object filters. With S3 Replication Time Control (S3 RTC), it's possible to replicate objects in less than 15 minutes. It provides an efficient, secure way to manage and distribute data."
 }

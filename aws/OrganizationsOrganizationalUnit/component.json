@@ -1,5 +1,5 @@
 {
-    "name": "AWS Organizations",
+    "name": "AWS Organizational Unit",
     "short": "A service on AWS that allows you to centrally manage and enforce policies for multiple AWS accounts.",
     "description": "AWS Organizations is a service that provides centralized management for multiple AWS accounts. It allows users to consolidate billing, create and manage policies for accounts, and apply controls to ensure compliance with company policies or regulatory standards. AWS Organizations supports both consolidated billing and all features, with the ability to invite existing accounts to join your organization or create new accounts. The service offers APIs to automate tasks, making it easier for users to manage their AWS environment effectively."
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Elastic Compute Cloud",
-    "short": "A web service on AWS that provides resizable compute capacity in the cloud, allowing users to rent virtual servers to run their applications.",
+    "name": "Amazon EC2 (Elastic Compute Cloud)",
+    "short": "Elastic Compute Cloud. A web service on AWS that provides resizable compute capacity in the cloud, allowing users to rent virtual servers to run their applications.",
     "description": "Amazon Elastic Compute Cloud (EC2) is a web-based service providing resizable compute capacity in the cloud. It's designed for developers to have complete control over their computing resources. EC2 instances cater to varying workload types and budget, with options from micro to GPU instances. It supports multiple OS, security settings, and network configurations. Paired with other AWS services like S3 and EBS, EC2 provides a comprehensive, scalable solution for computing, storage, and more, all on a pay-as-you-go basis."
 }
