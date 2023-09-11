@@ -1,5 +1,5 @@
 {
-    "name": "AWS Identity and Access Management (IAM)",
+    "name": "AWS IAM (Identity and Access Management) Long term credentials",
     "short": "A service on AWS that helps securely control access to AWS resources for your users.",
     "description": "AWS Identity and Access Management (IAM) is a web service that helps manage access to AWS resources securely. It allows creation and management of AWS users and groups and uses permissions to allow or deny their access to AWS resources. IAM provides shared access to your AWS account, granular permissions, identity federation, multi-factor authentication for enhanced security. It also offers policy simulation tools to test policies before applying. IAM is essential for governing access and promoting secure use of AWS infrastructure."
 }

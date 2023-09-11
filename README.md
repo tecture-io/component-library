@@ -36,10 +36,10 @@ Each component must contain light.svg and dark.svg files that represent the comp
 
 ## Contributing
 
-If you need any new components added to the library, you can reach out to Tecture developers through the [discord channel](https://discord.gg/3CuH5jKU). We will try to add the required architectural components as soon as possible.
+If you need any new components added to the library, you can reach out to Tecture developers through the [discord channel](https://tecture.io/discord). We will try to add the required architectural components as soon as possible.
 
 Or you could create a pull request with the new component definition to this repository and we will review and merge it.
 
-Also, if you find any of the component definitions are incorrect or outdated, please report it through [discord channel](https://discord.gg/3CuH5jKU) or create a pull request with the updated definition.
+Also, if you find any of the component definitions are incorrect or outdated, please report it through [discord channel](https://tecture.io/discord) or create a pull request with the updated definition.
 
 ~ Thank you

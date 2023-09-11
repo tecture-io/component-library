@@ -1,5 +1,5 @@
 {
-    "name": "AWS CloudEndure Disaster Recovery",
+    "name": "Amazon CloudEndure Disaster Recovery",
     "short": "A service on AWS that provides rapid, reliable recovery of physical, virtual, and cloud-based servers into AWS in the event of IT disruptions.",
     "description": "AWS CloudEndure Disaster Recovery is a service that provides fast and reliable recovery of physical, virtual, and cloud-based servers into AWS. It continuously replicates your machines (including system state, OS, applications, databases, settings) to a low-cost staging area in your AWS account. In case of a disaster, you can quickly launch thousands of machines simultaneously. It minimizes downtime and data loss, ensuring your business continuity and reducing overall disaster recovery costs."
 }

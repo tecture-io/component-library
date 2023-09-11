@@ -1,5 +1,5 @@
 {
-    "name": "Application Load Balancer",
+    "name": "AWS ELB (Elastic Load Balancing) Application Load Balancer",
     "short": "A load balancing service for AWS applications that automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances.",
     "description": "The AWS Application Load Balancer is a component of the Elastic Load Balancing service, designed to distribute incoming application traffic across multiple targets like EC2 instances, containers, and IP addresses in multiple Availability Zones. It operates at the request level (layer 7), providing advanced routing, microservices support, and real-time analytics. It also integrates with AWS services for auto-scaling, monitoring, and security, ensuring high availability and fault tolerance for your applications."
 }

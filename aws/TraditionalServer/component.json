@@ -1,5 +1,5 @@
 {
-    "name": "Amazon EC2",
+    "name": "Amazon Traditional Server",
     "short": "A web service that provides resizable compute capacity in the cloud, designed to make web-scale computing easier for developers.",
     "description": "Amazon EC2 (Elastic Compute Cloud) is a web service that provides resizable compute capacity in the cloud. It allows for easy scalability of applications by providing a simple web services interface. EC2 offers a variety of instance types optimized to fit different use cases, including memory-optimized, storage-optimized, and GPU instances. It integrates seamlessly with other AWS services such as S3, RDS, and VPC, and offers robust security for your applications. EC2 gives developers the tools to build and host applications on a massive scale."
 }

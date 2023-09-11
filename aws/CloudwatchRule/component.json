@@ -1,5 +1,5 @@
 {
-    "name": "Amazon CloudWatch Events Rule",
+    "name": "Amazon CloudWatch Rule",
     "short": "A service in AWS that enables you to automate your AWS services and respond to system events such as application availability issues or resource changes.",
     "description": "Amazon CloudWatch Events Rule is a service that enables AWS resources to automatically respond to system events. Events may be changes to AWS resources or scheduled system maintenance. Users can set up rules to deliver specific events to one or more target functions or resources. This service essentially creates a system of automated responses, enhancing system monitoring, and operational health. CloudWatch Events Rule simplifies event-driven programming, allowing systems to adapt in real-time to changes."
 }

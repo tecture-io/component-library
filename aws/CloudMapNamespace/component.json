@@ -1,5 +1,5 @@
 {
-    "name": "AWS Cloud Map",
+    "name": "AWS CloudMap Namespace",
     "short": "A service discovery tool on AWS that helps your applications locate other services or resources they need to function.",
     "description": "AWS Cloud Map is a service discovery tool that enables your cloud applications to discover and connect with each other automatically. It maintains an up-to-date directory of all the resources running within your AWS environment, allowing services to find each other with custom names and attributes. Cloud Map is particularly useful in microservices architectures and serverless applications, ensuring smooth and efficient inter-service communication. It integrates with other AWS services and supports DNS-based discovery for maximum flexibility."
 }

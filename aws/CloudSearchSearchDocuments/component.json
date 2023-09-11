@@ -1,5 +1,5 @@
 {
-    "name": "Amazon CloudSearch",
+    "name": "Amazon CloudSearch - Search Documents",
     "short": "A managed service on AWS that makes it easy to set up, manage, and scale a search solution for your website or application.",
     "description": "Amazon CloudSearch is a scalable, fully managed search service provided by AWS. It enables developers to incorporate search functionality into their applications. Users can easily index and search large amounts of data in real-time and fine-tune search results. It supports 34 languages and offers features like highlighting, faceting, and geospatial search. Amazon CloudSearch automatically scales to accommodate data volume and query rate, ensuring flexible, reliable, and cost-effective search solutions."
 }

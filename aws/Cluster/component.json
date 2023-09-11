@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Redshift",
+    "name": "Amazon Cluster",
     "short": "A fully managed, petabyte-scale data warehousing service on AWS.",
     "description": "Amazon Redshift is AWS\u2019s fully managed, petabyte-scale data warehousing service. It delivers fast query and I/O performance for any size dataset using the same SQL-based tools and business intelligence applications that you use today. Redshift uses a variety of innovations to obtain high query performance on large datasets. Its columnar storage, data compression, and zone maps reduce the amount of I/O needed to perform queries. With automated backups, scalability, and robust security, Redshift offers a comprehensive data analysis solution."
 }

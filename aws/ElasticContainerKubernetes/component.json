@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Elastic Kubernetes Service (EKS)",
+    "name": "Amazon EKS (Elastic Kubernetes Service)",
     "short": "A managed service on AWS that makes it easy to deploy, manage, and scale containerized applications using Kubernetes.",
     "description": "Amazon Elastic Kubernetes Service (EKS) is a fully managed container orchestration service provided by AWS. It eases the deployment, scaling, and management of containerized applications using Kubernetes, an open-source system. EKS integrates with AWS services for security, networking, and storage, supports both Windows and Linux containers, and is certified Kubernetes conformant. This allows you to migrate any standard Kubernetes application to EKS without needing to modify the code. It ensures high availability, scalability, and flexibility in application management."
 }

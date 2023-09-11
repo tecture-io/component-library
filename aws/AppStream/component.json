@@ -1,5 +1,5 @@
 {
-    "name": "Amazon AppStream 2.0",
+    "name": "Amazon AppStream",
     "short": "A fully managed, secure application streaming service on AWS that allows you to stream desktop applications to any device running a web browser.",
     "description": "Amazon AppStream 2.0 is a fully managed, secure application streaming service from AWS. It allows you to stream your desktop applications to any device with a web browser, without rewriting them. It supports Windows-based applications and scales automatically to any number of users across the globe by deploying in different AWS regions. AppStream 2.0 also integrates with your Active Directory, network, cloud storage, and other AWS services. It is ideal for delivering applications to contractors, partners, or mobile workers."
 }

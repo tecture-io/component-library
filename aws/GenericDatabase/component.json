@@ -1,5 +1,5 @@
 {
-    "name": "Amazon RDS",
+    "name": "Amazon Generic Database",
     "short": "A relational database service provided by Amazon Web Services that supports multiple database engines.",
     "description": "Amazon Relational Database Service (RDS) is a managed database service that simplifies setup, operation, and scaling of relational databases for applications. It provides cost-efficient, resizable capacity for industry-standard relational databases and manages common database administration tasks. RDS supports several database instances including MySQL, PostgreSQL, MariaDB, Oracle, and SQL Server. It also offers automated backups, patch management, and failover support, making it easier to meet compliance requirements and enhance the availability of databases."
 }

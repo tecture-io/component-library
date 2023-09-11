@@ -1,5 +1,5 @@
 {
-    "name": "Amazon VPC Elastic Network Adapter",
+    "name": "Amazon VPC ENA (Elastic Network Adapter)",
     "short": "A virtual interface for your VPC that allows you to manage the network traffic to your instances.",
     "description": "The Amazon VPC Elastic Network Adapter (ENA) is a virtual network interface that you can attach to an instance in your Virtual Private Cloud (VPC). ENA provides high-performance networking capabilities, supporting up to 100 Gbps of bandwidth for certain instance types. It supports features like multiple queues, long send and receive buffers, and offloads for packet processing to improve network traffic management. It's a key component for instances requiring high network performance, scalability, and availability."
 }

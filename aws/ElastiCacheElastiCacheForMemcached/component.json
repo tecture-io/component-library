@@ -1,5 +1,5 @@
 {
-    "name": "Amazon ElastiCache for Memcached",
+    "name": "Amazon ElasticCache for Memcached",
     "short": "A managed service on AWS that simplifies the setup, management, and scaling of Memcached deployments in the cloud.",
     "description": "Amazon ElastiCache for Memcached is a caching solution that makes it easy to set up, manage, and scale distributed Memcached environments in the cloud. It is protocol-compliant with Memcached, allowing seamless migration of existing applications. It enhances web application performance by retrieving information from fast, managed, in-memory caches, rather than relying on slower disk-based databases. It also provides mechanisms for vertical and horizontal scaling and supports multiple zones for high availability."
 }

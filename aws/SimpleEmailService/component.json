@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Simple Email Service",
+    "name": "Amazon SES (Simple Email Service)",
     "short": "A scalable and cost-effective email sending service on AWS intended for marketers and developers.",
     "description": "Amazon Simple Email Service (SES) is a cloud-based email sending service designed to help digital marketers and application developers send marketing, notification, and transactional emails. It provides a reliable way to send emails without requiring one to maintain their own email infrastructure. It integrates with other AWS services, supports email templates and provides a mail sending API. SES also includes features to monitor email sending activities and measures email deliverability to maintain a high sender reputation."
 }

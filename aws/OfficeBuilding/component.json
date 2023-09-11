@@ -1,5 +1,5 @@
 {
-    "name": "This folder name doesn't directly correspond to any AWS service or component. Please provide a valid AWS service or component folder name.",
+    "name": "Office Building",
     "short": "N/A",
     "description": "This appears to be an instruction rather than a service or component name. Please provide a valid AWS service or component name for a description. AWS offers various services and components like Lambda Function, API Gateway, EC2, S3, etc. Each of these has unique features and applications in cloud computing, data storage, machine learning, etc., designed to improve scalability, security, and efficiency."
 }

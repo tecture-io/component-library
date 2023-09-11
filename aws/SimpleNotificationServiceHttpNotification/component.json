@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Simple Notification Service (SNS)",
+    "name": "Amazon SNS (Simple Notification Service) HTTP Notification",
     "short": "A messaging service provided by AWS for sending notifications from the cloud to subscribers or other applications.",
     "description": "Amazon Simple Notification Service (SNS) is a fully-managed, pub/sub messaging service from AWS. It provides high-throughput, push-based, many-to-many messaging. It facilitates the communication between distributed systems, microservices, and serverless applications by sending individual messages to multiple subscribers. SNS supports various subscriber types like HTTP/S, email, mobile push, Lambda, SQS, etc. With the ability to fan-out messages to large numbers of recipients, SNS boosts the dynamism and responsiveness of cloud applications."
 }

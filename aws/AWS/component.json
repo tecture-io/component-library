@@ -1,5 +1,5 @@
 {
-    "name": "AWS",
+    "name": "AWS Cloud",
     "short": "AWS (Amazon Web Services) is Amazon's comprehensive cloud platform, offering scalable, secure, and cost-effective computing resources for businesses and developers worldwide.",
     "description": "AWS (Amazon Web Services) is a comprehensive cloud computing platform provided by Amazon. It offers a vast array of services, including computing power, storage, and databases, available on-demand and on a pay-as-you-go basis. Ideal for businesses of all sizes, AWS delivers robust scalability, security, and performance. Its global network of data centers ensures low-latency access and high availability. By offloading IT infrastructure to AWS, organizations can focus on innovation and growth."
 }

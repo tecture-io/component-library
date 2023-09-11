@@ -1,5 +1,5 @@
 {
-    "name": "Amazon EC2 P2 Instances",
+    "name": "Amazon EC2 P2 Instance",
     "short": "A type of AWS EC2 instance that provides high-performance compute capabilities with powerful NVIDIA GPU capabilities for machine learning and high performance computing applications.",
     "description": "Amazon EC2 P2 Instances are a type of EC2 instance designed for general-purpose GPU computing. Leveraging NVIDIA Tesla GPUs, they facilitate high-performance computing, deep learning, computational fluid dynamics, seismic analysis, and other GPU-intensive workloads. They offer up to 16 GPUs, 732 GB of memory, and 64 vCPUs per instance. With EC2 P2 Instances, businesses can tackle complex computational challenges while benefiting from the scalability, flexibility, and reliability of AWS."
 }

@@ -1,5 +1,5 @@
 {
-    "name": "AWS Elemental Appliances and Software",
+    "name": "AWS Elemental Appliances",
     "short": "A suite of AWS services and solutions for processing and managing video content in the cloud.",
     "description": "AWS Elemental Appliances and Software is a suite of services and solutions designed for professional video workflows. The suite includes on-premises and cloud-based video processing, storage, and monetization capabilities. It supports high-quality video processing tasks like encoding, transcoding, compression, and streaming. Users can create, package, and deliver video content in multiple formats for different devices, from TVs to mobile phones. The suite integrates with AWS to provide comprehensive, scalable, and reliable video solutions."
 }

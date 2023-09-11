@@ -1,5 +1,5 @@
 {
-    "name": "Amazon Cognito",
+    "name": "AWS Users",
     "short": "A service on AWS that provides user sign-up, sign-in, and access control to web and mobile apps.",
     "description": "Amazon Cognito is an AWS service that provides user identity and data synchronization solutions, enabling the creation of web and mobile apps that securely access resources. It offers two main components: User Pools for user directory management and Federated Identities for enabling guest access. With Cognito, developers can integrate third-party identity providers, apply robust security protocols, and manage application data across devices. It's an essential tool for creating personalized, secure, and scalable user experiences."
 }
