@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 A1 Instance",
-    "short": "A type of virtual server in AWS for running applications on the ARM architecture.",
-    "description": "Amazon EC2 A1 Instances are a type of compute instance optimized for performance and cost. They are powered by AWS Graviton Processors that feature 64-bit Arm Neoverse cores. Ideal for scale-out workloads, web servers, containerized microservices, caching fleets, and distributed data stores, they offer significant cost savings. Customers can choose from five different sizes, ensuring the instance matches workload requirements. A1 Instances provide a balance of compute, memory, and network resources, catering to diverse application needs."
-}

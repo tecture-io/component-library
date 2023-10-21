@@ -1,5 +1,0 @@
-{
-    "name": "AWS Multimedia",
-    "short": "A media transcoding service in the cloud that converts (or \"transcodes\") media files from their source format into versions that will playback on devices like smartphones, tablets, and PCs.",
-    "description": "Amazon Elastic Transcoder is a highly scalable, easy to use, and cost-effective way for developers and businesses to convert (transcode) media files from their source format into versions that will play on devices like smartphones, tablets, and PCs. It provides predefined presets for popular output formats, which means that you don\u2019t need to guess about which settings work best on particular devices. All these make it a convenient tool for managing media conversion tasks."
-}

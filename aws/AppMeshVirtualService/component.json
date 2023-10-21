@@ -1,5 +1,0 @@
-{
-    "name": "Amazon AppMesh Virtual Service",
-    "short": "A service mesh on AWS that provides application-level networking to standardize how your services communicate, providing end-to-end visibility and ensuring high-availability for your applications.",
-    "description": "AWS App Mesh Virtual Service is a named locator to which all traffic is directed within the App Mesh service mesh architecture. It abstracts the actual services or tasks running in the background. Virtual services can be associated with multiple virtual nodes (actual services) and are useful in scenarios like A/B testing or canary deployments. It allows fine-grained control and observability for modern service-to-service communication, enhancing the reliability and agility of your applications."
-}

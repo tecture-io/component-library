@@ -1,5 +1,0 @@
-{
-    "name": "AWS Systems Manager Parameter Store",
-    "short": "A service that provides secure, hierarchical storage for configuration data management and secrets management on AWS.",
-    "description": "AWS Systems Manager Parameter Store is a service that provides secure, scalable, and hierarchical storage for configuration data management and secrets. It helps manage, organize, and control access to parameters used in your AWS environment. Parameters can be plaintext or encrypted data such as passwords, database strings, and license codes. It integrates with AWS services for easy automation and reference. With Parameter Store, the risk of accidental exposure of sensitive information is minimized, ensuring a secure environment."
-}

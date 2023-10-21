@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 Image Builder",
-    "short": "A service on AWS that simplifies the creation, maintenance, validation, sharing, and deployment of Linux or Windows Server images.",
-    "description": "Amazon EC2 Image Builder is a service that simplifies the creation, maintenance, validation, and sharing of virtual server images. It aids in automating image building and testing, reducing manual effort and errors. It supports both Linux and Windows Server images. The built images can be used with AWS services such as EC2, on-premises environments, or other cloud platforms. With Image Builder, users can ensure their application images are reliable, secure, up-to-date, and compliant with business policies and security standards."
-}

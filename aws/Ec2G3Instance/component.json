@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 G3 Instance",
-    "short": "A high-performance GPU instance on AWS used for graphics-intensive applications.",
-    "description": "Amazon EC2 G3 Instances are GPU-optimized instances in Amazon's Elastic Compute Cloud service. Ideal for graphics-intensive applications, they provide access to NVIDIA Tesla GPUs and high clock speed Intel Xeon processors. These instances are perfect for 3D rendering, video encoding, gaming, and machine learning applications. They offer high storage and network performance, scalable compute capacity, and allow users to optimize costs with On-Demand and Reserved Instance pricing models. EC2 G3 Instances enable robust, scalable, and efficient computing."
-}

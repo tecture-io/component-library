@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Route 53 Route Table",
-    "short": "A scalable and highly available Domain Name System (DNS) web service on AWS.",
-    "description": "Amazon Route 53 is AWS's scalable and highly reliable Domain Name System (DNS) service. It translates domain names into IP addresses, enabling users to access applications, websites, or other online services. Route 53 supports routing policies like simple, failover, geolocation, and latency-based routing to direct traffic flow. It also offers domain registration and health checking of resources. With Route 53, businesses can effectively manage traffic globally through routing and ensure high availability and scalability."
-}

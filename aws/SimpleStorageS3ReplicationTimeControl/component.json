@@ -1,5 +1,0 @@
-{
-    "name": "Amazon S3 Replication Time Control",
-    "short": "A feature within Amazon S3 that helps maintain object copies under strict time controls for compliance purposes.",
-    "description": "Amazon S3 Replication Time Control (RTC) is a feature that enables you to meet compliance requirements by providing predictable replication times. It guarantees that 99.99% of objects replicated using S3 RTC are replicated within 15 minutes of being stored. It works with S3's existing replication features, and its metrics can be monitored in CloudWatch, providing visibility into replication performance. With RTC, you can ensure speedy, predictable, and compliant data replication across AWS regions."
-}

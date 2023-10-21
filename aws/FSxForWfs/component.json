@@ -1,5 +1,0 @@
-{
-    "name": "Amazon FSx for Windows File Server",
-    "short": "A fully managed native Microsoft Windows file system service by AWS that provides reliable and scalable file storage.",
-    "description": "Amazon FSx for Windows File Server is a fully managed service that provides cost-effective, highly reliable file storage. It is built on Windows Server, delivering a wide range of administrative features such as user quotas and end-user file restores. It supports the SMB protocol, Active Directory integration, and Distributed File System. It can handle high-performance computing, web serving, content management, and more. With automatic backups and data encryption, it ensures robust data security and reliability."
-}

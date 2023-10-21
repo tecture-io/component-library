@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Virtual Private Cloud (VPC) VPN Connections",
-    "short": "A feature of Amazon VPC that allows you to securely connect your AWS resources to your remote network.",
-    "description": "Amazon VPC VPN Connections allow secure communications between your network and your Amazon Virtual Private Clouds (VPCs). The VPN connection uses industry-standard encryption protocols to provide high-level security. It supports site-to-site VPN connections and AWS Client VPN for end-user access to resources within your VPC. With VPC VPN Connections, you can extend your on-premises network to AWS, making it an integral part of your hybrid cloud solution, while ensuring secure and private connectivity."
-}

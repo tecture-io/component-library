@@ -1,5 +1,0 @@
-{
-    "name": "Amazon S3 Glacier Deep Archive",
-    "short": "An extremely low-cost storage service on AWS that provides secure and durable data archiving and long-term backup.",
-    "description": "Amazon S3 Glacier Deep Archive is an AWS storage class for long-term data archiving and backup, offering the lowest cost in the cloud. Ideal for data retrieval needs ranging from a few minutes to 12 hours, it's a good fit for regulatory archives or long-term backup data. It provides two retrieval options: bulk retrieval (5-12 hours) and standard retrieval (within minutes). S3 Glacier Deep Archive offers automatic encryption, lifecycle management, and integrates with all AWS management features, ensuring secure, durable, and flexible storage."
-}

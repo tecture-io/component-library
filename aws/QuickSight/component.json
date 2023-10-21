@@ -1,5 +1,0 @@
-{
-    "name": "Amazon QuickSight",
-    "short": "A fully managed business intelligence service by AWS that provides insights and data visualization.",
-    "description": "Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud. It allows users to create and publish interactive dashboards that include ML insights. QuickSight supports multiple data sources, including AWS-based sources like S3, Redshift, and RDS, and on-premises databases. It provides pay-per-session pricing, making it cost-effective for large scale deployments. With QuickSight, businesses can transform big data into stunning visuals and actionable insights."
-}

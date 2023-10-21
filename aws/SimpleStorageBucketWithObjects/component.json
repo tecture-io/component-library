@@ -1,5 +1,0 @@
-{
-    "name": "Amazon S3 (Simple Storage Service) with Objects",
-    "short": "A scalable storage service on AWS that allows users to store and retrieve any amount of data from anywhere on the web.",
-    "description": "Amazon S3 (Simple Storage Service) is a scalable, high-speed, web-based cloud storage service designed for online backup and archiving of data and applications. It allows for easy data collection, storage, and analysis. S3 provides a simple web interface to store and retrieve any amount of data, anytime, from anywhere in the world. It's designed for 99.999999999% durability and provides comprehensive security and compliance capabilities to meet even the most stringent regulatory requirements."
-}

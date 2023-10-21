@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Cognito",
-    "short": "A user identity and data synchronization service that helps manage and secure mobile and web applications' user data in AWS.",
-    "description": "Amazon Cognito is a user identity and data synchronization service that enables user authentication & secure access control for apps. It offers two components: User Pools for user directory management and Federated Identities for controlling access to AWS resources. Cognito supports social identity providers like Google, Facebook, and SAML-based providers. With its SDKs, developers can create sign-up and sign-in flows, enabling seamless user experience across devices, while maintaining security and compliance."
-}

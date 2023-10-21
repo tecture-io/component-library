@@ -1,5 +1,0 @@
-{
-    "name": "AWS OpsWorks Deployments",
-    "short": "A configuration management service that uses Chef or Puppet to automate how servers are configured, deployed, and managed across your Amazon EC2 instances or on-premises compute environments.",
-    "description": "AWS OpsWorks is a configuration management service simplifying the management and deployment of applications on both AWS cloud and on-premises. It uses Chef and Puppet, allowing you to automate operational tasks like software configurations, package installations, database setups, and server scaling. OpsWorks provides flexibility to define custom configurations, control resources, and manage applications. It supports a variety of platforms, reducing the complexity and effort needed for operations, thereby boosting productivity."
-}

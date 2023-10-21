@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 X1e Instance",
-    "short": "High-memory instances in AWS EC2 designed for running high-performance databases and memory-intensive applications.",
-    "description": "Amazon EC2 X1e instances are a part of Amazon's Elastic Compute Cloud (EC2) service, offering high-performance computing capabilities. They're tailored for memory-intensive applications and workloads, such as high-performance databases, in-memory analytics, and big data processing. With up to 4TB of DDR4 memory, X1e instances deliver fast performance and low latency. They're built on the AWS Nitro System, offering superior security and efficiency. Users can scale up or down based on demand, ensuring cost-effectiveness."
-}

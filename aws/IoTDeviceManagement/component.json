@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Device Management",
-    "short": "A service that allows you to manage, organize, and monitor your IoT devices at scale on AWS.",
-    "description": "AWS IoT Device Management is a service that simplifies the management of IoT devices, allowing you to onboard, organize, monitor, and manage at scale. It supports tasks like firmware updates, security patching, and troubleshooting. You can group devices and manage them as a cohort, reducing the time and effort required to manage large fleets of IoT devices. With AWS IoT Device Management, you can also track device health, activity, and functionality, ensuring your IoT applications run smoothly and securely."
-}

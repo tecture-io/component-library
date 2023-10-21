@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Kendra",
-    "short": "An intelligent search service powered by machine learning, making it easier to find the needed information within your vast amount of content.",
-    "description": "Amazon Kendra is a highly accurate and easy-to-use enterprise search service powered by machine learning. Kendra enables organizations to index all their data sources, making that information searchable in a natural language. It understands documents\u2019 context, delivering more precise answers and not just a list of links. It supports multiple data sources like S3, SharePoint, and more. With Kendra, businesses can empower their users with a more intuitive and efficient search experience across their data landscape."
-}

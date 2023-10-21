@@ -1,5 +1,0 @@
-{
-    "name": "Amazon RDS (Relational Database Service)",
-    "short": "A managed service on AWS that makes it easy to set up, operate, and scale a relational database in the cloud.",
-    "description": "Amazon Relational Database Service (RDS) is a web service designed to simplify the setup, operation, and scaling of a relational database in the cloud. It supports multiple database engines including MySQL, MariaDB, PostgreSQL, Oracle, and SQL Server. RDS handles routine tasks such as hardware provisioning, database setup, patching, and backups. It also offers high availability with a multi-AZ deployment to ensure reliable and secure access to data. Its scalability caters to varying workloads and applications."
-}

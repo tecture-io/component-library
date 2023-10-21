@@ -1,5 +1,0 @@
-{
-    "name": "AWS Directory Service",
-    "short": "A service on AWS that provides multiple ways to set up and run Microsoft Active Directory in the cloud.",
-    "description": "AWS Directory Service is a managed service that streamlines the use and setup of Active Directory in AWS. It offers multiple directory types such as AWS Managed Microsoft AD, AD Connector, and Simple AD. With this service, you can connect AWS resources with an existing on-premises Microsoft Active Directory or set up a new, standalone directory in the AWS Cloud. It simplifies management tasks like patching, backups, and monitoring, thus reducing operational overhead. It also fosters secure access to AWS resources."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Amazon ElasticCache",
-    "short": "A web service from Amazon that makes it easy to deploy, operate, and scale an in-memory cache in the cloud.",
-    "description": "Amazon ElastiCache is a web service that makes it easy to deploy and run Memcached or Redis protocol-compliant server nodes in the cloud. It simplifies the management tasks associated with running a distributed cache environment, such as cluster setup, patching, and backup. ElastiCache improves the performance of web applications by allowing retrieval of information from fast, managed, in-memory caches, instead of relying on slower disk-based databases. It's ideal for workloads that require low latency and high throughput."
-}

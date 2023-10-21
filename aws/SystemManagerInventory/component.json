@@ -1,5 +1,0 @@
-{
-    "name": "AWS Systems Manager Inventory",
-    "short": "A service that collects and stores metadata from the machines in your environment for management and configuration tasks.",
-    "description": "AWS Systems Manager Inventory provides visibility into your AWS and on-premises infrastructure. It collects and tracks metadata from your managed instances, allowing for system-wide configuration and software tracking. Users can query this data on-demand or schedule regular collection intervals. It integrates with other AWS services for resource configuration, patching, and compliance reporting. With its advanced search and filtering, inventory management becomes efficient and proactive, enhancing system health and operational performance."
-}

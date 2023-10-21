@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Managed Blockchain",
-    "short": "A service on AWS that allows you to create and manage scalable blockchain networks using popular open source frameworks.",
-    "description": "Amazon Managed Blockchain is a fully managed service that simplifies the creation and management of scalable blockchain networks. It supports popular open-source frameworks like Hyperledger Fabric and Ethereum. Key features include voting API for network management, reliable synchronization, and automatic scaling. It integrates with AWS services like CloudWatch and QLDB for monitoring and data storage. This service eliminates overheads of setup and operation, allowing you to focus on blockchain applications."
-}

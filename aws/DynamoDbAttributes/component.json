@@ -1,5 +1,0 @@
-{
-    "name": "Amazon DynamoDB Attributes",
-    "short": "A fully managed NoSQL database service on AWS that provides fast and predictable performance with seamless scalability.",
-    "description": "Amazon DynamoDB is a fully managed NoSQL database service, providing seamless scalability and consistent millisecond-level latency. It supports both document and key-value data models, catering to diverse application needs. With features like automatic partitioning, in-memory caching, and event-driven programming, it offers high-performance at any scale. It's integrated with AWS security, backup, and monitoring services. DynamoDB is cost-effective, charging for read/write capacity, storage, and optional features. Ideal for applications requiring low-latency data access."
-}

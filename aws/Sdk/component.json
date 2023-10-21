@@ -1,5 +1,0 @@
-{
-    "name": "AWS SDK (Software Development Kit)",
-    "short": "A set of tools provided by AWS that allow developers to interact with AWS services using various programming languages.",
-    "description": "The AWS Software Development Kit (SDK) is a set of tools for developers to build applications and services on AWS. It provides direct, simplified access to AWS services via multiple programming languages like Java, Python, etc. The SDK includes libraries, code samples, and documentation to help developers effectively use AWS. It also handles low-level details, such as authentication, retry logic, and error handling, simplifying the process and allowing developers to focus on application logic."
-}

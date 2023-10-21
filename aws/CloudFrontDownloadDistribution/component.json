@@ -1,5 +1,0 @@
-{
-    "name": "Amazon CloudFront Download Distribution",
-    "short": "A global content delivery network (CDN) service on AWS that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds.",
-    "description": "Amazon CloudFront is a global content delivery network (CDN) service that securely delivers data, applications, and APIs to viewers with high transfer speeds. It's integrated with AWS \u2013 both physical locations connected directly to the AWS global infrastructure and other services. CloudFront provides advanced security features, like AWS Shield for DDoS mitigation, and custom SSL certificates. It offers an easy-to-use, developer-friendly environment with flexible pricing, helping organizations to lower content delivery costs."
-}

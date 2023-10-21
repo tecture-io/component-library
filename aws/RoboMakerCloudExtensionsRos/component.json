@@ -1,5 +1,0 @@
-{
-    "name": "AWS RoboMaker Cloud Extensions for ROS",
-    "short": "A set of AWS service packages that provide cloud connectivity to Robot Operating System (ROS) applications.",
-    "description": "AWS RoboMaker Cloud Extensions for ROS is a service that helps developers to build, test, and deploy robotics applications. It provides cloud extensions for the Robot Operating System (ROS) which simplifies cloud integration and allows robots to use AWS services for capabilities such as machine learning, monitoring, and analytics. This service enhances the ability to build innovative and intelligent robotics applications, with the robustness and reliability of AWS. With RoboMaker's cloud extensions, developers can add more functionality to their robots."
-}

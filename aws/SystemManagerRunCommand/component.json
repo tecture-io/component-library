@@ -1,5 +1,0 @@
-{
-    "name": "AWS Systems Manager Run Command",
-    "short": "A service in AWS that enables you to remotely and securely manage the configuration of your managed instances at scale.",
-    "description": "AWS Systems Manager Run Command is a feature that allows you to manage your AWS and on-premises servers remotely. It provides a single interface to perform operational tasks on your managed instances. Tasks can be anything from executing scripts, automating common maintenance tasks, or applying patches. Run Command provides granular control over user permissions, ensuring secure access. It eliminates the need for direct SSH or RDP access, reducing the attack surface and enhancing the overall security."
-}

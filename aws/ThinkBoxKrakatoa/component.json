@@ -1,5 +1,0 @@
-{
-    "name": "AWS Thinkbox Krakatoa",
-    "short": "A high-volume particle rendering, manipulation, and management tool on AWS.",
-    "description": "AWS Thinkbox Krakatoa is a robust volumetric particle rendering, manipulation, and management platform. It's used in visual effects and animation industries for creating and rendering natural phenomena like dust, smoke, or ocean surface particles. Krakatoa offers support for cloud-based rendering via AWS Thinkbox's Deadline render management software, allowing artists to leverage the scalability of the AWS Cloud. Known for its speed and flexibility, Krakatoa helps artists create highly-detailed particle effects while maintaining efficient workflow."
-}

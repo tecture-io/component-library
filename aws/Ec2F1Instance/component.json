@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 F1 Instance",
-    "short": "A type of compute instance on AWS that offers customizable hardware acceleration with field programmable gate arrays (FPGAs).",
-    "description": "Amazon EC2 F1 is a compute instance with field programmable gate arrays (FPGAs) for hardware acceleration. F1 instances are ideal for applications requiring high-speed access to programmable hardware, like data analytics, video processing, or genomics. Through AWS Marketplace, developers can create and sell hardware acceleration models to other AWS customers. F1 instances come in various sizes, offering flexibility for different workloads, and provide high-bandwidth, low-latency networking and EBS. They help users save time and reduce costs."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Things",
-    "short": "A service in AWS that allows you to connect and manage devices, and send data to and from those devices securely.",
-    "description": "AWS IoT Things represents a device or a logical entity for IoT applications. It can be an actual device like a sensor or a virtual one like a mobile app. Each Thing is identified by a unique name and can have attributes and shadows. They are used to send data to and receive data from AWS IoT. IoT Things can be organized in Thing Groups for bulk operations. They form the cornerstone of IoT solutions, enabling interaction between the physical and digital world in a secure, reliable, and scalable manner."
-}

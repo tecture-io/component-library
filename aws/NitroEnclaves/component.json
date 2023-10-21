@@ -1,5 +1,0 @@
-{
-    "name": "AWS Nitro Enclaves",
-    "short": "A feature of AWS EC2 instances that provides highly secure, isolated compute environments to process confidential data.",
-    "description": "AWS Nitro Enclaves is a high-security extension of EC2 instances that provides isolated, highly secure environments for processing sensitive data. It is designed to protect and tightly control access to data, applications, and processes by eliminating potential exposure to other apps or users. This isolation is achieved using the Nitro Hypervisor, which does not allow any communication except via a secure local channel. Nitro Enclaves is ideal for tasks requiring substantial confidentiality and integrity, like data encryption, decryption, and key management."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "AWS Glue Data Catalog",
-    "short": "A centralized metadata repository service in AWS that simplifies data discovery, access, and management.",
-    "description": "AWS Glue Data Catalog is a fully managed, scalable, and centralized metadata repository. It stores metadata in the AWS Cloud in a format similar to the Apache Hive Metastore. This service integrates with Amazon S3, Amazon RDS, Amazon Redshift, etc., and is often used with ETL jobs in AWS Glue. It helps in data discovery, enabling users to easily find and access data for analytics. With automatic schema discovery and versioning, it makes data management and preparation easier."
-}

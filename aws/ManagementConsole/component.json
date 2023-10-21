@@ -1,5 +1,0 @@
-{
-    "name": "AWS Management Console",
-    "short": "A web application for managing Amazon Web Services resources and services.",
-    "description": "The AWS Management Console is a browser-based, user-friendly interface for managing AWS services. It provides a visual way to interact with AWS's infrastructure, making it easy to create and manage resources. Users can access, configure, and monitor their AWS services from a central location, helping streamline tasks and enhance efficiency. It supports features like resource grouping, tagging, and detailed reporting. With its built-in wizards and workflows, it simplifies complex tasks, making cloud management accessible to non-technical users."
-}

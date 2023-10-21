@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT HTTP/2 Protocol",
-    "short": "A communication protocol in AWS IoT that provides faster data transfer through header compression and multiplexing.",
-    "description": "AWS IoT HTTP/2 Protocol is a modern, binary protocol designed for low-latency, server-push communications. It's used by AWS IoT to facilitate efficient, secure communication between IoT devices and the AWS Cloud. It supports multiple concurrent interactions on a single connection, reducing network load. HTTP/2 in AWS IoT also supports MQTT over WebSockets for real-time, two-way communication. Using AWS IoT with HTTP/2 enables robust, efficient IoT data transfer, which is critical for IoT device performance and cost-effectiveness."
-}

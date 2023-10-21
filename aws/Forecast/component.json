@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Forecast",
-    "short": "A predictive AI service on AWS that uses machine learning to deliver highly accurate forecasts.",
-    "description": "Amazon Forecast is a fully managed service that uses machine learning to deliver highly accurate forecasts. It automatically examines historical data, identifies patterns and relationships, and generates predictions. It can integrate data from multiple sources and produce results for a variety of forecasting needs like demand planning, inventory planning, and workforce planning. With no machine learning experience required, Amazon Forecast empowers businesses to make data-driven decisions and optimize operations."
-}

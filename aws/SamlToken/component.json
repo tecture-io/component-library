@@ -1,5 +1,0 @@
-{
-    "name": "AWS SAML Token",
-    "short": "A web service on AWS that provides temporary, limited-privilege credentials for AWS Identity and Access Management (IAM) users or for users that you authenticate (federated users).",
-    "description": "AWS Security Token Service (STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS Identity and Access Management (IAM) users or for users that you authenticate (federated users). This service enables you to manage access to your AWS resources in a secure manner. It is a key component of AWS' security infrastructure, allowing for secure token-based authentication and authorization for AWS services."
-}

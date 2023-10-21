@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Inspector",
-    "short": "An automated security assessment service on AWS that helps improve the security and compliance of applications deployed on AWS.",
-    "description": "Amazon Inspector is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS. It analyzes application behavior for deviations from best practices, exposing potential security issues. Its features include vulnerability scanning, network reachability assessments, and exposure analysis of both EC2 instances and container-based applications. Inspector integrates with other AWS services for thorough security, making it an invaluable tool for maintaining a secure and compliant AWS environment."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "AWS Compute Optimizer",
-    "short": "A service that recommends optimal AWS resources for your workloads to reduce costs and improve performance.",
-    "description": "AWS Compute Optimizer is a service that recommends optimal AWS resources for your workloads to reduce costs and improve performance. By analyzing historical utilization metrics, this service suggests optimal configurations of compute resources, such as EC2 instances, Lambda functions, and EBS volumes. Recommendations include optimal instance types, disk volume sizes, and EC2 Auto Scaling settings. This process can help users to achieve the best performance at the lowest possible cost, making system optimization easier."
-}

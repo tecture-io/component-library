@@ -1,5 +1,0 @@
-{
-    "name": "AWS Glue Crawler",
-    "short": "A service in AWS that automatically extracts metadata from data sources and stores it in the AWS Glue Data Catalog.",
-    "description": "AWS Glue Crawler is a tool that automates data discovery, cataloging, and schema inference in AWS Glue. It navigates through specified data sources, identifies data formats, and creates metadata tables in Glue Data Catalog. The crawler can handle data in S3, DynamoDB, JDBC databases, and more. It can be scheduled, run on-demand, and even handle data changes to keep the catalog updated. By automating data preparation, Glue Crawler simplifies ETL (Extract, Transform, Load) tasks and accelerates data analytics."
-}

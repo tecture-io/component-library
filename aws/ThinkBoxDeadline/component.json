@@ -1,5 +1,0 @@
-{
-    "name": "AWS Thinkbox Deadline",
-    "short": "A software development toolkit for managing render farms and compute resources across multiple platforms, offered by AWS.",
-    "description": "AWS Thinkbox Deadline is a hassle-free hybrid administration and compute management toolkit for render farms that supports over 80 different content creation applications out of the box. It facilitates the easy utilization of both on-premise and cloud-based resources in rendering, transcoding, simulation, and other compute-intensive workloads. Deadline's flexible and scalable architecture makes it an ideal solution for studios of any size, ensuring cost-effective and efficient content creation."
-}

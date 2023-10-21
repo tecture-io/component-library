@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Translate",
-    "short": "A machine learning service on AWS that provides real-time and batch translation between multiple languages.",
-    "description": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. It uses advanced machine learning technologies to recognize and translate text in different languages. It supports translation between 71 languages and custom terminology, enabling businesses to globalize content and applications. Integrated with Amazon CloudWatch, it provides real-time operational metrics. It is a fully managed service, reducing the cost and complexity of multilingual data processing."
-}

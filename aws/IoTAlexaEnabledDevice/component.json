@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Alexa Enabled Device",
-    "short": "A device integrated with AWS IoT services that can interact with Amazon's voice service, Alexa.",
-    "description": "AWS IoT Alexa Enabled Device refers to any device that is integrated with Amazon's Alexa Voice Service (AVS), enabled by AWS IoT Core. It allows the device to interpret voice commands and interact with Amazon's cloud-based voice service, Alexa. These devices can range from smart home appliances to wearable technology. With AWS IoT, these devices can connect securely to AWS services, process data, and respond to Alexa voice commands. This provides a more interactive and hands-free experience for users."
-}

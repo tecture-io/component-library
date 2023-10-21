@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Aurora Maria DB Instance",
-    "short": "A relational database service on AWS that combines speed and reliability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases.",
-    "description": "Amazon Aurora is AWS's managed relational database engine, offering MySQL and PostgreSQL compatibility. Known for up to five times the performance of standard MySQL and three times that of PostgreSQL, it provides scalability, security, and availability. Features include automatic failover, backup, and repair. Aurora auto-scales up to 64TB per database instance, supports cross-region replication, and secures data with encryption. It's perfect for applications needing the power and flexibility of a commercial-grade database at a fraction of the cost."
-}

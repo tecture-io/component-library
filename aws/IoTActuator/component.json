@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Events",
-    "short": "A managed service in AWS that makes it easy to detect and respond to events from IoT sensors and applications.",
-    "description": "AWS IoT Events is a managed service that makes it easy to detect and respond to changes indicated by IoT sensors and applications. It can analyze data from multiple sources, identify events like equipment failure or production inefficiency, and trigger appropriate responses. This service simplifies the process of creating IoT applications that sense, process, and react to event data, eliminating the need for complex programming and infrastructure management. It provides a reliable, scalable, and secure platform for event-driven IoT applications."
-}

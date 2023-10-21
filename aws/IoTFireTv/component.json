@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT",
-    "short": "A platform on AWS that connects devices to cloud applications and other devices for data interaction and analysis.",
-    "description": "AWS IoT is a managed cloud platform that lets connected devices interact with cloud applications. It supports billions of devices and trillions of messages, processing and routing them securely to AWS endpoints. IoT Core allows devices to connect, authenticate, and exchange messages. It integrates with other AWS services for data storage, analytics, and machine learning. IoT Device Management handles device registration, organization, and remote management. AWS IoT provides a robust, secure, and scalable IoT solution."
-}

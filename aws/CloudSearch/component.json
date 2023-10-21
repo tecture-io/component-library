@@ -1,5 +1,0 @@
-{
-    "name": "Amazon CloudSearch",
-    "short": "A scalable and fully managed search service on AWS that makes it easy to set up, manage, and scale a search solution for your website or application.",
-    "description": "Amazon CloudSearch is a scalable, managed search solution from AWS. It enables developers to integrate fast and accurate search functionality into their applications. With CloudSearch, developers can easily configure and fine-tune search domains to deliver superior relevance and performance. It supports a variety of applications, including site search, database search, and application search. It's fully managed, scaling automatically to handle usage and data growth, reducing the burden of administrative tasks and infrastructure management."
-}

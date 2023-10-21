@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 C6g Instances",
-    "short": "These are ARM-based compute instances that provide a balance of compute, memory, and networking resources for a broad spectrum of workloads.",
-    "description": "Amazon EC2 C6g instances are part of the AWS EC2 service and are powered by AWS Graviton2 processors. They are designed for compute-intensive workloads, offering up to 40% better price-performance over comparable current generation x86-based instances. Ideal for application servers, micro-services, high-performance computing, batch processing, ad serving, gaming servers, and CPU-based machine learning inference. They provide balanced compute, memory, and network resources, and support encrypted EBS volumes for data security."
-}

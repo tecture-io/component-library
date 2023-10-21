@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 Rescue",
-    "short": "A tool on AWS that helps you troubleshoot and fix issues with Windows Server instances on Amazon EC2.",
-    "description": "Amazon EC2 Rescue for Windows Server is a troubleshooting tool used to diagnose and fix issues that prevent EC2 Windows instances from starting. It automates common diagnosis and remediation tasks, reducing the time and expertise required to recover instances. The tool examines system and instance configuration files for potential issues and can automatically attempt to fix detected problems. It's a crucial part of the AWS toolkit for maintaining the availability and health of Windows workloads on EC2."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Deep Learning Amls",
-    "short": "Pre-configured virtual servers on AWS for deep learning on Amazon EC2 instances.",
-    "description": "AWS Deep Learning AMIs (Amazon Machine Images) provide machine learning practitioners with the infrastructure and tools to accelerate deep learning in the cloud, at any scale. They come pre-installed with popular deep learning frameworks like TensorFlow, PyTorch, Apache MXNet, and more. These AMIs provide GPU-accelerated computing power required for complex machine learning tasks. They enable easy scaling and quick prototyping, allowing developers to focus more on designing and optimizing models rather than managing infrastructure."
-}

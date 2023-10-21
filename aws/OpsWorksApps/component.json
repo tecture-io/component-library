@@ -1,5 +1,0 @@
-{
-    "name": "AWS OpsWorks Apps",
-    "short": "A configuration management service that uses Chef or Puppet to automate how servers are configured, deployed, and managed across your Amazon EC2 instances or on-premises compute environments.",
-    "description": "AWS OpsWorks is a configuration management service that uses Chef or Puppet to automate how applications are configured, deployed, and managed across EC2 instances or on-premises computers. It provides a simple and flexible way to create and manage stacks and applications. OpsWorks also provides features for automatic scaling, monitoring, and access control. It can be used with other AWS services to provide a consistent, secure, and highly scalable application management solution."
-}

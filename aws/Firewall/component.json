@@ -1,5 +1,0 @@
-{
-    "name": "AWS WAF (Web Application Firewall)",
-    "short": "A security service on AWS that helps to protect web applications from common web exploits.",
-    "description": "AWS WAF (Web Application Firewall) is a security service that protects web applications against common web exploits. It provides control over which traffic to allow or block by defining customizable web security rules. You can use AWS WAF to create rules that block common attack patterns such as SQL injection or Cross-Site Scripting (XSS). It integrates with AWS services like CloudFront and API Gateway. AWS WAF helps ensure high security for applications, allowing developers to focus on building application functionalities."
-}

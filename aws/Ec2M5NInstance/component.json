@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 M5n Instances",
-    "short": "High performance compute instances on AWS that offer high network bandwidth and improved network packet rate performance.",
-    "description": "Amazon EC2 M5n instances are a part of the Amazon EC2's M5 family, optimized for network and memory intensive workloads. They provide high speed networking of up to 100 Gbps and up to 768 GB of RAM. These instances are ideal for applications requiring high throughput, networking speed, and lower latency. They leverage the AWS Nitro System, a rich collection of building blocks that offloads many of the traditional virtualization functions, enhancing performance, availability, and security."
-}

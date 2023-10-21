@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Certificate Manager Private Certificate Authority",
-    "short": "A service on AWS that allows users to create and manage their own private certificate authorities to set up secure network connections.",
-    "description": "AWS Certificate Manager Private Certificate Authority (ACM PCA) is a service that helps you easily and securely manage the lifecycle of your private certificates. ACM PCA provides you a highly-available private CA service without the upfront investment and on-going maintenance costs of operating your own infrastructure. It supports creating private certificate authority, issuing and revoking certificates, and auditing the certificate operation history, ensuring a secure and efficient certificate management."
-}

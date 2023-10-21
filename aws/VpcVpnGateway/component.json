@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Virtual Private Cloud (VPC) VPN Gateway",
-    "short": "A virtual private network (VPN) service on AWS that enables secure, private connections between your network and Amazon VPCs.",
-    "description": "The Amazon VPC VPN Gateway is a component of the Virtual Private Cloud (VPC) service that allows secure connections between your network and Amazon's. It provides two types of VPN connections: Site-to-Site VPN for connecting your network to a VPC and Client VPN for secure access from individual devices. It supports industry-standard encryption protocols, ensuring data security during transit. Using this gateway, organizations can extend their network to the cloud, achieving a hybrid IT setup while leveraging AWS's robust security and scalability."
-}

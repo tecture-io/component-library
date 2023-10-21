@@ -1,5 +1,0 @@
-{
-    "name": "AWS DataSync Agent",
-    "short": "A data transfer service that makes it easy for you to automate moving data between on-premises storage and Amazon S3 or Amazon EFS.",
-    "description": "AWS DataSync is a data transfer service designed to simplify, automate, and accelerate moving data between on-premises storage systems and AWS storage services, or between AWS services. It uses a purpose-built protocol, optimizing network efficiency and automatically handling tasks like data validation and error-recovery. Security is ensured with encryption during transfer. DataSync can be used for migration, archiving, replication or data processing tasks, offering a fast, reliable, and cost-effective data transfer solution."
-}

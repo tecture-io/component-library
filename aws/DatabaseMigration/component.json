@@ -1,5 +1,0 @@
-{
-    "name": "AWS DMS (Database Migration Service)",
-    "short": "A service that helps you migrate databases to AWS quickly and securely.",
-    "description": "AWS Database Migration Service (DMS) is a tool that simplifies the migration of databases to AWS Cloud. It supports various database platforms, including Oracle, MySQL, MongoDB and more. It not only migrates your data, but also replicates data changes, ensuring a smooth transition. DMS supports homogeneous migrations (like Oracle to Oracle) and heterogeneous migrations (like Oracle to Amazon Aurora). It's a cost-effective and reliable service, minimizing downtime to applications during the migration process."
-}

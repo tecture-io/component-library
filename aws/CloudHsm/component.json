@@ -1,5 +1,0 @@
-{
-    "name": "AWS CloudHSM",
-    "short": "A dedicated hardware security module (HSM) service on AWS for cryptographic key storage and management.",
-    "description": "AWS CloudHSM is a cloud-based hardware security module that assists in key management and cryptographic operations. It supports industry-standard APIs, offering secure key storage and high-performance cryptographic operations. CloudHSM is used for symmetric and asymmetric encryption, digital signatures, and cryptographic hashing. It's integrated with AWS services and is ideal for regulatory compliance, ensuring data and applications are protected with exclusive, single-tenant access to keys. It's a flexible, cost-effective solution to meet stringent security and compliance requirements."
-}

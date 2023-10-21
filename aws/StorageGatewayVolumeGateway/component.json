@@ -1,5 +1,0 @@
-{
-    "name": "AWS Storage Gateway - Volume Gateway",
-    "short": "A hybrid storage service on AWS that provides on-premises applications with cloud-backed storage volumes.",
-    "description": "Volume Gateway is a feature of AWS Storage Gateway that offers block storage to your applications using iSCSI connectivity. It operates in two modes: stored and cached. Stored volumes store your primary data locally and back up data to AWS, offering low-latency access. Cached volumes store primary data in AWS and retain frequently accessed data locally. Both modes asynchronously back up point-in-time snapshots of your volumes to Amazon S3, providing scalable and secure storage."
-}

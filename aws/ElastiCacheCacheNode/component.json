@@ -1,5 +1,0 @@
-{
-    "name": "Amazon ElasticCache Cache Node",
-    "short": "A web service on AWS that makes it easy to deploy, operate, and scale an in-memory data store or cache in the cloud using Redis.",
-    "description": "Amazon ElastiCache for Redis is a fully managed in-memory data store, compatible with Redis. It provides a high-performance, scalable, and cost-effective caching solution, enhancing the speed of web apps by retrieving information from fast, managed, in-memory caches, instead of relying on slower disk-based databases. Supporting both primary-standby and multiple read replica configurations, it ensures high availability and reliability. It's ideal for use cases involving real-time analytics, caching, session management, and gaming leaderboards."
-}

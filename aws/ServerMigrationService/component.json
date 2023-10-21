@@ -1,5 +1,0 @@
-{
-    "name": "AWS Server Migration Service",
-    "short": "A service on AWS that provides automated, scheduled, and incremental replication of live server volumes to the cloud, facilitating large-scale server migrations.",
-    "description": "AWS Server Migration Service (SMS) is a server replication tool that simplifies and accelerates the migration of on-premises workloads to AWS. It automates, schedules, and tracks incremental replications of live server volumes, making it easier to coordinate large-scale server migrations. SMS supports most widely used operating systems and works with AWS services like EC2 and EBS. By reducing migration time and complexity, SMS helps businesses quickly benefit from AWS's scalability, cost-effectiveness, and broad service offerings."
-}

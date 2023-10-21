@@ -1,5 +1,0 @@
-{
-    "name": "AWS IAM (Identity and Access Management) Access Analyzer",
-    "short": "A service in AWS that helps you identify resources and services that are shared with entities outside of your AWS account.",
-    "description": "AWS IAM Access Analyzer is a security service that helps ensure your AWS resource policies provide only the necessary access. It analyzes resource-based policies across your AWS environment, identifying any resources shared with external entities. It provides detailed findings, including the affected resource, the access level, and the source of the access. This helps to review and validate access permissions, enabling proactive remediation of risky resource permissions and enhancing your security posture."
-}

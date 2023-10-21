@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Kinesis Data Firehose",
-    "short": "A fully managed AWS service for loading streaming data into data stores and analytics tools.",
-    "description": "Amazon Kinesis Data Firehose is a fully managed service for delivering real-time streaming data to destinations such as S3, Redshift, Elasticsearch, and Splunk. It automatically scales to match the throughput of data and requires no ongoing administration. It can also batch, compress, and encrypt the data before delivery, which enhances security and improves resource utilization. With Firehose, data can be transformed or enriched in-flight, enabling real-time analytics, dashboards, and alerting."
-}

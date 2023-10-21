@@ -1,5 +1,0 @@
-{
-    "name": "AWS CLI (Amazon Web Services Command Line Interface)",
-    "short": "A unified tool on AWS to manage and automate AWS services from a terminal session.",
-    "description": "AWS CLI is a unified tool provided by Amazon to manage AWS services. It is a command line interface that allows developers to control multiple AWS services directly from the terminal or command line, simplifying scripting and automation. It supports multiple platforms, including Windows, Linux, and macOS. With AWS CLI, users can manage services like EC2, S3, DynamoDB, and more. It's a powerful tool that boosts productivity and enhances control over AWS environment."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "AWS Organizations Account",
-    "short": "A service that allows you to manage and consolidate multiple AWS accounts in a centralized manner.",
-    "description": "AWS Organizations is a service that allows businesses to manage and govern their AWS resources centrally. It's designed for multi-account environments, enabling policy-based management across multiple AWS accounts. It provides features for account creation, management, and hierarchical grouping, which help implement budgeting, security, and compliance requirements. With AWS Organizations, businesses can automate AWS account setup, create groups of accounts to reflect their structure, and apply policies for these groups."
-}

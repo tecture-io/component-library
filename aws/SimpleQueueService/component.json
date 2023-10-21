@@ -1,5 +1,0 @@
-{
-    "name": "Amazon SQS (Simple Queue Service)",
-    "short": "A scalable messaging service on AWS for sending, storing, and receiving messages between software components.",
-    "description": "Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables decoupling and scaling of microservices, distributed systems, and serverless applications. SQS allows you to send, store, and receive messages at any volume, without losing them or requiring other services to be available. It offers standard queues with maximum throughput and at-least-once message delivery, and FIFO queues that maintain message ordering. SQS ensures secure and reliable messaging with encryption, access management, and dead-letter queues."
-}

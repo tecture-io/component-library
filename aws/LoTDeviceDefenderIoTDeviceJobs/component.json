@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Device Defender and AWS IoT Device Jobs",
-    "short": "A set of fully-managed AWS services that provide IoT device security and manage jobs for devices in IoT applications.",
-    "description": "AWS IoT Device Defender is a fully managed service that helps secure your IoT devices. It continuously audits your IoT configurations to ensure they comply with security best practices and detects abnormal behaviors that might indicate a potential security issue. Meanwhile, AWS IoT Device Jobs is a service that allows you to manage and update your IoT devices remotely and at scale, enabling firmware updates, software patches, and other operations. Both services provide essential tools to maintain a secure and up-to-date IoT ecosystem."
-}

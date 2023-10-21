@@ -1,5 +1,0 @@
-{
-    "name": "AWS Thinkbox Sequoia",
-    "short": "A software solution on AWS that transforms 3D point cloud data into mesh models.",
-    "description": "AWS Thinkbox Sequoia is a powerful mesh processing and conversion tool used in high-end 3D simulations and visual effects. It can handle large, complex 3D datasets, and convert them into manageable and efficient meshes. It also offers tools for editing and inspecting data. As part of the AWS Thinkbox suite, it's integrated with AWS cloud services, offering scalability and flexibility. Sequoia is used in industries like film, television, and games, where high-quality 3D visuals are crucial."
-}

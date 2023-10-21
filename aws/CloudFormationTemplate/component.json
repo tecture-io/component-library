@@ -1,5 +1,0 @@
-{
-    "name": "Amazon CloudFormation Template",
-    "short": "A service that helps you model and provision AWS and third-party application resources across your organization.",
-    "description": "AWS CloudFormation is a service that helps you model and provision AWS and third-party application resources in your cloud environment. You can use AWS CloudFormation's sample templates or create your own templates to describe the AWS resources, and any associated dependencies or runtime parameters, required to run your application. It provides a simple way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion."
-}

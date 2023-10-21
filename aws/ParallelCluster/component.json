@@ -1,5 +1,0 @@
-{
-    "name": "AWS ParallelCluster",
-    "short": "A service in AWS that simplifies the deployment and management of high performance computing clusters.",
-    "description": "AWS ParallelCluster is a management tool for high performance computing (HPC) clusters on the AWS cloud. It simplifies the process of building, managing, and deploying HPC workloads across various AWS services. It supports multiple job schedulers and provides flexibility by allowing customizations. AWS ParallelCluster adjusts to workload demand, scaling up or down as required, optimizing cost and performance. It also integrates with AWS\u2019s robust suite of services, providing a comprehensive solution for HPC needs."
-}

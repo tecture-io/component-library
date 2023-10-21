@@ -1,5 +1,0 @@
-{
-    "name": "AWS PrivateLink",
-    "short": "A service on AWS that provides private connectivity between VPCs, AWS services, and on-premises applications, securely on the Amazon network.",
-    "description": "AWS PrivateLink is a networking service allowing secure access to services across VPCs without using public internet. It establishes private connectivity between VPCs and AWS services, or between VPCs, reducing exposure to threat vectors. It also supports service providers by allowing them to offer services to AWS customers privately within their VPC. With PrivateLink, data traffic remains within the AWS network, enhancing security and privacy, minimizing latency, and helping maintain regulatory compliance."
-}

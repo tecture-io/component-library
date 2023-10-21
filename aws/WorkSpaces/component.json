@@ -1,5 +1,0 @@
-{
-    "name": "Amazon WorkSpaces",
-    "short": "A fully managed, secure desktop computing service on AWS that runs on the cloud.",
-    "description": "Amazon WorkSpaces is a managed Desktop-as-a-Service (DaaS) solution that enables users to access their desktops from any location, on any device. It provides a cloud-based alternative to traditional desktop infrastructure, reducing the need for hardware and ongoing maintenance. Users can choose from a range of bundles, offering different hardware and software options to meet their needs. The service includes built-in security features, and integrates with existing AWS services for a seamless experience."
-}

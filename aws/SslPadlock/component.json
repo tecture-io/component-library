@@ -1,5 +1,0 @@
-{
-    "name": "AWS SSL Padlock",
-    "short": "A service on AWS that lets you easily provision, manage, and deploy public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates for use with AWS services and your internal connected resources.",
-    "description": "AWS Certificate Manager is a service that simplifies the provision, management, and deployment of public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates for AWS-based websites and applications. It eliminates the time-consuming manual process of purchasing, uploading, and renewing SSL certificates. With Certificate Manager, you can quickly request a certificate, deploy it on AWS resources, and ACM takes care of renewals. It enhances security by enforcing HTTPS connections, thus ensuring data privacy."
-}

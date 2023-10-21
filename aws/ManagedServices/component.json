@@ -1,5 +1,0 @@
-{
-    "name": "AWS Managed Services",
-    "short": "A complete operations solution on AWS that provides ongoing management of your AWS infrastructure so you can focus on your applications.",
-    "description": "AWS Managed Services (AMS) is a suite of services designed to help users shift from a day-to-day infrastructure operations model to cloud-based operations. It provides ongoing management of your AWS infrastructure, automating common activities such as change requests, monitoring, patch management, security, and backup services, freeing up your team to focus on your core business. AMS also offers analytics and recommendations to optimize your AWS environment, providing a secure, compliant, and efficient way to operate in the AWS cloud."
-}

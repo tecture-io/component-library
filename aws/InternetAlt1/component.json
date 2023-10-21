@@ -1,5 +1,0 @@
-{
-    "name": "AWS Internet",
-    "short": "A scalable domain name system (DNS) web service designed to route end users to Internet applications on AWS.",
-    "description": "Amazon Route 53 is a scalable and highly available cloud Domain Name System (DNS) web service. It effectively routes end users to Internet applications by translating domain names into numeric IP addresses. It also offers domain registration, subdomain setup, health checks, and DNS failover. Integrated with other AWS services such as EC2 and S3, Route 53 supports DNSSEC for secure DNS traffic. It provides a reliable, cost-effective solution for domain and traffic management, maintaining optimal app performance."
-}

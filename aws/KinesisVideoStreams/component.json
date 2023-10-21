@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Kinesis Video Streams",
-    "short": "A fully managed AWS service that provides secure, real-time video streaming capabilities.",
-    "description": "Amazon Kinesis Video Streams is a fully managed AWS service designed to stream live video from connected devices to AWS for analytics, machine learning, and processing. It ingests, stores, and processes video streams in real time, making them available for applications. It integrates with AI services for face recognition, object detection, etc. Kinesis Video Streams is scalable, durable, and secure, allowing developers to build applications that power real-time video analytics for smart cities, industrial automation, and more."
-}

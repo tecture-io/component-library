@@ -1,5 +1,0 @@
-{
-    "name": "AWS DeepComposer",
-    "short": "A machine learning service on AWS that provides a creative way to get started with AI by creating original music.",
-    "description": "AWS DeepComposer is a creative tool for developers to experiment with Generative AI. It allows users to create, remix, and share music created by AI. Users can input a melody and the system will generate a complete composition. The service provides educational resources to learn about Generative AI and its potential applications. It also integrates with other AWS AI services. DeepComposer brings the power of AI to music creation, allowing for innovative and personalized compositions."
-}

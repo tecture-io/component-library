@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Rules Engine",
-    "short": "A service on AWS that evaluates inbound messages published into AWS IoT Core and transforms and delivers them to another device or AWS service.",
-    "description": "The AWS IoT Rules Engine is a service that enables the processing and routing of data from IoT devices to other AWS services. It enables users to create SQL-based rules to transform and filter device data, and to act upon it by triggering actions, such as sending a notification or storing the data in a database. The Rules Engine supports a variety of AWS services as action targets, including Lambda, Kinesis, and DynamoDB. It is a key component for building IoT applications on AWS, providing scalable, real-time data processing capabilities."
-}

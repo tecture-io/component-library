@@ -1,5 +1,0 @@
-{
-    "name": "AWS X-Ray",
-    "short": "A service that collects data about requests that your application serves, providing tools to understand how your application is performing and where bottlenecks are occurring.",
-    "description": "AWS X-Ray is a powerful debugging and distributed tracing system. It helps developers analyze and debug applications, especially in production, by providing insights into how requests are processed. It visualizes and traces requests made to applications as they traverse through different AWS services, providing a map of the application's underlying components. X-Ray supports applications running on EC2, ECS, EKS, Lambda, and more. It simplifies performance tuning, troubleshooting, and enhances the overall efficiency of the application lifecycle."
-}

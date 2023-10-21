@@ -1,5 +1,0 @@
-{
-    "name": "Amazon S3 Standard Storage Class",
-    "short": "A type of storage within Amazon S3 that is designed to store frequently accessed data.",
-    "description": "Amazon S3 Standard Storage Class is a versatile storage solution by AWS, ideal for general-purpose storage of frequently accessed data. It offers high durability, availability, and performance object storage for applications, websites, content distribution, and backups. With automatic replication across multiple geographically separated regions and robust security features, it ensures data integrity and protection. S3 Standard, along with other S3 Storage Classes, forms a comprehensive, resilient, and cost-effective storage solution in the AWS ecosystem."
-}

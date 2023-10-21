@@ -1,5 +1,0 @@
-{
-    "name": "AWS Systems Manager",
-    "short": "A management service that helps you automatically collect software inventory, apply OS patches, create system images, and configure Windows and Linux operating systems on AWS.",
-    "description": "AWS Systems Manager is a management service that helps you gain operational insight and take action on AWS resources. It provides a unified interface for viewing operational data, automating operational tasks, and managing configuration compliance. Key features include patch management, state management, remote shell access, and more. It integrates with AWS services like CloudWatch and Lambda, providing a holistic solution for resource management, ensuring your AWS environment is running smoothly and securely."
-}

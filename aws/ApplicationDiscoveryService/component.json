@@ -1,5 +1,0 @@
-{
-    "name": "AWS Application Discovery Service",
-    "short": "A tool provided by AWS that helps enterprise customers plan migration projects by gathering information about their on-premises data centers.",
-    "description": "AWS Application Discovery Service aids in planning migration projects by collecting and presenting configuration, usage, and behavior data from on-premises servers. It identifies applications, their interactions, and dependencies, helping to determine migration strategies. It supports both agentless and agent-based discovery. Collected data is retained in encrypted format for security. The service integrates with AWS Migration Hub, providing a comprehensive view to accelerate migration to AWS, reducing risk and complexity."
-}

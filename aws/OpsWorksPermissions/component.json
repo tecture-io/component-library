@@ -1,5 +1,0 @@
-{
-    "name": "AWS OpsWorks Stacks Permissions",
-    "short": "A feature in AWS that controls the access level of users to the resources within an OpsWorks Stack.",
-    "description": "AWS OpsWorks Stacks Permissions is a feature controlling who has access to manage and interact with stacks and resources. It's integrated with AWS Identity and Access Management (IAM), ensuring secure, role-based access control. Permissions can be set at the stack level or for individual resources, allowing granular control. Features include automatic permission updates when users are added or removed, managing SSH keys for instances, and controlling AWS resource management. It helps maintain security and operational integrity."
-}

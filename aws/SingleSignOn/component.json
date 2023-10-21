@@ -1,5 +1,0 @@
-{
-    "name": "AWS Single Sign-On",
-    "short": "A service that centrally manages access to multiple AWS accounts and business applications.",
-    "description": "AWS Single Sign-On (SSO) is a centralized identity management service that streamlines user access to AWS accounts and business applications. It enables users to sign in to a user portal with their existing corporate credentials to access all their assigned AWS accounts. With AWS SSO, you can easily manage SSO access and user permissions across all your AWS accounts in AWS Organizations. It also supports SAML 2.0 to extend SSO access to your SAML-enabled applications. This enhances security and simplifies the user experience."
-}

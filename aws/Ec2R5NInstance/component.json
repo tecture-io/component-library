@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 R5n Instance",
-    "short": "A type of Amazon EC2 instance optimized for memory-intensive applications, offering high network bandwidth and low latency with networking through Amazon Elastic Fabric Adapter.",
-    "description": "Amazon EC2 R5n Instances are part of the Amazon EC2 instance family optimized for memory-intensive applications. They are equipped with high-performance networking through Elastic Network Adapter (ENA), providing up to 100 Gbps of network bandwidth. Ideal for high-performance databases, distributed web scale in-memory caches, mid-size in-memory databases, and other enterprise applications, they offer a balance of compute, memory, and network resources. They are available in multiple sizes to fit different use cases."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 Instances with Amazon CloudWatch",
-    "short": "A service that combines Amazon EC2, a web service that provides secure, resizable compute capacity in the cloud, with Amazon CloudWatch, a monitoring and observability service for your AWS resources and applications.",
-    "description": "Amazon EC2 Instances with Amazon CloudWatch is a combination where EC2 provides scalable computing capacity in the AWS cloud, and CloudWatch monitors EC2 resources. EC2 allows users to rent virtual computers to run applications. CloudWatch provides data and actionable insights to monitor applications, understand system-wide performance changes, optimize resource utilization, and get a unified view of operational health. Together, they provide a comprehensive solution for managing applications and services in the AWS cloud."
-}

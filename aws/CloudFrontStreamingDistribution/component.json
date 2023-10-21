@@ -1,5 +1,0 @@
-{
-    "name": "Amazon CloudFront Streaming Distribution",
-    "short": "A content delivery network service on AWS that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds.",
-    "description": "Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds. It integrates with AWS services like S3, EC2, Elastic Load Balancing, Route 53, and Lambda@Edge, providing an optimized and secure experience for end users. It offers cost-effective solutions, with pay-as-you-go pricing. CloudFront is ideal for businesses that require fast and secure content delivery to a diverse user base."
-}

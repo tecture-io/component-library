@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Device Shadow",
-    "short": "A virtual representation in the AWS cloud of real-world devices that can be used to track the device's state.",
-    "description": "AWS IoT Device Shadow is a virtual representation of a physical IoT device in the AWS cloud. It stores the device's current state and desired future state, enabling applications to check and set the device's state even when it's offline. This service aids in synchronizing device states, making IoT solutions more responsive and reliable. It's useful for remote device monitoring and control, and integrates with other AWS IoT services for an efficient, scalable, and secure IoT implementation."
-}
