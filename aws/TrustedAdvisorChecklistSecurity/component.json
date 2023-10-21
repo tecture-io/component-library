@@ -1,5 +1,0 @@
-{
-    "name": "AWS Trusted Advisor Checklist Security",
-    "short": "A tool that provides real-time guidance to help you provision your resources following AWS best practices.",
-    "description": "AWS Trusted Advisor is a service that provides real-time guidance to help users provision their resources following AWS best practices. It offers insights into cost optimization, performance, security, and fault tolerance of your AWS environment. Trusted Advisor provides recommendations to reduce costs, boost performance, harden security, and improve reliability. It also has features like Service Limits Check, notifying users about usage limits. This tool is crucial for maintaining an optimized, secure, and efficient AWS environment."
-}

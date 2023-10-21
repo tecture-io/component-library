@@ -1,5 +1,0 @@
-{
-    "name": "Amazon CloudFormation",
-    "short": "A service that allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.",
-    "description": "AWS CloudFormation is a service that helps you model and provision your AWS resources in an automated and secure manner. It allows you to use YAML or JSON scripts, known as templates, to define and provision all the resources needed for your applications. This service ensures consistency, repeatable processes, and can handle dependencies, ensuring resources are created in the right order. It's an essential tool for DevOps practices, providing an infrastructure as code (IaC) solution, making infrastructure management easier and more efficient."
-}

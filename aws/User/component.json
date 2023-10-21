@@ -1,5 +1,0 @@
-{
-    "name": "AWS User",
-    "short": "A user directory in AWS that provides a secure user management and authentication service.",
-    "description": "Amazon Cognito User Pools is a user directory in Amazon Cognito that provides a secure user registration, authentication, and account recovery service. It enables users to sign in directly, or through federated identity providers like Google, Facebook, Amazon, or SAML-based providers. It supports multi-factor authentication and encryption of user data. With user pools, you can customize the sign-in experience, including sign-up fields, UI customization, and hooks for custom workflows or actions."
-}

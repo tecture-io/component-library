@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Local Zones",
-    "short": "A feature of Route 53 that allows you to route traffic for a particular domain and its subdomains to resources in your network's zone.",
-    "description": "Amazon Route 53 Local Zones is a feature of AWS Route 53 that brings AWS services closer to end-users in geographically specific areas, reducing latency. Local Zones act as extensions of AWS regions, enabling local routing of traffic for better performance and availability. They're especially useful for applications needing single-digit millisecond latencies, such as gaming, real-time trading, or media streaming. Advanced routing policies enable traffic control based on health checks, geographical location, or latency, ensuring a smooth user experience."
-}

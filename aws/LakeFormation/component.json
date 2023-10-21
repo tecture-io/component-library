@@ -1,5 +1,0 @@
-{
-    "name": "AWS Lake Formation",
-    "short": "A service that simplifies the setup, security, and management of data lakes and big data analytics infrastructure on AWS.",
-    "description": "AWS Lake Formation is a service that simplifies the process of building, securing, and managing data lakes. It automates time-consuming tasks like data discovery, cataloging, conversion, and security configuration. Developers can easily ingest, clean, and catalog data from databases and other sources. It integrates with other AWS services, allowing analytics and machine learning on collected data. Lake Formation ensures data is ready for analysis with minimal manual intervention, optimizing data operations."
-}

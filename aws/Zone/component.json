@@ -1,5 +1,0 @@
-{
-    "name": "AWS Availability Zone",
-    "short": "An AWS Availability Zone (AZ) is a distinct, isolated location within an AWS Region, designed for high availability and fault-tolerant application deployment.",
-    "description": "An AWS Availability Zone (often termed \"AZ\") is a distinct location within an AWS Region, designed to run applications with high availability and fault tolerance. Each AZ is equipped with its own power, cooling, and networking to isolate from failures of other AZs. By distributing resources across multiple AZs in a region, users can ensure continuous application operation, even if one zone encounters disruptions. The interconnected nature of AZs provides low-latency networking, ensuring seamless operation and data replication across the zones, optimizing performance and resilience."
-}

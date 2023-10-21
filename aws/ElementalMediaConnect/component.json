@@ -1,5 +1,0 @@
-{
-    "name": "AWS Elemental MediaConnect",
-    "short": "A service that provides secure, reliable live video transport in the AWS cloud.",
-    "description": "AWS Elemental MediaConnect is a high-quality video transport service. It provides secure and reliable live video transfer for broadcasting and streaming purposes. With MediaConnect, users can create, manage, and scale live video streams to meet their specific needs. It enables sharing of high-value streams within AWS, with on-premises resources, or with other MediaConnect flows. It offers built-in reliability mechanisms, encryption, and failover options, ensuring high-quality, secure, and uninterrupted video streaming experiences."
-}

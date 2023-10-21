@@ -1,5 +1,0 @@
-{
-    "name": "Amazon MQ",
-    "short": "A managed message broker service for Apache ActiveMQ on AWS that makes it easy to set up and operate message brokers in the cloud.",
-    "description": "Amazon MQ is a managed message broker service for Apache ActiveMQ. It simplifies the setup and operation of message brokers in the cloud, enabling applications to communicate and share data across distributed systems. It supports industry-standard APIs and protocols, ensuring compatibility with existing applications. With built-in redundancy and automatic failover, it offers high availability and durability. Amazon MQ handles the heavy lifting of broker management, freeing developers to focus on their applications."
-}

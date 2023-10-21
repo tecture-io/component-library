@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Analytics",
-    "short": "A service that analyzes your IoT device data to extract meaningful insights.",
-    "description": "AWS IoT Analytics is a fully-managed service that makes it easy to analyze and visualize your IoT data. It collects, processes, and stores large volumes of device data, preparing it for analysis with machine learning. The service can filter, transform, and enrich IoT data before storing it in a time-series data store. It can then be analyzed using built-in SQL query capabilities, or with other AWS services like Quicksight for visualization or SageMaker for machine learning. The service enables deep understanding of IoT device data."
-}

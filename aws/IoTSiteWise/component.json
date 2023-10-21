@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT SiteWise",
-    "short": "A managed service on AWS that makes it easy to collect, store, and analyze data from industrial equipment at scale.",
-    "description": "AWS IoT SiteWise is a managed service that simplifies the process of collecting, storing, and analyzing data from industrial equipment at scale. It provides real-time insights into operational data, aiding in making quality and cost-effective decisions. This service supports various industrial data protocols, and integrates with other AWS services for advanced analytics. It features asset modeling, which represents processes, equipment, and facilities in a virtual environment. Ideal for monitoring operations across facilities and reducing costs."
-}

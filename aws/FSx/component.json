@@ -1,5 +1,0 @@
-{
-    "name": "Amazon FSx",
-    "short": "A fully managed service that provides scalable and high-performance file storage for Windows and open-source applications.",
-    "description": "Amazon FSx is a fully managed service providing scalable file storage in the AWS Cloud. It offers two file systems: FSx for Windows File Server for Windows-based applications and FSx for Lustre for compute-intensive workloads. These provide native compatibility and high-performance features while reducing administrative overhead. FSx supports popular storage protocols, integrates with other AWS services, and offers robust security, including encryption and access controls. It simplifies file storage and sharing, enabling cost-effective scalability and reliability."
-}

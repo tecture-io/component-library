@@ -1,5 +1,0 @@
-{
-    "name": "Amazon FSx for Lustre",
-    "short": "A high-performance file storage service on AWS, optimized for fast processing workloads.",
-    "description": "Amazon FSx for Lustre is a fully managed file system service optimized for compute-intensive workloads. It provides high-performance storage for applications like machine learning, high-performance computing (HPC), video processing, and financial modeling. With seamless integration to S3, it enables fast processing of data stored in AWS. The service supports popular Linux-based workloads and allows for on-demand scaling. FSx for Lustre simplifies the deployment, scaling, and cost-effectiveness of running Lustre file systems."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Actions",
-    "short": "A collection of customizable responses to events triggered by AWS IoT devices.",
-    "description": "AWS IoT Actions are a component of AWS IoT Core, enabling the execution of actions in response to MQTT messages. These actions can trigger other AWS services such as Lambda, DynamoDB, or SNS, enabling IoT devices to interact with the cloud. Actions are defined by IoT rules, which filter and transform incoming data. This feature allows IoT solutions to respond automatically to device data, thus enhancing efficiency, automation, and intelligence. It's pivotal for real-time responses in IoT applications."
-}

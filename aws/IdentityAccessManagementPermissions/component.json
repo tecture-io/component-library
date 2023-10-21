@@ -1,5 +1,0 @@
-{
-    "name": "AWS IAM (Identity and Access Management) Permissions",
-    "short": "A feature in AWS that allows you to manage access to AWS services and resources securely.",
-    "description": "AWS Identity and Access Management (IAM) Permissions is a service that controls user access to AWS resources. It allows administrators to create and manage AWS users and groups, and use permissions to allow or deny their access to AWS resources. IAM ensures secure access to AWS services and resources for your users using access policies. It supports identity federation for delegated access to the AWS Management Console, and provides multi-factor authentication for highly privileged users. It's a fundamental component of AWS security."
-}

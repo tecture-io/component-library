@@ -1,5 +1,0 @@
-{
-    "name": "Amazon CloudFormation Change Set",
-    "short": "A service in AWS CloudFormation that lets you see how proposed changes to a stack might impact your running resources.",
-    "description": "An AWS CloudFormation Change Set is a summary of proposed changes to a stack. Before deploying changes, users can generate a change set to understand how changes impact resources. It provides a preview of modifications, additions, or deletions to stack resources, allowing users to accept or deny changes before actual deployment. Change sets improve the management of cloud resources, reducing the risk of undesired effects and providing a level of transparency and control in the modification process."
-}

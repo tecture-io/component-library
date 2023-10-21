@@ -1,5 +1,0 @@
-{
-    "name": "Github Repository",
-    "short": "A GitHub repository is a digital space for storing, managing, and versioning code projects, facilitating collaboration and tracking changes with Git.",
-    "description": "A GitHub repository (often referred to as a \"repo\") is a digital storage space where developers store and manage their code projects. It offers version control using Git, tracking changes and facilitating collaboration among contributors. Repos can be public, fostering open-source collaboration, or private, limited to select users. Besides code, repositories can contain documentation, licenses, and other project-related content. Integrated tools in GitHub enhance code review, issue tracking, and continuous integration, making it a hub for modern software development."
-}

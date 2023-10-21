@@ -1,5 +1,0 @@
-{
-    "name": "Amazon VPC (Virtual Private Cloud) Router",
-    "short": "A customizable and secure cloud network service on AWS that lets you provision a logically isolated section of the AWS Cloud.",
-    "description": "Amazon Virtual Private Cloud (VPC) is a service that provides a secure, private network within the AWS cloud. Users can define their own IP address space, create subnets, configure route tables, and set network gateways. VPC offers advanced security features like security groups and network access control lists to control inbound and outbound traffic. It also supports VPN connections for secure data transfer between your on-premises network and your VPC. It's customizable to fit specific privacy, architecture, and compliance requirements."
-}

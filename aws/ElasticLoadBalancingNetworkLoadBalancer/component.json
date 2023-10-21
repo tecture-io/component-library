@@ -1,5 +1,0 @@
-{
-    "name": "AWS ELB (Elastic Load Balancing) Network Load Balancer",
-    "short": "A service in AWS that automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances.",
-    "description": "AWS Network Load Balancer is a high-performance networking service that distributes incoming network traffic across multiple targets, such as Amazon EC2 instances, containers, and IP addresses, in multiple AWS regions. It's designed to handle volatile workloads and millions of requests per second. Key features include SSL termination, sticky sessions, and support for static IPs. It enables fault tolerance, high availability, and automatic scaling, offering a robust, secure, and efficient load balancing solution."
-}

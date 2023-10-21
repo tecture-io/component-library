@@ -1,5 +1,0 @@
-{
-    "name": "AWS Global Accelerator",
-    "short": "A networking service on AWS that sends your user traffic through Amazon's global network infrastructure, improving the performance of your internet applications.",
-    "description": "AWS Global Accelerator is a networking service that improves the availability and performance of the applications you provide to your global users. It leverages the AWS global network to direct user traffic to optimal endpoints, reducing latency and improving resilience. It can reroute traffic to healthy endpoints in less than a second in case of failure. This makes it ideal for multi-region applications and content delivery. It seamlessly integrates with other AWS services to provide an enhanced user experience."
-}

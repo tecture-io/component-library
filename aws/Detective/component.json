@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Detective",
-    "short": "A security service on AWS that makes it easy to analyze, investigate, and identify the root cause of potential security issues or suspicious activities.",
-    "description": "Amazon Detective is a security service that simplifies the process of analyzing, investigating, and quickly identifying the root cause of potential security issues or suspicious activities. It automatically collects log data from various AWS resources and uses machine learning, statistical analysis, and graph theory to build interactive visualizations. This helps users analyze, investigate, and quickly get to the root of security findings. With Detective, the complexity of data processing for security is greatly reduced."
-}

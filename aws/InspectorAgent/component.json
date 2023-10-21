@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Inspector Agent",
-    "short": "A service provided by AWS that automatically assesses applications for vulnerabilities or deviations from best practices.",
-    "description": "Amazon Inspector Agent is a component of Amazon Inspector, a security assessment service. This agent is installed on EC2 instances and collects behavior data about your applications, which is then analyzed for potential security issues or deviations from best practices. It supports multiple operating systems, including Linux and Windows. The agent is crucial for understanding how applications interact with the OS and other software on the instance, enabling proactive security and compliance management."
-}

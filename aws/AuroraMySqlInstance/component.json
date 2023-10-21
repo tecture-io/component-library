@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Aurora MySQL Instance",
-    "short": "A relational database service on AWS that combines the speed and reliability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases.",
-    "description": "Amazon Aurora is a relational database engine from AWS, designed to deliver speed, reliability, and scalability. It's compatible with MySQL and PostgreSQL, making migrations simpler. Aurora offers up to five times the throughput of standard MySQL and three times that of standard PostgreSQL. It features distributed, fault-tolerant, self-healing storage systems, automating database tasks, and enhancing security, availability, and reliability. Aurora fits well in high-performance applications due to its speed and scalability."
-}

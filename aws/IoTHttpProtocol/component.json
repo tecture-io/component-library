@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT HTTP Protocol",
-    "short": "A communication protocol in AWS IoT services that allows devices to interact with AWS IoT using HTTP.",
-    "description": "AWS IoT HTTP Protocol is a communication protocol allowing devices to interact with AWS IoT services using HTTP. It supports HTTP PubSub, RESTful operations, and direct messaging to AWS IoT. Devices can publish messages to MQTT topics, retrieve and update Thing Shadows, and use the Device Gateway using standard HTTP methods. This protocol is ideal for devices with limited network capabilities or intermittent connectivity, ensuring reliable, secure, and efficient communication with AWS IoT services."
-}

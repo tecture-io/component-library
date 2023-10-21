@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 M5a Instances",
-    "short": "These are part of the Amazon EC2 instances family that provide a balance of compute, memory, and networking resources for a broad range of workloads.",
-    "description": "Amazon EC2 M5a Instances are part of the Amazon EC2 service, providing a balance of cost and performance for a variety of workloads. They are powered by AMD EPYC processors, offering a lower cost per vCPU compared to M5 instances. These instances come with NVMe SSD storage, high-speed networking, and up to 96 vCPUs, catering to high-performance computing. Ideal for business applications, data processing tasks, and backend servers, M5a instances help users optimize their resources without compromising performance."
-}

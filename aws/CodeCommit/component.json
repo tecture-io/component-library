@@ -1,5 +1,0 @@
-{
-    "name": "AWS CodeCommit",
-    "short": "A fully managed source control service on AWS that hosts secure Git-based repositories.",
-    "description": "AWS CodeCommit is a fully-managed source control service that makes it easy for teams to host secure and highly scalable Git repositories. It integrates with existing Git tools and supports all Git commands, allowing developers to store and version their code securely in the cloud. CodeCommit eliminates the need to operate a separate source control system, reducing the cost and complexity of infrastructure management. It also integrates seamlessly with other AWS services, supporting a robust and scalable DevOps pipeline."
-}

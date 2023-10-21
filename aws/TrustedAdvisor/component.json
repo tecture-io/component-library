@@ -1,5 +1,0 @@
-{
-    "name": "AWS Trusted Advisor",
-    "short": "An AWS service that provides real time guidance to help you provision your resources following AWS best practices.",
-    "description": "AWS Trusted Advisor is a service providing real-time insights to help users follow best practices with AWS resources. It analyzes your AWS environment, highlighting ways to save costs, improve system performance, boost security, and implement fault tolerance. It offers over 50 checks across five categories: cost optimization, security, fault tolerance, performance, and service limits. Trusted Advisor is a proactive tool that helps to optimize AWS deployment, enforce best practices and manage resources effectively."
-}

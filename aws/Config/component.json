@@ -1,5 +1,0 @@
-{
-    "name": "AWS Config",
-    "short": "A service that enables you to assess, audit, and evaluate the configurations of your AWS resources.",
-    "description": "AWS Config is a service that enables you to manage, evaluate, and audit your AWS resources' configurations. It provides a detailed inventory of your AWS resources and their current configurations, allowing you to visualize how they are related to one another. AWS Config can also identify compliance violations, review changes in configurations and relationships over time, and determine your overall compliance against operational best practices. This service aids in governance, compliance, operational auditing, and risk auditing of your AWS account."
-}

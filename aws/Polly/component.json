@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Polly",
-    "short": "A cloud service on AWS that converts text into lifelike speech using advanced deep learning technologies.",
-    "description": "Amazon Polly is a cloud service that converts text into lifelike speech. Users can create applications that increase engagement and accessibility, from news readers to language learning apps. Polly supports multiple languages and offers a variety of realistic voices. With features like Speech Marks and Speech Synthesis Markup Language (SSML), users can add context, control pronunciation, volume, speed, and more. This service enables developers to deliver high-quality voice output for a global audience, enhancing user experience."
-}

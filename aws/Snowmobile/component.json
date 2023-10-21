@@ -1,5 +1,0 @@
-{
-    "name": "AWS Snowmobile",
-    "short": "A petabyte-scale data transport solution that uses a secure semi 40-foot shipping container to transfer large amounts of data into and out of AWS.",
-    "description": "AWS Snowmobile is a physical data transport solution provided by Amazon for transferring large volumes of data to AWS. It's an Exabyte-scale service using a secured, ruggedized shipping container pulled by a semi-trailer truck. With a capacity of up to 100PB per Snowmobile, it's ideal for large-scale data migrations, like film libraries, satellite imagery, or data center shutdowns. It provides end-to-end security, tracking, and faster transfer compared to internet-based methods, ensuring a reliable and secure migration."
-}

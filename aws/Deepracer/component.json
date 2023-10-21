@@ -1,5 +1,0 @@
-{
-    "name": "AWS DeepRacer",
-    "short": "A 1/18th scale race car driven by reinforcement learning, a type of machine learning, provided by AWS for hands-on learning.",
-    "description": "AWS DeepRacer is a 1/18th scale autonomous vehicle and an associated online learning program designed to introduce users to reinforcement learning (RL). It is a complete package of a physical race car, a 3D racing simulator, and a global racing league. Users can create RL models in Amazon Sagemaker and train, test and iterate quickly and efficiently. The models are then deployed onto the DeepRacer vehicle for real-world applications. It's a fun, interactive way to learn about machine learning."
-}

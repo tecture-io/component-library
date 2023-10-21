@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 T3 instance",
-    "short": "A scalable and efficient type of compute instance on AWS that provides a balance of compute, memory, and network resources.",
-    "description": "Amazon EC2 T3 instances are a type of virtual server in the AWS cloud, well-suited for workloads that require a burstable performance model. These instances are designed to provide a balance of compute, memory, and network resources, making them ideal for microservices, development environments, and small databases. T3 instances offer the ability to scale up resources during peak demand periods and scale back down in quieter periods, offering cost-effectiveness for variable workloads."
-}

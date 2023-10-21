@@ -1,5 +1,0 @@
-{
-    "name": "Amazon AppMesh Mesh",
-    "short": "A service mesh that provides application-level networking to make it easy for your services to communicate with each other across multiple types of compute infrastructure.",
-    "description": "AWS App Mesh is a service mesh that provides application-level networking to standardize how your services communicate, offering end-to-end visibility and ensuring high-availability for your applications. It configures each service to export monitoring data, implement consistent communications control logic, and handle errors, making your network architecture more robust. App Mesh can be used with Amazon ECS, Amazon EKS, and Kubernetes on EC2. It helps in optimizing communication between services, reducing the time spent on complex network tasks."
-}

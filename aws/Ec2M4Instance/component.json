@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 M4 Instance",
-    "short": "A type of compute capacity in the Amazon EC2 service offering scalable, high-performance computing for applications hosted on AWS.",
-    "description": "Amazon EC2 M4 Instances are part of the Amazon Elastic Compute Cloud (EC2) service, providing scalable, virtual private servers using the AWS infrastructure. M4 instances offer a balance of compute, memory, and network resources, making them a good choice for a wide range of applications, including business applications, web & app servers, backend servers for enterprise applications, gaming servers, caching fleets, and app development environments. They support EBS-optimization and deliver high network performance."
-}

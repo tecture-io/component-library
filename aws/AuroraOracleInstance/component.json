@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Aurora Oracle Instance",
-    "short": "A relational database service on AWS that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.",
-    "description": "Amazon Aurora is a MySQL and PostgreSQL-compatible relational database service by AWS. Known for its speed and security, it offers up to five times the throughput of standard MySQL and three times that of PostgreSQL. Aurora features fault-tolerant, self-healing storage and automatic backup to S3. It can scale up to 64TB per database instance, supports cross-region replication, and provides encryption at rest and in transit. Ideal for applications that require high performance and availability."
-}

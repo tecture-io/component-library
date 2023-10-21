@@ -1,5 +1,0 @@
-{
-    "name": "AWS STS (Security Token Service)",
-    "short": "A web service on AWS that provides temporary, limited-privilege credentials for AWS Identity and Access Management (IAM) users.",
-    "description": "AWS Security Token Service (STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS Identity and Access Management (IAM) users or for users that you authenticate (federated users). This service is particularly useful for scenarios where you need to delegate access to your AWS resources, enable identity federation, or implement single sign-on (SSO). STS is integrated with other AWS services and supports common identity federation protocols, enhancing security and identity management."
-}

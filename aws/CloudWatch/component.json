@@ -1,5 +1,0 @@
-{
-    "name": "Amazon CloudWatch",
-    "short": "A monitoring service on AWS that provides actionable insights to optimize applications, respond to system-wide performance changes, and manage resource utilization.",
-    "description": "Amazon CloudWatch is a comprehensive monitoring service provided by AWS. It allows users to monitor resources and applications in real-time, collecting and tracking metrics, collecting and monitoring log files, and setting alarms. CloudWatch can monitor AWS resources such as EC2 instances, DynamoDB tables, and RDS DB instances. It also enables users to gain system-wide visibility into resource utilization, application performance, and operational health, thereby optimizing applications and keeping them running smoothly."
-}

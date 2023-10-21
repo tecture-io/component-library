@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Backup",
-    "short": "A service on AWS that centralizes and automates data protection across your AWS services by backing up data.",
-    "description": "AWS Backup is a centralized, fully-managed backup service on AWS, facilitating the backup of data and applications across AWS services in the cloud and on-premises. It enables you to define and customize backup policies, automate routine backup tasks, monitor backup activity, and easily recover when needed. The service supports several AWS resources like EC2 instances, RDS databases, DynamoDB tables, EFS file systems, etc. AWS Backup enhances data protection and compliance for your enterprise."
-}

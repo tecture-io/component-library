@@ -1,5 +1,0 @@
-{
-    "name": "AWS Data Exchange",
-    "short": "A platform on AWS that makes it easy for customers to securely find, subscribe to, and use third-party data in the cloud.",
-    "description": "AWS Data Exchange is a service that makes it easy to find, subscribe to, and use third-party data in the cloud. It's a marketplace for data providers and consumers, facilitating secure, controlled access to curated datasets. With features like data product discovery, subscription management, and usage tracking, it simplifies data sourcing and consumption. Data Exchange supports diverse industries, including healthcare, finance, and retail, driving data-driven insights and decision making in AWS."
-}

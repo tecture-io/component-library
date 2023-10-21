@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Greengrass Core",
-    "short": "A software that extends AWS onto your device, enabling it to act locally on the data it generates while still using the cloud for management, analytics, and durable storage.",
-    "description": "AWS IoT Greengrass Core is a software that allows local execution of AWS Lambda functions, messaging, data caching, and sync capabilities on connected devices. It brings AWS computing capabilities to edge devices, reducing latency, and allowing offline functionality. It supports local processing, ML inference, and secure communication, even when disconnected from the internet. It integrates with AWS IoT and other AWS services, providing seamless and secure data transfer between devices and the AWS cloud."
-}

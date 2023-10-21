@@ -1,5 +1,0 @@
-{
-    "name": "AWS Tools and SDKs",
-    "short": "A set of software libraries, tools, and plugins for interfacing and managing AWS services from various programming environments and platforms.",
-    "description": "AWS Tools and SDKs are a collection of software libraries and utilities that simplify the development, deployment, and maintenance of applications on AWS. They provide direct, efficient access to AWS services, allowing developers to automate tasks, manage resources, and interact with AWS infrastructure. Supported languages include Java, Python, PHP, .NET, etc. AWS tools also include the AWS CLI and AWS Shell, enabling scripting and direct commands. This suite of tools enhances productivity, reduces errors, and optimizes cloud usage."
-}

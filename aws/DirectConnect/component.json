@@ -1,5 +1,0 @@
-{
-    "name": "AWS Direct Connect",
-    "short": "A dedicated network connection from your premises to AWS, providing a more consistent network experience than Internet-based connections.",
-    "description": "AWS Direct Connect is a networking service that enables dedicated, private network connection from a location to AWS's network. It offers a more consistent network experience than Internet-based connections, with greater bandwidth and lower latency. Direct Connect is ideal for high-volume data transfer, sensitive workloads, or hybrid environments. It supports multiple use cases like VPN, VPC, or S3 transfer. Organizations can customize their connections based on bandwidth requirements, leading to significant cost savings."
-}

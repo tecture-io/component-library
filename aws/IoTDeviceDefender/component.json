@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Device Defender",
-    "short": "A security service on AWS that continuously monitors and protects your IoT configurations.",
-    "description": "AWS IoT Device Defender is a security service that protects IoT devices from common threats. It continuously audits device configurations for security vulnerabilities. The service identifies abnormal device behavior that could indicate a potential security issue. It also provides security metrics for devices and alerts when set thresholds are breached. By integrating with other AWS services, it eases remediation of potential security issues, ensuring robustness and security for IoT applications."
-}

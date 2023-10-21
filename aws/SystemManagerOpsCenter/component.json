@@ -1,5 +1,0 @@
-{
-    "name": "AWS Systems Manager OpsCenter",
-    "short": "A central hub on AWS for managing and resolving operational issues in your AWS resources.",
-    "description": "AWS Systems Manager OpsCenter offers a unified interface to view, investigate, and resolve operational tasks across AWS resources. OpsCenter aggregates and standardizes operational tasks (OpsItems) from AWS services, presenting them in a streamlined and actionable format. It's integrated with other AWS services and supports automation documents, making issue resolution faster and easier. OpsCenter aids in managing and reducing operational overhead, enhancing the visibility and control over your operational health."
-}

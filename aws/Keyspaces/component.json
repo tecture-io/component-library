@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Keyspaces (for Apache Cassandra)",
-    "short": "A scalable, highly available, and managed Apache Cassandra\u2013compatible database service on AWS.",
-    "description": "Amazon Keyspaces (for Apache Cassandra) is a scalable, highly available, and fully managed Cassandra-compatible database service by AWS. It provides a seamless migration, management, and scaling experience for users currently using Cassandra. It supports the Cassandra Query Language (CQL) making it easy to build applications. With no servers to manage, automatic scaling, backup, and hardware provisioning, it enables developers to focus on application development. It ensures low-latency, high-throughput, and enterprise-level security."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Virtual Private Cloud (VPC) Flow Logs",
-    "short": "A feature of AWS that captures information about the IP traffic going to and from network interfaces in your VPC.",
-    "description": "Amazon VPC Flow Logs is a feature that enables the capture of information about the IP traffic going to and from network interfaces in a VPC. It provides details on accepted and rejected traffic, aiding in network troubleshooting, performance optimization, and security incident investigation. The logs can be stored in CloudWatch Logs or S3 for easy accessibility and analysis. By enabling visibility into network traffic, VPC Flow Logs contributes to the secure and efficient operation of AWS resources."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Rekognition",
-    "short": "A service on AWS that uses machine learning to identify objects, people, text, scenes, and activities in images and videos.",
-    "description": "Amazon Rekognition is an AWS service that uses deep learning technology to analyze images and videos for objects, people, text, scenes, and activities. It also provides highly accurate facial analysis and facial recognition capabilities. Users can detect, analyze, and compare faces for a wide variety of user verification, people counting, and public safety use cases. Rekognition's easy-to-use API allows developers to build applications that analyze images, and videos stored in Amazon S3."
-}

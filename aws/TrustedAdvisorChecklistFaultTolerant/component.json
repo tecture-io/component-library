@@ -1,5 +1,0 @@
-{
-    "name": "AWS Trusted Advisor Checklist Fault Tolerant",
-    "short": "A tool in AWS that provides real-time guidance to help provision resources following AWS best practices.",
-    "description": "AWS Trusted Advisor is a tool that provides real-time guidance to help users provision their resources by AWS best practices. It analyzes an AWS environment and provides recommendations in five categories: cost optimization, performance, security, fault tolerance, and service limits. Trusted Advisor helps reduce cost, increase performance and improve security by optimizing your AWS environment. It's a go-to guide for users to keep their AWS services well-architected and efficient."
-}

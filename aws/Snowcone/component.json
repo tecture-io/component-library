@@ -1,5 +1,0 @@
-{
-    "name": "AWS Snowcone",
-    "short": "A portable and rugged edge computing and data transfer device from AWS.",
-    "description": "AWS Snowcone is a small, rugged, and secure edge computing and data transfer device from AWS. It's designed to collect, process, and move data to AWS from disconnected or harsh environments. With 8 terabytes of usable storage, it's ideal for edge computing, data migration, content distribution, and tactical edge scenarios. By using AWS services like EC2 and Lambda, Snowcone can execute computing applications at the edge, even offline. It's resistant to dust, free-fall, vibration, and extreme temperatures, ensuring data safety."
-}

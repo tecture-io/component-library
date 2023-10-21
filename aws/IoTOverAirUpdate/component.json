@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Over-the-Air Update",
-    "short": "A service in AWS that allows you to remotely update the software running on devices connected to AWS IoT.",
-    "description": "AWS IoT Over-the-Air (OTA) Update is a managed service that enables remote updates of the firmware on IoT devices. It supports devices connected to AWS IoT Core and those that store firmware updates in S3 buckets. OTA updates can be scheduled, monitored, and managed to reduce downtime and maintain device functionality. The service also includes features for error handling, rollback, and security, providing a robust and efficient solution for managing large-scale IoT device fleets."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Kinesis",
-    "short": "A real-time data streaming service on AWS that can process large amounts of data per second.",
-    "description": "Amazon Kinesis is a real-time data streaming service in AWS. It provides tools to collect, process, and analyze large streams of data records in real time. Kinesis is divided into four capabilities: Kinesis Video Streams, Kinesis Data Streams, Kinesis Data Firehose, and Kinesis Data Analytics. These allow for video streaming, custom app building, data delivery to other AWS services, and real-time analytics, respectively. Kinesis is ideal for applications handling real-time data such as IoT telemetry, application logs, and social media feeds."
-}

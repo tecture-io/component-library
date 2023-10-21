@@ -1,5 +1,0 @@
-{
-    "name": "AWS Directory Service AD Connector",
-    "short": "A service provided by AWS that links to your existing on-premises Active Directory to allow users to use their current credentials to log in to AWS services.",
-    "description": "AWS Directory Service AD Connector is a gateway that redirects directory requests to your existing on-premises Microsoft Active Directory. It allows you to leverage your existing AD for user authentication and management, without synchronizing data to the cloud. It supports AWS services like Amazon WorkSpaces, Amazon QuickSight, and Amazon RDS for SQL Server. This service provides a secure, simple, and cost-effective way to use your existing infrastructure for managing AWS resources and workloads."
-}

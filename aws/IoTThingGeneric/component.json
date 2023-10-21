@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Things Graph",
-    "short": "A service in AWS that allows you to visually connect different devices and web services to build IoT applications.",
-    "description": "AWS IoT Things Graph is a service that simplifies the development of IoT applications. It provides a visual interface for connecting and coordinating interactions between different devices and web services. IoT Things Graph supports devices from various manufacturers and protocols. It enables developers to build IoT applications through drag-and-drop functionality without worrying about underlying device specifics. It also provides automated deployments, thus streamlining the IoT application development and deployment process."
-}

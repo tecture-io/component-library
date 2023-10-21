@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Personalize",
-    "short": "An AI service on AWS that enables developers to create individualized recommendations to customers using machine learning technology.",
-    "description": "Amazon Personalize is an AWS machine learning service that enables developers to create individualized recommendations for customers using their applications. It utilizes real-time and historical data to provide personalized user experiences. The service can be used for product recommendations, personalized search results, and targeted marketing. It's fully managed, eliminating the need for expertise in machine learning. With Amazon Personalize, businesses can enhance customer engagement and conversion through personalized interactions."
-}

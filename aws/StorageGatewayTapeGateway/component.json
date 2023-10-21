@@ -1,5 +1,0 @@
-{
-    "name": "AWS Storage Gateway Tape Gateway",
-    "short": "A hybrid cloud storage service that leverages on-premise tape-based backup and archiving systems to store data securely on AWS.",
-    "description": "AWS Storage Gateway Tape Gateway is a service that provides a cost-effective, scalable, and durable solution for archiving data in the AWS Cloud. It emulates a physical tape library, allowing existing backup applications to seamlessly transition from on-premise tape infrastructures to cloud storage. Data stored through Tape Gateway is encrypted for security and can be retrieved or archived in Amazon S3 or Glacier. It's ideal for organizations looking to reduce operational costs, while ensuring long-term data retention and accessibility."
-}

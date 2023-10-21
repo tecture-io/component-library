@@ -1,5 +1,0 @@
-{
-    "name": "AWS Fargate",
-    "short": "A serverless compute engine for containers that works with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS).",
-    "description": "AWS Fargate is a serverless compute engine for containers that works with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS). It removes the need to manage the underlying EC2 instances, allowing developers to focus on designing and building applications. Fargate automatically scales, patches, and secures containers, offering a high level of abstraction. It provides granular billing by the second, making it a cost-effective solution for running containers in AWS."
-}

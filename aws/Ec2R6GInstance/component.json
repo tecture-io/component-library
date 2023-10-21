@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 R6g instances",
-    "short": "These are cloud computing instances on the AWS platform designed specifically for memory-intensive applications.",
-    "description": "Amazon EC2 R6g instances are part of AWS's EC2 service, designed for memory-intensive applications. These instances use AWS Graviton2 processors, providing significant price-performance benefits over comparable x86-based instances. Ideal for open-source databases, in-memory caches, and real-time big data analytics, R6g instances offer up to 64 vCPUs and 512 GiB of memory. With Nitro System, the underlying platform for EC2 instances, users get consistent performance, enhanced security, and efficient resource management."
-}

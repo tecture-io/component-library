@@ -1,5 +1,0 @@
-{
-    "name": "Amazon ECS (Elastic Container Service) - Task",
-    "short": "A service within Amazon Elastic Container Service (ECS) that defines the container and parameters for running a single instance of a task on a cluster.",
-    "description": "Amazon ECS Task is a running instance of Amazon Elastic Container Service (ECS) that executes Docker container applications. A task can run multiple containers which share the same lifecycle, network, and storage resources. Tasks are defined by task definitions, specifying the Docker image, CPU/memory allocation, and other parameters. Tasks can be scheduled on ECS clusters manually or through service definitions for long-term applications. This enables developers to deploy, run, and scale containerized applications easily and efficiently."
-}

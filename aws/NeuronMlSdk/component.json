@@ -1,5 +1,0 @@
-{
-    "name": "Amazon SageMaker Neuron SDK",
-    "short": "A toolkit provided by AWS for developing, profiling, and deploying high-performance machine learning inference on Amazon SageMaker platforms.",
-    "description": "Amazon SageMaker Neuron SDK is a tool for compiling and optimizing machine learning models for AWS Inferentia chips. It supports popular frameworks like TensorFlow, PyTorch, and MXNet. The Neuron SDK allows developers to maximize Inferentia chip utilization and performance, reducing cost and latency. It also integrates with other AWS services, like EC2 and ECS, for scalable deployment. With Neuron SDK, developers can efficiently deploy machine learning models in production at high speed and low cost."
-}

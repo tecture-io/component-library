@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EFS (Elastic File System)",
-    "short": "A scalable file storage system for Amazon EC2 instances.",
-    "description": "Amazon Elastic File System (EFS) is a scalable, cloud-based file storage service for applications hosted on AWS. It allows easy sharing of data across multiple instances and supports both Network File System versions 4.0 and 4.1 (NFSv4) protocols. EFS is elastic, automatically growing and shrinking based on your storage needs, eliminating the need to provision and manage capacity. It also integrates with AWS Backup for data protection and offers lifecycle management to automate cost savings. Ideal for big data analytics, media processing, and content management."
-}

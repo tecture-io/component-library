@@ -1,5 +1,0 @@
-{
-    "name": "AWS Systems Manager Maintenance Windows",
-    "short": "A feature in AWS Systems Manager that allows you to define a schedule for when to perform potentially disruptive actions on your instances.",
-    "description": "AWS Systems Manager Maintenance Windows is a feature that enables you to schedule routine tasks on your Amazon EC2 instances or other AWS resources. This service ensures minimized disruption during resource downtime by performing operations such as patching, software updates, or system reboots within predefined time slots. It offers flexibility by allowing you to specify a schedule, duration, and the tasks to execute. With Maintenance Windows, you can effectively manage your resources and maintain operational efficiency."
-}

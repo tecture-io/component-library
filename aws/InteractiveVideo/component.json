@@ -1,5 +1,0 @@
-{
-    "name": "Amazon IVS (Interactive Video Service)",
-    "short": "A live streaming solution on AWS that lets you create, manage, and distribute interactive video content.",
-    "description": "Amazon Interactive Video Service (IVS) is a managed solution for creating live video experiences. It simplifies video streaming setup and operations, allowing developers to focus on building engaging and interactive experiences. IVS handles all aspects of video workflows, from ingestion to delivery. It comes with features for low-latency streaming, on-the-fly recording, and easy integration with other AWS services. IVS also supports adding interactive elements to video streams, such as polls, chats, and more, enhancing user engagement."
-}

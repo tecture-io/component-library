@@ -1,5 +1,0 @@
-{
-    "name": "Amazon HDFS Cluster",
-    "short": "A cloud-based big data platform on AWS that processes large data sets using popular frameworks such as Apache Spark and Hadoop.",
-    "description": "Amazon EMR (Elastic MapReduce) is a cloud-based big data platform for processing large datasets using popular frameworks like Apache Spark and Hadoop. It eases running petabyte-scale analysis at half the cost of traditional on-premises solutions. EMR supports multiple data sources, including DynamoDB and S3, and integrates with AWS data and analytics services. It offers resizable clusters, data encryption, and operational tools for debugging. EMR is ideal for log analysis, web indexing, data transformations, machine learning, and more."
-}

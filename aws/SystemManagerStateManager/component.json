@@ -1,5 +1,0 @@
-{
-    "name": "AWS Systems Manager State Manager",
-    "short": "A service on AWS that automates the process of keeping your Amazon EC2 and hybrid infrastructure in a state that you define.",
-    "description": "AWS Systems Manager State Manager is a service that automates the process of keeping your AWS resources in a desired state, such as configuration settings. It allows you to define and maintain consistent resource configurations, apply them across your environment, or automate them to maintain security and compliance. You can create associations, which are policy-based rules, for enforcing consistent configurations on your resources. It integrates with other AWS services and supports various platforms, simplifying resource management."
-}

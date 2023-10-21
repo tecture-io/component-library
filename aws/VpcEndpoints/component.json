@@ -1,5 +1,0 @@
-{
-    "name": "Amazon VPC Endpoints",
-    "short": "A feature in Amazon VPC that allows private connectivity to AWS services without requiring an internet gateway, VPN, or AWS Direct Connect.",
-    "description": "Amazon VPC Endpoints facilitate private connectivity between your VPC and AWS services, without requiring internet, VPN, or AWS Direct Connect. This maintains network security by avoiding data exposure to the public internet. It supports two types: Gateway (for S3 and DynamoDB) and Interface (for other AWS services). These endpoints are horizontally scalable and highly available, providing reliable service access. VPC Endpoints are integral in enforcing security policies and achieving low-latency access to AWS services."
-}

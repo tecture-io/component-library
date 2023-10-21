@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 H1 Instances",
-    "short": "These are high disk throughput instances on AWS that provide low cost magnetic storage.",
-    "description": "Amazon EC2 H1 Instances are a type of Amazon EC2 instance optimized for high disk throughput and designed for big data workloads. These instances are backed by large hard disk drives (HDDs), making them suitable for applications that require high sequential read/write access to large datasets on local storage. H1 instances are ideal for MapReduce-based workloads, distributed file systems, network file systems, log or data processing applications, and big data workload clusters."
-}

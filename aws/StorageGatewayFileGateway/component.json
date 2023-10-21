@@ -1,5 +1,0 @@
-{
-    "name": "AWS Storage Gateway - File Gateway",
-    "short": "A hybrid storage service on AWS that enables on-premises applications to seamlessly use AWS cloud storage.",
-    "description": "AWS Storage Gateway's File Gateway is a hybrid cloud storage service that provides on-premises applications with file-based, cached access to virtually unlimited cloud storage. It seamlessly integrates with S3, storing data as native S3 objects and enabling cost-effective and scalable storage for backup, archiving, disaster recovery, and cloud bursting. File Gateway supports NFS and SMB protocols, ensuring compatibility with existing applications. It provides low-latency access to data through intelligent caching, offering a blend of local and cloud storage."
-}

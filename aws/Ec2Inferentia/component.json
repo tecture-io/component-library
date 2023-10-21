@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 Inf1 Instances",
-    "short": "A type of AWS EC2 instance optimized for machine learning inference applications.",
-    "description": "Amazon EC2 Inf1 Instances are a part of Amazon's EC2 (Elastic Compute Cloud) service, specifically designed for machine learning inferencing tasks. They provide high performance at low cost, making them ideal for large scale machine learning workloads. Inf1 instances use AWS Inferentia chips, which offer high throughput, low latency, and superior power efficiency. They support popular frameworks like TensorFlow and PyTorch. So, for cost-effective, scalable, and efficient ML inferencing, Inf1 instances are a go-to choice."
-}

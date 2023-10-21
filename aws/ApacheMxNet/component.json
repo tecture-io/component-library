@@ -1,5 +1,0 @@
-{
-    "name": "Amazon SageMaker",
-    "short": "A machine learning service on AWS that enables developers to build, train, and deploy machine learning models quickly.",
-    "description": "Amazon SageMaker is a fully-managed service that empowers developers and data scientists to build, train, and deploy machine learning (ML) models quickly. It provides an integrated Jupyter authoring notebook for easy access to data sources for exploration and analysis. It supports various ML algorithms, or bring your own. With SageMaker, users can scale and tune models automatically, reducing time and resources. Its secure, high-performance runtime makes it easier to deploy production-ready, real-time ML applications."
-}

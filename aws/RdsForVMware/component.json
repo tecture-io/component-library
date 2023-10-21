@@ -1,5 +1,0 @@
-{
-    "name": "Amazon RDS on VMware",
-    "short": "A service that makes it easy to set up, operate, and scale databases in VMware vSphere private data centers, or on AWS.",
-    "description": "Amazon RDS on VMware is a service allowing the use of managed relational databases in on-premises VMware environments. It provides cost-efficient, resizable capacity for an industry-standard relational database and manages common database tasks, freeing up developers to focus on applications. The service supports several database engines, including MySQL, PostgreSQL, and SQL Server. It combines the benefits of AWS RDS such as automated backups, software patching, and failure detection, with your on-premises VMware infrastructure."
-}

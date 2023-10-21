@@ -1,5 +1,0 @@
-{
-    "name": "AWS VMware Cloud on AWS",
-    "short": "A hybrid cloud service on AWS that allows you to run applications across private, public, and hybrid cloud environments using VMware in AWS.",
-    "description": "AWS VMware Cloud on AWS is a hybrid cloud service that enables businesses to seamlessly migrate and extend their on-premises VMware vSphere-based environments to the AWS Cloud. This service simplifies the process of moving apps between on-premise environments and AWS without the need for conversions. It provides enterprise-class application performance, reliability, and security. Its features include elastic infrastructure, simplified networking and security, and seamless workload portability, making it ideal for disaster recovery, data center consolidation, and on-demand capacity."
-}

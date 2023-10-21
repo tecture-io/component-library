@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Button",
-    "short": "A programmable button based on the Amazon Dash Button hardware that connects to AWS services over Wi-Fi.",
-    "description": "The AWS IoT Button is a programmable button-based device that connects to AWS services through Wi-Fi. It triggers a Lambda function to execute a pre-defined action. This might include making a web request, sending an alert, or starting/stopping a process. It's a simple way to get started with AWS IoT and other AWS services, enabling developers to create innovative, tactile, real-world interactions in their applications. It's durable, portable and needs no wiring or complex setup."
-}

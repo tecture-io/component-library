@@ -1,5 +1,0 @@
-{
-    "name": "Amazon QLDB (Quantum Ledger Database)",
-    "short": "A fully managed ledger database provided by AWS that provides transparent, immutable, and cryptographically verifiable transaction logs.",
-    "description": "Amazon QLDB (Quantum Ledger Database) is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log. It's owned by a central trusted authority and offers a complete history of data changes over time. It's designed to handle scalable document storage and flexible querying. It ensures the integrity of data by using SHA-256 cryptographic hashing. Ideal for systems that require secure, accurate and verifiable record keeping, QLDB simplifies the process of creating ledger applications."
-}

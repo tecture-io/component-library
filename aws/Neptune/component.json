@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Neptune",
-    "short": "A fast, reliable, fully-managed graph database service on AWS that makes it easy to build and run applications that work with highly connected datasets.",
-    "description": "Amazon Neptune is a managed graph database service by AWS, designed for storing and querying highly connected data. It supports popular graph models like Property Graph and RDF, with APIs such as Gremlin and SPARQL. Neptune is perfect for building knowledge graphs, fraud detection systems, recommendation engines, etc. It ensures fast, reliable, and secure operations with features like ACID transactions, automated backups, and encryption. With Neptune, developers can easily manage data relationships at scale."
-}

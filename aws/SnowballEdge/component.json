@@ -1,5 +1,0 @@
-{
-    "name": "AWS Snowball Edge",
-    "short": "A physical data transport solution that uses secure appliances to transfer large amounts of data into and out of AWS.",
-    "description": "AWS Snowball Edge is a data migration and edge computing device with on-board storage and compute capabilities. It lets you collect, process, and move large amounts of data into and out of AWS, offline or in network-constrained environments. It supports local data processing, machine learning, and storage, reducing latency and allowing workloads even without a network connection. It's designed to be rugged and secure for harsh field locations, ensuring data integrity and security during transit."
-}

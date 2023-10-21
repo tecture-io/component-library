@@ -1,5 +1,0 @@
-{
-    "name": "Amazon CloudWatch Event Based",
-    "short": "A service within AWS that delivers a near real-time stream of system events that describe changes in AWS resources.",
-    "description": "Amazon CloudWatch Events is a service that delivers a near real-time stream of system events describing changes in AWS resources. It helps respond to state changes in your AWS resources, automate system responses, and streamline operations. With simple rules, you can match events and route them to one or many targets like Lambda functions, Kinesis streams, or SNS topics. It provides a robust system for event-driven architecture, ensuring timely response to environment changes, aiding in system monitoring and security."
-}

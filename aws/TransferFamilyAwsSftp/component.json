@@ -1,5 +1,0 @@
-{
-    "name": "AWS Transfer for SFTP",
-    "short": "A secure and scalable service on AWS that enables the transfer of files directly into and out of Amazon S3 using the Secure File Transfer Protocol (SFTP).",
-    "description": "AWS Transfer for SFTP is a service that enables secure data transfer to and from AWS over Secure File Transfer Protocol (SFTP). It integrates with existing authentication systems and supports data transfer via Amazon S3 or EFS. The service is fully managed, eliminating the need for maintaining and patching SFTP servers. It can handle high volumes of file transfers and can scale automatically based on workload needs. This service provides a secure and efficient way to move data into and out of AWS."
-}

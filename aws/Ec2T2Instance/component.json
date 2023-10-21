@@ -1,5 +1,0 @@
-{
-    "name": "AAmazon EC2 T2 instances",
-    "short": "A web service on AWS that provides secure, resizable compute capacity in the cloud.",
-    "description": "Amazon EC2 is a web-based service that provides resizable compute capacity in the cloud. It aims at making web-scale computing easier for developers, offering complete control of computing resources and letting you run on Amazon\u2019s proven computing environment. EC2 reduces the time required to obtain and boot new server instances to minutes, allowing quick scale capacity, both up and down, as your computing requirements change. EC2 provides developers the tools to build failure resilient applications and isolate them from common failure scenarios."
-}

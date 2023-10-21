@@ -1,5 +1,0 @@
-{
-    "name": "AWS CodeArtifact",
-    "short": "A fully managed software artifact repository service in AWS that makes it easy for organizations of any size to securely store, publish, and share packages used in their software development process.",
-    "description": "AWS CodeArtifact is a fully managed software artifact repository service, enabling secure, scalable, and cost-effective sharing of software packages used in the development process. It supports popular package managers like npm, Maven, and Gradle. CodeArtifact eliminates the need for setting up, operating, and scaling infrastructure for package management, thereby accelerating software development. It integrates with AWS services, DevOps tools and is compliant with corporate governance and industry standards."
-}

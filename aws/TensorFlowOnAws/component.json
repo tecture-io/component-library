@@ -1,5 +1,0 @@
-{
-    "name": "Amazon TensorFlow on AWS",
-    "short": "An AWS service that helps developers to build, train, and deploy machine learning models quickly.",
-    "description": "Amazon SageMaker is a fully managed machine learning service that enables developers and data scientists to quickly build, train, and deploy machine learning models. It provides an integrated Jupyter authoring notebook and other tools for easy model building and training. With automatic model tuning, it optimizes model accuracy. It also supports a broad set of ML algorithms and frameworks. SageMaker ensures secure, scalable, and cost-effective machine learning, accelerating the path from idea to implementation."
-}

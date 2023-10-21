@@ -1,5 +1,0 @@
-{
-    "name": "AWS MFA (Multi-Factor Authentication) Token",
-    "short": "A security feature in AWS that requires users to present two separate forms of identification in order to access AWS resources.",
-    "description": "AWS Identity and Access Management (IAM) Multi-Factor Authentication (MFA) is a security feature that adds an extra layer of protection to your AWS account. It requires users to present two or more separate forms of identification (factors) before they can access AWS resources. These factors include something you know (password), something you have (security device), and something you are (biometric data). MFA reduces the risk of unauthorized access, thus enhancing the security of your AWS resources."
-}

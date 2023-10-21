@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Device Gateway",
-    "short": "A communication service in AWS that enables devices to interact with AWS IoT.",
-    "description": "The AWS IoT Device Gateway enables IoT devices to securely and efficiently communicate with AWS IoT services. It supports MQTT, WebSockets, and HTTP 1.1 protocols, while ensuring secure bidirectional communication between devices and AWS. It also enables message routing to other AWS services. The Device Gateway scales automatically to accommodate device connectivity and message throughput, reducing the need for developers to manage infrastructure, and allows for seamless device communication within the AWS ecosystem."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "AWS Mobile Client",
-    "short": "A development platform on AWS for building secure, scalable mobile and web applications.",
-    "description": "AWS Amplify is a cloud-based development platform used to build scalable and secure mobile and web applications. It offers tools to configure app backends and integrate them into your app in minutes. Key features include authentication, analytics, APIs (REST, GraphQL), storage, and hosting. With Amplify, you can manage scalable applications with serverless functions and database interactions. It supports popular frameworks like React, Angular, and Vue.js. Amplify is designed to enhance developer productivity, allowing more focus on app logic rather than infrastructure."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Lex",
-    "short": "A service for building conversational interfaces into any application using voice and text on AWS.",
-    "description": "Amazon Lex is a service for building conversational interfaces into applications using voice and text. Leveraging advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to understand the intent, it enables creating sophisticated, natural language chatbots. It integrates seamlessly with AWS Lambda, enabling functionality execution and data retrieval from services like Amazon DynamoDB. Lex aids in developing user-engaging experiences for both voice and text-based applications."
-}

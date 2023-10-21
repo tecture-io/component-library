@@ -1,5 +1,0 @@
-{
-    "name": "Amazon VPC Traffic Mirroring",
-    "short": "A feature in Amazon VPC that captures and inspects network traffic in your virtual private cloud.",
-    "description": "Amazon VPC Traffic Mirroring is an AWS service that captures and inspects network traffic in your Virtual Private Cloud (VPC). It mirrors inbound and outbound traffic at the Elastic Network Interface (ENI) level to analyze packet-level data, aiding in performance monitoring, threat detection, and troubleshooting. It supports various traffic filtering rules and integrates well with analysis tools. Traditional network monitoring methods in cloud environments fall short, but VPC Traffic Mirroring provides granular, real-time insights."
-}

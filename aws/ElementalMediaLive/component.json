@@ -1,5 +1,0 @@
-{
-    "name": "AWS Elemental MediaLive",
-    "short": "A live video processing service that lets you create high-quality video streams for broadcast television and multiscreen devices.",
-    "description": "AWS Elemental MediaLive is a broadcast-grade live video processing service. It allows users to create high-quality video streams for television broadcasts and multi-screen devices like smartphones or smart TVs. The service can handle everything from a small event to a global sports event. It supports a variety of inputs and codecs, allowing for real-time compression, ad insertion, and the creation of multiple output streams. With MediaLive, users can enrich their content, increase viewership, and optimize costs."
-}

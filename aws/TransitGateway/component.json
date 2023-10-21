@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Transit Gateway",
-    "short": "A service that simplifies the process of connecting multiple VPCs and on-premises networks in a secure and scalable manner on AWS.",
-    "description": "Amazon Transit Gateway is a network transit hub for connecting your VPCs and on-premises networks at scale. It simplifies network architecture, reduces operational overhead, and offers easy management. Transit Gateways act as a hub that controls how traffic is routed among all connected networks. It integrates with AWS Direct Connect, VPN, and Route Tables for a unified, scalable networking solution. Its support for multicast applications and inter-region peering further enhances network performance and reliability."
-}

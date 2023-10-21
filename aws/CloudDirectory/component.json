@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Cloud Directory",
-    "short": "A scalable and flexible high-performance directory service on AWS for organizing hierarchical data.",
-    "description": "Amazon Cloud Directory is a scalable, high-performance, multi-tenant directory service. It allows for organizing hierarchal data across multiple dimensions for flexible cloud-native directories. Cloud Directory's schemas, fully managed scaling, and automatic backups make it a secure and reliable solution for application directories, device registries, or organizational charts. With support for multiple hierarchies and extensible schemas, it facilitates the development of versatile applications without infrastructure management."
-}

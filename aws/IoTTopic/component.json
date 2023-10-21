@@ -1,5 +1,0 @@
-{
-    "name": "AWS IoT Topics",
-    "short": "A communication channel in AWS IoT Core that allows devices to communicate with AWS services.",
-    "description": "AWS IoT Topics is a communication channel that allows devices to communicate with AWS IoT. It\u2019s a part of AWS IoT Core, facilitating messaging between devices and AWS services. Devices publish messages to topics, and other devices or services that subscribe to these topics receive the messages. Topics support multi-level hierarchies for organization and fine-grained access control. This enables efficient and secure device-to-cloud, cloud-to-device, and device-to-device communication, supporting IoT applications' functionality and scalability."
-}

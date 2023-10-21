@@ -1,5 +1,0 @@
-{
-    "name": "AWS Ground Station",
-    "short": "A service on AWS that provides satellite communication as a service for space-to-ground connectivity.",
-    "description": "AWS Ground Station is a fully managed service that allows users to control satellite communications, process data, and scale operations without having to worry about ground infrastructure. It provides direct access to AWS services and the global infrastructure for storing, analyzing, and transferring data from satellites. This eliminates the need for investment in ground antennas and infrastructure. AWS Ground Station is ideal for space enterprises, research organizations, weather forecasters, and other data-driven entities."
-}

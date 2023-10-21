@@ -1,5 +1,0 @@
-{
-    "name": "AWS Storage Gateway Virtual Tape Library",
-    "short": "A hybrid storage service on AWS that allows data backup, archiving, and disaster recovery through a virtual tape infrastructure.",
-    "description": "The AWS Storage Gateway Virtual Tape Library (VTL) is a part of the AWS Storage Gateway service, enabling the archival of data in AWS as virtual tapes. It provides a cost-effective, scalable, and durable solution for backup and archiving. Users can leverage their existing tape-based backup application infrastructure to store data on virtual tape cartridges that are stored in Amazon S3 or Glacier. It's fully managed by AWS, eliminating the operational burden of maintaining physical tape infrastructure."
-}

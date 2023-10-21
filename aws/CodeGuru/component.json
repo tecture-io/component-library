@@ -1,5 +1,0 @@
-{
-    "name": "Amazon CodeGuru",
-    "short": "An AI-powered developer tool on AWS that provides intelligent recommendations for improving code quality and performance.",
-    "description": "Amazon CodeGuru is an AWS machine learning service that helps improve code quality and application performance. It consists of two components: CodeGuru Reviewer and CodeGuru Profiler. Reviewer uses machine learning to identify critical issues, security vulnerabilities, and hard-to-find bugs during code reviews. Profiler helps developers identify the most expensive lines of code. By providing specific recommendations to fix or improve your code, CodeGuru empowers developers to write better, more efficient, and bug-free code."
-}

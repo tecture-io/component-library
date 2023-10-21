@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Backint Agent",
-    "short": "A fully managed backup service in AWS that centralizes and automates the backup of data across AWS services.",
-    "description": "AWS Backup is a centralized, fully-managed backup service that simplifies data protection across AWS services. It automates backup tasks, such as scheduling, retention policy application, and backup monitoring, reducing operational complexity. AWS Backup supports various AWS services, including EC2, RDS, DynamoDB, EFS, and more. It provides a unified, user-friendly interface to manage and govern backup activities, offering features like backup encryption, lifecycle management, and compliance controls."
-}

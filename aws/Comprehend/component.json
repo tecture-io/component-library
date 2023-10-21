@@ -1,5 +1,0 @@
-{
-    "name": "Amazon Comprehend",
-    "short": "A natural language processing (NLP) service that uses machine learning to find insights and relationships in text.",
-    "description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to analyze text. It can identify the language, extract key phrases, places, people, brands, or events, understand sentiment, and extract text in multiple languages. Comprehend can be applied to a vast range of applications, such as analyzing customer feedback, social media monitoring, and content personalization. It's fully managed, meaning no machine learning expertise is required, and you only pay for what you use."
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Amazon ECS (Elastic Container Service) - Container 2",
-    "short": "A scalable, high-performance container orchestration service on AWS that supports Docker containers.",
-    "description": "Amazon Elastic Container Service (ECS) is a scalable, high-performance container orchestration service that supports Docker containers. It lets you easily run, stop, and manage containers across a cluster of servers. ECS eliminates the need for you to install, operate, and scale your own cluster management infrastructure. It integrates with other AWS services for added functionality like security, networking, and storage options. ECS also supports both long-running applications and short, burstable tasks, making it versatile for a wide range of workloads."
-}

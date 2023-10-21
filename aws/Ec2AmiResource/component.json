@@ -1,5 +1,0 @@
-{
-    "name": "Amazon EC2 AMI",
-    "short": "A pre-configured snapshot on AWS that contains the OS and software stack needed to launch a virtual server on Amazon EC2.",
-    "description": "An Amazon EC2 AMI (Amazon Machine Image) is a template that contains a software configuration (operating system, application server, applications) used to launch an instance, which is a virtual server in the cloud. AMIs are region-specific and can be shared or copied between regions. They are the fundamental building blocks for deploying services in EC2, allowing rapid scaling and disaster recovery. EC2 AMIs offer flexibility, efficiency, and security for AWS-based applications."
-}
