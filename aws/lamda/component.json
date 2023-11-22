@@ -1,0 +1,6 @@
+{
+  "uid": "lambda-function",
+  "name": "Lambda Function",
+  "shortDescription": "Lambda function short description",
+  "description": "Lambda function long description"
+}
