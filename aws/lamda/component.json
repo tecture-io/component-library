@@ -1,6 +1,6 @@
 {
   "uid": "lambda-function",
   "name": "Lambda Function",
-  "shortDescription": "Lambda function short description",
+  "shortDescription": "A serverless function that runs on AWS Lambda",
   "description": "Lambda function long description"
 }
