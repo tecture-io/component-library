@@ -1,0 +1,8 @@
+{
+  "uid": "aws_cloud",
+  "name": "AWS Cloud",
+  "shortDescription": "Amazon Web Services",
+  "description": "Amazon Web Services (AWS) is a collection of remote computing services, also called web services, that make up a cloud computing platform offered by Amazon.com. These services are based on a pay-as-you-go model.",
+  "type": "Container",
+  "colour": "#FF9900"
+}
